@@ -1,0 +1,431 @@
+{
+  "Thema 1": {
+    "Paragraaf 1": {
+      "_meta": {
+        "flip": false
+      },
+      "organisme": "levend wezen",
+      "levenskenmerken": "kenmerken die alleen levende organismen hebben",
+      "levend": "iets wat levenskenmerken heeft",
+      "dood": "iets wat vroeger heeft geleefd",
+      "levenloos": "iets wat nooit heeft geleefd"
+    },
+    "Paragraaf 2": {
+      "_meta": {
+        "flip": false
+      },
+      "groei": "groter en zwaarder worden",
+      "zaadhuid": "beschermend vliesje om een zaad",
+      "navel": "plaats waar het zaad vastzat aan de vrucht",
+      "poortje": "plaats waar het zaad water opneemt",
+      "kiem": "het beginsel van een nieuwe plant",
+      "kieming": "proces waarbij een zaad water opneemt",
+      "zaadlobben": "onderdeel van een zaad waarin voedingsstoffen opgeslagen zijn die verbruikt worden tijdens de kieming",
+      "levenscyclus": "ontwikkeling van jong tot volwassen organisme",
+      "ontwikkeling": "proces waarbij de bouw van een organisme verandert"
+    },
+    "Paragraaf 3": {
+      "_meta": {
+        "flip": false
+      },
+      "larve": "een jong dier dat nog geen metamorfose is ondergaan",
+      "metamorfose": "veranderingen van lichaamsbouw en levenswijze van een dier",
+      "stadium": "fase in het leven van een dier bij metamorfose",
+      "cocon": "omhulsel dat een rups heeft tijdens de metamorfose",
+      "pop": "omhulsel met een rups erin",
+      "imago": "volwassen vlinder"
+    },
+    "Paragraaf 4": {
+      "_meta": {
+        "flip": false
+      },
+      "lichamelijke ontwikkeling": "veranderingen in het lichaam",
+      "geestelijke ontwikkeling": "veranderingen van verstand, gevoelsleven en persoonlijkheid",
+      "motorische ontwikkeling": "het leren van bewegingen",
+      "levensfasen": "fasen waarin lichamelijke, geestelijke of motorische ontwikkelingen plaatsvinden",
+      "baby": "kind van 0 tot 1,5 jaar; tijdens deze periode groeit een kind snel.",
+      "groeispurt": "periode van snelle groei",
+      "peuter": "kind van 1,5 tot 4 jaar; tijdens deze periode leert een kind onder andere praten en lopen",
+      "kleuter": "kind van 4 tot 6 jaar; tijdens deze periode leert een kind onder andere fietsen, tekenen en samen spelen",
+      "schoolkind": "kind van 6 tot 12 jaar; tijdens deze periode leert een kind onder andere lezen, schrijven en rekenen",
+      "puber": "persoon van 12 tot 16 jaar oud die sterke lichamelijke en geestelijke ontwikkelingen ondergaat",
+      "puberteit": "periode in het leven van een mens van 12 tot 16 jaar; tijdens deze periode begint de tweede groeispurt en vindt een sterke lichamelijke en geestelijke ontwikkeling plaats",
+      "adolescent": "persoon van 16 tot 21 jaar; tijdens deze periode wordt de persoon geheel zelfstandig",
+      "volwassene": "persoon van 21 tot 65 jaar; tijdens deze periode is een persoon geheel zelfstandig",
+      "oudere": "persoon van 65 jaar en ouder; tijdens deze periode kan een persoon last krijgen van lichamelijke problemen",
+      "bejaarde": "persoon van 65 jaar en ouder; tijdens deze periode heeft een persoon vaak hulp nodig"
+    },
+    "Paragraaf 5": {
+      "_meta": {
+        "flip": false
+      },
+      "voedingsstoffen": "stoffen die nodig zijn voor de groei en ontwikkeling van een organisme",
+      "glucose": "energierijke stof die een plant aanmaakt door fotosynthese",
+      "fotosynthese": "proces waarbij een plant glucose maakt met behulp van energie uit zonlicht"
+    },
+    "Paragraaf 6": {
+      "_meta": {
+        "flip": false
+      },
+      "gestroomlijnd": "geleidelijk in elkaar overgaan",
+      "uitdroging": "te veel water verliezen",
+      "kegelsnavel": "korte snavel waarmee een vogel veel kracht kan zetten en daardoor geschikt is om zaden mee te eten",
+      "pincetsnavel": "puntige snavel waarmee een vogel bijvoorbeeld in spleten kan komen en daardoor geschikt is om insecten mee te vangen",
+      "haaksnavel": "scherpe snavel waarmee een vogel prooidieren in stukken kan scheuren",
+      "priemsnavel": "lange snavel waarmee een vogel diep in een natte bodem kan prikken en daardoor geschikt is om bodemdiertjes te eten",
+      "zeefsnavel": "platte snavel waarmee een vogel water kan zeven en daardoor geschikt is om plankton te eten",
+      "zoolganger": "een dier dat op zijn hele voetzool loopt",
+      "teenganger": "een dier dat op zijn tenen loopt",
+      "topganger": "een dier dat op de toppen van zijn tenen loopt",
+      "schutkleur": "een kleur waarmee organismen zich bijna onzichtbaar maken voor vijanden"
+    },
+    "Paragraaf *7": {
+      "_meta": {
+        "flip": false
+      },
+      "fossiele brandstoffen": "brandstoffen die zijn gevormd uit resten van dode organismen die miljoenen jaren geleden in de zeebodem terecht zijn gekomen",
+      "grondstoffen": "stoffen waarvan producten worden gemaakt"
+    },
+    "Paragraaf *8": {
+      "_meta": {
+        "flip": false
+      },
+      "nestblijver": "dier dat na de geboorte hulpeloos is",
+      "nestvlieder": "een dier dat snel na de geboorte het nest verlaat"
+    },
+    "Leren Onderzoeken": {
+      "_meta": {
+        "flip": false
+      },
+      "natuurgetrouwe tekening": "tekening waarin alle details zo nauwkeurig mogelijk staan",
+      "schematische tekening": "tekening zonder details met alleen de belangrijkste kenmerken",
+      "buitenaanzicht": "de buitenkant van een organisme of voorwerp",
+      "lengtedoorsnede": "in de lengte doorsnijden",
+      "dwarsdoorsnede": "dwars doorsnijden",
+      "tabel": "schema met rijen en kolommen",
+      "grafiek": "tekening met een horizontale en een verticale as waarin resultaten worden weergegeven",
+      "x-as": "horizontale lijn in een grafiek",
+      "y-as": "verticale lijn in een grafiek",
+      "gemiddelde": "meerdere metingen bij elkaar opgeteld gedeeld door het aantal metingen"
+    }
+  },
+  "Thema 2": {
+    "Paragraaf 1": {
+      "_meta": {
+        "flip": false
+      },
+      "orgaan": "deel van een organisme dat een bepaalde taak uitvoert",
+      "orgaanstelsel": "groep van samenwerkende organen die gezamenlijk een bepaalde functie hebben"
+    },
+    "Paragraaf 2": {
+      "_meta": {
+        "flip": false
+      },
+      "hoofdwortel": "de wortel van een plant die naar beneden groeit",
+      "zijwortel": "vertakkingen van een hoofdwortel",
+      "wortelharen": "dunne uitstulpingen aan de uiteinden van wortels",
+      "wortelstelsel": "alle wortels van een plant",
+      "mineralen": "opgeloste zouten in het water in de bodem die nodig zijn om planten in leven te houden",
+      "reservestoffen": "stoffen die een organisme niet meteen nodig heeft en opslaat voor later gebruik",
+      "houtachtige planten": "planten waarbij de stengels stevig zijn omdat ze veel hout bevatten",
+      "kruidachtige planten": "planten waarbij de stengels alleen stevig zijn als ze genoeg water kunnen opnemen",
+      "bladsteel": "deel van een blad waarmee het aan de stengel vastzit",
+      "bladschijf": "het platte gedeelte van een blad",
+      "nerven": "structuren in een blad die zorgen voor stevigheid en transport van water en andere stoffen",
+      "bladmoes": "materiaal in een blad dat tussen de nerven ligt",
+      "vaten": "lange dunne buisjes in de stengel van een plant die water, mineralen en glucose transporteren",
+      "vaatbundel": "groep vaten die bij elkaar in een plant liggen",
+      "vatenstelsel": "alle vaten van een plant"
+    },
+    "Paragraaf 3": {
+      "_meta": {
+        "flip": false
+      },
+      "cellen": "bouwstenen van organismen",
+      "weefsel": "een groep cellen met dezelfde vorm en functie",
+      "tussencelstof": "vloeibare of harde stof die tussen de cellen ligt",
+      "opperhuid": "een laag cellen aan de buitenkant van een blad die beschermt tegen invloeden van buitenaf",
+      "huidmondjes": "kleine openingen in een blad van een plant, die koolstofdioxide opnemen uit de lucht en zuurstof afgeven",
+      "cambium": "laag cellen dicht onder de schors die nieuw hout vormt richting het midden van de boomstam",
+      "jaarring": "al het hout in een boomstam dat in één jaar is gevormd"
+    },
+    "Paragraaf 4": {
+      "_meta": {
+        "flip": false
+      },
+      "cytoplasma (celplasma)": "dikke vloeistof die bestaat uit water met opgeloste stoffen",
+      "celmembraan": "een dun vliesje om het cytoplasma",
+      "celkern": "deel van een cel dat bestaat uit kernplasma en dat is omgeven door het kernmembraan, het regelt alles wat er in de cel gebeurt",
+      "kernplasma": "stof in de celkern",
+      "kernmembraan": "membraan om het kernplasma",
+      "celwand": "een stevig laagje om een plantaardige cel",
+      "vacuole": "blaasje in plantaardige cellen dat gevuld is met vocht",
+      "plastiden": "korrels in een plantaardige cel met een speciale functie, bijvoorbeeld: bladgroenkorrels, kleurstofkorrels en zetmeelkorrels",
+      "bladgroenkorrels": "plastiden waar fotosynthese plaatsvindt",
+      "kleurstofkorrels": "plastiden die bloemen en vruchten hun kleur geven",
+      "zetmeelkorrels": "plastiden waarin zetmeel is opgeslagen",
+      "celorganellen": "delen van een cel met een eigen functie"
+    },
+    "Paragraaf 5": {
+      "_meta": {
+        "flip": false
+      },
+      "chromosomen": "dunne ‘draden’ bestaande uit DNA die alles regelen wat er in de cel gebeurt",
+      "lichaamscellen": "de cellen waaruit je lichaam is opgebouwd",
+      "DNA": "twee strengen opgebouwd uit vier basen die informatie voor je erfelijke eigenschappen bevatten",
+      "basen": "vier onderdelen van DNA die worden aangegeven met de letters: A, T, C en G",
+      "basenpaar": "twee basen die precies in elkaar passen, dit zijn: A-T en C-G",
+      "erfelijke eigenschappen": "eigenschappen waarvoor je de informatie van je ouders erft",
+      "gen": "basenparen die samen nodig zijn voor één of meer eigenschappen"
+    },
+    "Paragraaf 6": {
+      "_meta": {
+        "flip": false
+      },
+      "celdeling": "ontstaan van nieuwe cellen",
+      "moedercel": "cel waaruit twee nieuwe cellen ontstaan door celdeling",
+      "dochtercellen": "cellen die ontstaan bij celdeling",
+      "plasmagroei": "groei van een cel door de toename van de hoeveelheid cytoplasma",
+      "gespecialiseerde cel": "cel met een bepaalde functie",
+      "celcyclus": "het terugkerende proces van celdeling, groei, en weer een nieuwe celdeling",
+      "stamcel": "cellen die zich oneindig vaak kunnen delen",
+      "embryonale stamcel": "cellen waaruit alle verschillende typen cellen kunnen ontstaan"
+    },
+    "Paragraaf *7": {
+      "_meta": {
+        "flip": false
+      },
+      "eencelligen": "uit één cel bestaand",
+      "amoebe": "eencellig organisme dat zich voortbeweegt door het vormen van schijnvoetjes en voedsel verteert in voedingsvacuolen",
+      "pantoffeldiertje": "eencellig organisme dat zich voortbeweegt door middel van trilhaartjes en voedsel verteert in voedingsvacuolen",
+      "schijnvoetjes": "uitsteeksels van een amoebe die gevormd worden doordat het cytoplasma in één richting stroomt",
+      "voedingsvacuole": "blaasje in de cel waar voedsel wordt verteerd en vervolgens wordt opgenomen in het cytoplasma",
+      "trilhaartjes": "dunne uitsteeksels op het celmembraan van een pantoffeldiertje waardoor het kan bewegen en eten",
+      "celmond": "instulping in de cel waar voedsel terechtkomt in een voedingsvacuole.",
+      "celanus": "deel van de cel waar onverteerde resten worden verwijderd"
+    },
+    "Paragraaf *8": {
+      "_meta": {
+        "flip": false
+      },
+      "DNA-verwantschapsonderzoek": "onderzoek waarbij het DNA van mensen wordt vergeleken om te bepalen of zij familie van elkaar zijn",
+      "DNA-profiel": "een tekening of tabel van het DNA van een persoon",
+      "bandje": "streepjes die het aantal herhalingen van dezelfde basenvolgorde in het DNA weergeven"
+    },
+    "Leren Onderzoeken": {
+      "_meta": {
+        "flip": false
+      },
+      "lichtmicroscoop": "microscoop waarmee je een voorwerp tot bijna 1000× kunt vergroten",
+      "elektronenmicroscoop": "microscoop waarmee je een voorwerp tot bijna 1 000 000× kunt vergroten",
+      "statief": "deel van de microscoop waaraan je hem vastpakt",
+      "oculair": "bovenste lens van een microscoop waar je doorheen kijkt",
+      "tubus": "buis van een microscoop waarin het oculair zit",
+      "revolver": "deel van een microscoop waarmee je een ander objectief kunt kiezen",
+      "objectieven": "onderste lenzen van een microscoop",
+      "grote schroef": "deel van een microscoop waarmee je de tafel of de tubus van een microscoop beweegt",
+      "kleine schroef": "deel van een microscoop waarmee je nauwkeurig kunt scherpstellen",
+      "tafel": "deel van een microscoop waar je een preparaat oplegt",
+      "preparaat": "voorwerp dat je onder een microscoop wilt bekijken",
+      "preparaatklem": "deel van een microscoop waarmee je een preparaat vastklemt aan de tafel",
+      "preparaatbeveiliging": "deel van een microscoop dat voorkomt dat het objectief tegen het preparaat komt",
+      "voorwerpglas": "dik glaasje waar het voorwerp op ligt dat je door een microscoop wilt bekijken",
+      "dekglas": "dun glaasje dat je op een voorwerp legt dat je onder de microscoop wilt bekijken"
+    }
+  },
+  "Thema 3": {
+    "Paragraaf 1": {
+      "_meta": {
+        "flip": false
+      },
+      "kenmerk": "eigenschap waarmee je een organisme kunt onderscheiden van andere organismen",
+      "prokaryoot": "organisme bestaande uit één cel zonder een celkern",
+      "eukaryoot": "organisme bestaande uit één of meerdere cellen met een celkern",
+      "rijk": "organismen binnen een hoofdgroep die zijn ingedeeld in kleinere groepen",
+      "eencellig": "uit één cel bestaand",
+      "meercellig": "uit meerdere cellen bestaand",
+      "vertakkingsschema": "schema waarin je de indeling van organismen in steeds kleinere groepen kunt weergeven"
+    },
+    "Paragraaf 2": {
+      "_meta": {
+        "flip": false
+      },
+      "ras": "groep waarin je de organismen van één soort kunt indelen",
+      "variatie": "kleine verschillen tussen organismen van dezelfde soort",
+      "selectie": "proces waarbij meer nakomelingen overleven van één variant dan van andere varianten",
+      "evolutie": "ontwikkeling van het leven op aarde waarbij soorten ontstaan, veranderen en verdwijnen",
+      "verwant": "overeenkomsten in het DNA van verschillende organismen"
+    },
+    "Paragraaf 3": {
+      "_meta": {
+        "flip": false
+      },
+      "symmetrisch": "in twee gelijke helften te verdelen",
+      "tweezijdig symmetrisch": "op één manier in twee gelijke helften te verdelen",
+      "veelzijdig symmetrisch": "op meerdere manieren in gelijke helften te verdelen",
+      "niet-symmetrisch": "op geen enkele manier in twee gelijke helften te verdelen",
+      "skelet": "stevige delen van een dier",
+      "uitwendig skelet": "een skelet dat aan de buitenkant van een lichaam zit",
+      "inwendig skelet": "een skelet dat aan de binnenkant van een lichaam zit"
+    },
+    "Paragraaf 4": {
+      "_meta": {
+        "flip": false
+      },
+      "vaatplanten": "planten die vaten hebben voor het transport van stoffen",
+      "spore": "cel waaruit een nieuwe plant kan ontstaan",
+      "zaadplanten": "planten met wortels, stengels, bladeren en bloemen",
+      "sporenplanten": "planten met wortels, stengels en bladeren, maar geen bloemen",
+      "wieren (algen)": "eencellige of meercellige organismen met bladgroenkorrels",
+      "groenwieren": "eencellige of meercellige organismen met bladgroenkorrels"
+    },
+    "Paragraaf 5": {
+      "_meta": {
+        "flip": false
+      },
+      "gisten": "eencellige schimmels",
+      "schimmeldraden": "lange dunne draden van meercellige schimmels",
+      "knop": "hieruit ontstaat een nieuwe gistcel",
+      "paddenstoel": "speciaal orgaan waar de sporen in ontstaan bij sommige schimmelsoorten",
+      "infectie": "besmetting met bacteriën of schimmels die ziekten veroorzaken",
+      "biotechnologie": "een verzamelnaam voor technieken waarbij mensen organismen gebruiken om producten te maken",
+      "antibioticum": "geneesmiddel dat bacteriën doodt"
+    },
+    "Paragraaf *7": {
+      "_meta": {
+        "flip": false
+      },
+      "warmbloedig": "de lichaamstemperatuur is altijd even hoog",
+      "koudbloedige dieren": "de lichaamstemperatuur is gelijk aan de temperatuur van de omgeving",
+      "levendbarend": "levende jongen baren (in plaats van eieren leggen)",
+      "zogen": "melk geven van een moeder aan haar jongen"
+    },
+    "Paragraaf *8": {
+      "_meta": {
+        "flip": false
+      },
+      "leden": "stukjes waaruit de poten van geleedpotigen zijn opgebouwd",
+      "segmenten": "stukjes waaruit de poten van geleedpotigen zijn opgebouwd",
+      "kop": "voorste deel van een insect, hieraan zitten de ogen en voelsprieten vast",
+      "borststuk": "middelste deel van een insect, hieraan zitten de poten en vleugels vast",
+      "achterlijf": "achterste deel van een insect"
+    },
+    "Leren Onderzoeken": {
+      "_meta": {
+        "flip": false
+      },
+      "natuurwetenschappelijk onderzoek": "onderzoek dat begint met een onderzoeksvraag en waarbij vaak experimenten gedaan worden",
+      "onderzoeksvraag": "vraag waar je antwoord op wilt vinden",
+      "hypothese": "mogelijk antwoord op een onderzoeksvraag.",
+      "werkplan": "plan waarin staat beschreven hoe je een onderzoek wilt uitvoeren",
+      "resultaten": "waarnemingen en gegevens die je vastlegt",
+      "conclusie": "deel van een onderzoek dat antwoord geeft op de onderzoeksvraag en laat zien of de hypothese juist was",
+      "experimenteel onderzoek": "onderzoek waarbij experimenten worden gedaan om te kijken of de hypothese klopt",
+      "beschrijvend onderzoek": "onderzoek waarbij de onderzoeker beschrijft wat hij waarneemt",
+      "literatuuronderzoek": "onderzoek waarbij overeenkomsten en verschillen worden gezocht uit de informatie in artikelen",
+      "determineren": "organismen in een rijk, een stam of een klasse plaatsen door op de kenmerken te letten"
+    }
+  },
+  "Thema 4": {
+    "Paragraaf 1": {
+      "_meta": {
+        "flip": false
+      },
+      "skelet": "alle botten of beenderen in een lichaam",
+      "botten / beenderen": "delen van het skelet die stevigheid geven, beweging mogelijk maken, bescherming bieden aan kwetsbare organen en vorm geven aan het lichaam",
+      "schedel": "alle botten in het hoofd",
+      "wervelkolom": "deel van het skelet dat bestaat uit de halswervels, borstwervels, lendenwervels, heiligbeen en staartbeen",
+      "borstkas": "deel van het skelet dat bestaat uit de borstwervels, de ribben en het borstbeen",
+      "schoudergordel": "deel van het skelet dat bestaat uit de schouderbladen en de sleutelbeenderen",
+      "bekken": "deel van het skelet dat bestaat uit de heupbeenderen en het heiligbeen"
+    },
+    "Paragraaf 2": {
+      "_meta": {
+        "flip": false
+      },
+      "kalkzouten": "stof die stevigheid geeft aan botweefsel",
+      "collageen": "lijmstof die zorgt voor de buigzaamheid van botten",
+      "kraakbeenweefsel": "buigzaam weefsel in een skelet, dat bestaat uit kraakbeencellen en collageen",
+      "botweefsel": "hard weefsel in het skelet dat bestaat uit botcellen, kalkzouten en collageen",
+      "fontanellen": "ruimten tussen de botten van de schedel van een baby"
+    },
+    "Paragraaf 3": {
+      "_meta": {
+        "flip": false
+      },
+      "vergroeid": "twee of meer beenderen zijn één geheel geworden",
+      "naad": "kronkelige verbinding waar botten aan elkaar vast zitten",
+      "gewricht": "beweegbare verbinding tussen twee botten",
+      "gewrichtskogel": "gewricht waarbij de gewrichtskogel van het ene bot draait in de gewrichtskom van het andere bot",
+      "gewrichtskom": "onderdeel van een gewricht waarin de gewrichtskogel draait",
+      "gewrichtskapsel": "weefsel dat twee botten in een gewricht verbindt en op hun plaats houdt",
+      "kapselbanden": "stevig weefsel dat twee botten in een gewricht op hun plaats houdt",
+      "gewrichtssmeer": "stroperige vloeistof waardoor botten soepel kunnen bewegen",
+      "kogelgewricht": "gewricht waarbij de gewrichtskogel van het ene bot draait in de gewrichtskom van het andere bot",
+      "rolgewricht": "gewricht waarbij het ene bot in de lengteas om het ander bot draait",
+      "scharniergewricht": "gewricht waarbij het ene bot als een scharnier ten opzichte van het andere bot beweegt"
+    },
+    "Paragraaf 4": {
+      "_meta": {
+        "flip": false
+      },
+      "spierstelsel": "alle skeletspieren in het lichaam",
+      "pezen": "weefsels die spieren met botten verbinden",
+      "aanhechtingsplaats": "plaats waar een pees aan een bot vastzit",
+      "biceps": "spier die nodig is om de onderarm te buigen",
+      "triceps": "spier die nodig is om de onderarm te strekken",
+      "antagonistisch paar": "twee spieren met een tegengestelde werking",
+      "orgaanspieren": "spieren in je organen die bewegen zonder dat je je daar bewust van bent"
+    },
+    "Paragraaf 5": {
+      "_meta": {
+        "flip": false
+      },
+      "dubbele-S-vorm": "vorm van het menselijk wervelkolom",
+      "tussenwervelschijven": "schijfjes kraakbeen tussen de wervels",
+      "geleiachtige kern": "veerkrachtig deel van een tussenwervelschijf",
+      "lichaamshouding": "manier waarop je staat en zit",
+      "zithouding": "manier waarop je zit",
+      "bochel": "krom vergroeide rug"
+    },
+    "Paragraaf 6": {
+      "_meta": {
+        "flip": false
+      },
+      "conditie": "hoe gemakkelijk, lang of snel je kunt bewegen",
+      "coördinatie": "samenwerking van verschillende spieren in het lichaam tijdens een activiteit",
+      "motorisch geheugen": "vorm van geheugen die zorgt voor de juiste coördinatie van een beweging",
+      "geautomatiseerde beweging": "beweging die je kunt uitvoeren zonder erbij na te denken",
+      "spierpijn": "pijn die ontstaat na een ongewone belasting van het lichaam",
+      "blessure": "beschadiging van een spier, bot of gewricht",
+      "RSI": "blessure die ontstaat door te vaak achtereen dezelfde beweging te maken"
+    },
+    "Paragraaf *7": {
+      "_meta": {
+        "flip": false
+      },
+      "gewelfd": "gebogen vorm waardoor het gewicht van iets beter gedragen kan worden"
+    },
+    "Paragraaf *8": {
+      "_meta": {
+        "flip": false
+      },
+      "spierscheuring": "blessure van de spieren waarbij spiervezels zijn beschadigd",
+      "botbreuk": "blessure aan het bot waardoor deze in twee of meerdere stukken breekt",
+      "bot zetten": "een arts brengt de twee helften van het bot weer in de goede stand",
+      "kneuzing": "beschadiging van weefsel zonder dat er iets is gescheurd of gebroken",
+      "verzwikking": "kneuzing van een gewricht",
+      "ontwrichting": "blessure waarbij de gewrichtskogel uit de gewrichtskom schiet"
+    },
+    "Leren Onderzoeken": {
+      "_meta": {
+        "flip": false
+      },
+      "staafdiagram": "diagram met staven die de gemiddelden van groepen weergeeft",
+      "lijndiagram": "diagram met één of meer lijnen die de ontwikkeling over een bepaalde tijd of afstand weergeeft",
+      "cirkeldiagram": "diagram in de vorm van een cirkel die de grootte van groepen weergeeft",
+      "proefgroep": "groep in een experimenteel onderzoek die wordt blootgesteld aan een bepaalde factor",
+      "controlegroep": "groep in een experimenteel onderzoek die niet wordt blootgesteld aan een bepaalde factor"
+    }
+  }
+}

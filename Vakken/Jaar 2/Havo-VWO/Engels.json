@@ -1,0 +1,1009 @@
+{
+  "Chapter 1": {
+    "*A Watching (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "crazy": "gek(ke)",
+      "float": "drijven",
+      "gross": "smerig",
+      "honestly": "werkelijk",
+      "lie": "leugen",
+      "ride": "ritje in attractie",
+      "sound": "klinken",
+      "terrifying": "heel eng(e)",
+      "upside-down": "ondersteboven",
+      "vomit": "overgeven"
+    },
+    "A Watching (→)": {
+      "_meta": {
+        "flip": false
+      },
+      "a load of": "een heleboel",
+      "fan": "waaier",
+      "tickle": "kietelen",
+      "tons of": "heel veel",
+      "wee": "klein(e)"
+    },
+    "*B Theme Words (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "Travelling": "Reizen",
+      "abroad": "naar het buitenland",
+      "airport": "luchthaven",
+      "arrival": "aankomst",
+      "border": "grens",
+      "campsite": "camping",
+      "check-in": "incheckbalie",
+      "currency": "valuta, betaalmiddel",
+      "customs": "douane",
+      "departure": "vertrek",
+      "destination": "bestemming",
+      "flight": "vlucht",
+      "luggage": "bagage",
+      "scenery": "landschap",
+      "Packing your suitcase": "Je koffer inpakken",
+      "backpack": "rugzak (AmE)",
+      "beach towel": "strand",
+      "charger": "oplader",
+      "flip-flops": "teenslippers",
+      "headphones": "koptelefoon",
+      "itinerary": "reisbeschrijving, routebeschrijving",
+      "passport": "paspoort",
+      "raincoat": "regenjas",
+      "sleeping bag": "slaapzak",
+      "sunglasses": "zonnebril",
+      "sunscreen": "zonnebrandcrème",
+      "swimwear": "badkleding",
+      "toiletries": "toiletspullen",
+      "toothbrush": "tandenborstel",
+      "toothpaste": "tandpasta",
+      "travel guide": "reisgids"
+    },
+    "*C Reading (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "drag": "slepen, sleuren",
+      "epic": "episch, fantastisch",
+      "famous": "bekend(e)",
+      "ferry": "veerpond",
+      "gorgeous": "prachtig(e)",
+      "incredible": "ongelooflijk(e)",
+      "local": "lokale bewoner",
+      "share": "delen",
+      "smooth": "soepel, gladjes",
+      "steep": "steil",
+      "view": "uitzicht",
+      "wake up": "wakker worden"
+    },
+    "C Reading (→)": {
+      "_meta": {
+        "flip": false
+      },
+      "crooked": "kronkelige",
+      "iconic": "iconisc(e), karacteristiek(e)",
+      "infamous": "berucht(e)",
+      "shove": "duwen"
+    },
+    "*D Speaking & Stones (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "Holiday Activities": "Vakantieactiviteiten",
+      "to be homesick": "heimwee hebben",
+      "to dine out": "uit eten gaan",
+      "to explore": "ontdekken",
+      "to go backpacking": "gaan rondtrekken (met rugzak)",
+      "to go camping": "gaan kamperen",
+      "to go sightseeing": "bezienswaardigheden bezoeken",
+      "to hike": "wandelen",
+      "to hit the beach": "naar het strand gaan",
+      "to pitch your tent": "je tent opzetten",
+      "to rent a bike": "een fiets huren",
+      "to sign up for": "zich inschrijven voor",
+      "to stay at": "logeren bij",
+      "to sunbathe": "zonnebaden",
+      "to take a dip": "gaan zwemmen, een duik nemen",
+      "to take a guided tour": "een rondleiding krijgen",
+      "to take a picture": "een foto maken"
+    },
+    "*F Listening (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "allowed": "toegestaan",
+      "cape": "cape, mantel",
+      "hill": "heuvel",
+      "hood": "capuchon",
+      "hurry": "zich haasten",
+      "immediately": "onmiddelijk",
+      "jumper": "trui",
+      "leak": "lekken",
+      "mind": "erg vinden",
+      "sky": "lucht hemel",
+      "wet": "nat"
+    },
+    "F Listening (→)": {
+      "_meta": {
+        "flip": false
+      },
+      "matching": "dezelfde",
+      "shame": "jammer",
+      "street performer": "straatartiest",
+      "strike": "(in)slaan, raken"
+    },
+    "*G Reading (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "accomplishment": "prestatie",
+      "afford": "zich veroorloven",
+      "claim": "beweren",
+      "fake": "nep",
+      "fire": "ontslaan",
+      "image": "beeld foto",
+      "pretend": "doen alsof",
+      "prove": "bewijzen",
+      "solution": "oplossing",
+      "trust": "vertrouwen"
+    },
+    "G Reading (→)": {
+      "_meta": {
+        "flip": false
+      },
+      "deceit": "bedrog",
+      "disguise": "vermomming",
+      "main": "belangrijkste",
+      "peak": "top"
+    },
+    "*H Speaking & Stones (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "The weather": "Het weer",
+      "bright": "helder, licht",
+      "clear": "helder",
+      "cloudy": "bewolkt",
+      "drizzly": "miezerig, druilerig",
+      "fog": "mist",
+      "hail": "hagel",
+      "heatwave": "hittegolf",
+      "hurricane": "orkaan, wervelstorm",
+      "lightning": "bliksem(flits)",
+      "rainbow": "regenboog",
+      "rainy": "regenachtig",
+      "shower": "regenbui",
+      "stormy": "stormachtig",
+      "sunny": "zonnig",
+      "thunder": "donder, onweer",
+      "windy": "winderig"
+    },
+    "*stone 1": {
+      "_meta": {
+        "flip": false
+      },
+      "Talking about holiday experiences": "Proten over vakantie-ervaringen",
+      "What was your holyday destination?": "Wat was je vakantiebestemming?",
+      "How was your trip to Italy?": "Hoe was je reis naar Italië?",
+      "When did you go on your holiday to Prague?": "Wanneer ben je op vakantie geweest naar Praag?",
+      "I left for a beach town with my best friend on 21 August 2019.": "Op 21 augustus 2019 ging ik met mijn beste vriend naar een strandstad",
+      "We stayed at a B&B opposite the beach.": "We verbleven in een B&B tegenover het strand.",
+      "When we were on holiday we went hiking.": "Toen we op vakantie waren, gingen we wandelen.",
+      "Our stay in Eastbourne wasn't as relaxing as your beach holiday.": "Ons verblijf in Eastbourne was niet zo ontspannend als jouw strandvakantie."
+    },
+    "*stone 2": {
+      "_meta": {
+        "flip": false
+      },
+      "Talking about what you did on holiday": "Praten over wat je op vakantie hebt gedaan",
+      "We visited a wildlife reserve on the last day of our holiday.": "We bezochten een wildreservaat op de laatste dag van onze vakantie.",
+      "They had a guided tour in the old castly in the morning.": "Ze kregen een rondleiding in het oude kasteel in de ochtend.",
+      "First, the tour guide informed us about today's trip and what to expect.": "Eerst informeerde de reisgids ons over de reis van vandaag en wat er was te verwachten.",
+      "We were exploring the countryside when the weather turned.": "We waren het platteland aan het verkennen toen het weer omsloeg.",
+      "After that, we found out we had left our bags.": "Daarna ontdekten we dat we onze tassen waren vergeten.",
+      "Anyway, to cut a long story short, it was a trip I will never forget.": "Kortom/Om een lang verhaal kort te maken, het was een reis die ik nooit zal vegeten."
+    },
+    "*stone 3": {
+      "_meta": {
+        "flip": false
+      },
+      "Giving your opinion about the holiday": "Je menig geven over de vakantie",
+      "The trip was amazing because we got to see so much of the country.": "De reis was gewelding, omdat we veel van het land konden zien.",
+      "I thought the resort was horrible because it was too busy.": "Het resort vond ik vreselijk, omdat het te druk was.",
+      "We really enjoyed it, but the weather could have been better.": "We hebben er erg van genoten, maar het weer had beter gekund.",
+      "I wouldn't go there again, because it was to rainy and cloudy.": "Ik zou daar niet nog eens heen gaan, omdat het zo regenachtig en bewolkt was.",
+      "I really likes the little villages that we visited.": "Ik vond het leuk om de kleine dorpjes te bezoeken.",
+      "The best thing about the holidays was the people that I met at sailing camp.": "Het beste van de vakantie waren de mensen die ik op het zeilkamp ontmoette."
+    }
+  },
+  "Chapter 2": {
+    "*A Watching (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "bend": "buigen",
+      "brilliant": "geweldig(e)",
+      "contact": "contacteren",
+      "fine": "in orde",
+      "mate": "vriend, maat",
+      "pressure": "druk",
+      "reassure": "geruststellen",
+      "swell": "(op)zwellen",
+      "worry": "(zich) zorgen maken"
+    },
+    "A Watching (→)": {
+      "_meta": {
+        "flip": false
+      },
+      "actually": "werkelijk",
+      "buddy": "vriend, gast",
+      "decisive": "daadkrachtig",
+      "manage": "(het) redden"
+    },
+    "*B Theme Words (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "At the doctor's": "Bij de docter",
+      "appointment": "afspraak",
+      "cast": "gips",
+      "crutches": "krukken",
+      "dentist": "tandarts",
+      "disease": "ziekte",
+      "fracture": "breuk",
+      "GP (general practitioner)": "huisarts",
+      "plaster": "pleister",
+      "stitches": "hechtingen",
+      "to examine": "onderzoeken",
+      "to feel worse": "(zich) slechter voelen",
+      "to get better": "beter worden",
+      "to hurt": "pijn doen",
+      "to treat": "behandelen",
+      "waiting room": "wachtkamer",
+      "X-ray": "röntgenfoto",
+      "Illness and injuries": "Ziekte en verwondingen",
+      "to be ill": "ziek zijn",
+      "to bleed": "bloeden",
+      "to bruize": "kneuzen",
+      "to bump": "stoten",
+      "to burn": "(ver)branden",
+      "to cough": "hoesten",
+      "to cut": "snijden",
+      "to faint": "flauwvallen",
+      "to feel sick": "(zich) misselijk voelen",
+      "to itch": "jeuken",
+      "to scratch": "krabben",
+      "to slip": "(uit)glijden",
+      "to sprain": "verstuiken",
+      "to stress out": "(zich) druk maken, stressen",
+      "to throw up": "overgeven",
+      "to trip": "struikelen"
+    },
+    "*C Reading (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "chest": "borst",
+      "destroy": "vernietigen",
+      "downside": "nadeel",
+      "experience": "ervaren, voelen",
+      "guinea pig": "proefkonijn",
+      "important": "belangrijk",
+      "measure": "(op)meten",
+      "rare": "zeldza(a)m(e)",
+      "visible": "zichtbaar",
+      "warning": "waarschuwing"
+    },
+    "C Reading (→)": {
+      "_meta": {
+        "flip": false
+      },
+      "chronic": "chronisch(e), langdurig(e)",
+      "condition": "aandoening",
+      "disorder": "afwijking, aandoening",
+      "genetic": "genetisch(e), erfelijk(e)",
+      "nail": "spijker"
+    },
+    "*D Speaking & Stones (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "Health conditions": "Gezondsheidtoestanden",
+      "black eye": "blauw oog",
+      "headache": "hoofdpijn",
+      "infection": "infectie",
+      "runny nose": "loopneus",
+      "scrape": "schaafwond",
+      "sore throat": "keelpijn",
+      "stomach ache": "buikpijn",
+      "to be under the weather": "(zich) niet lekker voelen",
+      "to feel dizzy": "duizelig zijn",
+      "to feel miserable": "(zich) elendig voelen",
+      "to have a cold": "verkouden zijn",
+      "to have a fever": "koorts hebben",
+      "to have the flu": "de griep hebben",
+      "to look pale": "er bleek uitzien",
+      "toothache": "kies-/tandpijn"
+    },
+    "*F Listening (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "benefit": "voordeel",
+      "concentrate": "zich concentreren",
+      "eventually": "uiteindelijk",
+      "expectation": "verwachting",
+      "get distracted": "afgeleid raken",
+      "limit": "beperken",
+      "obviously": "klaarblijkelijk, natuurlijk",
+      "please": "tevreden houden",
+      "release": "loslaten",
+      "revise": "repeteren, leren",
+      "youngster": "jong iemand"
+    },
+    "F Listening (→)": {
+      "_meta": {
+        "flip": false
+      },
+      "mainly": "vooral",
+      "modest": "bescheiden",
+      "pile up": "opstapelen",
+      "productive": "productief, productieve"
+    },
+    "*G Reading (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "achievement": "prestatie",
+      "border": "grens",
+      "charity": "goed doel",
+      "compete": "wedijveren, concurreren",
+      "destroy": "stukmaken, vernietigen",
+      "hard": "zwaar, moeilijk",
+      "participation": "deelname",
+      "prepare": "voorbereiden",
+      "several": "verscheidene",
+      "stupid": "stom(me), dom(me)",
+      "topic": "onderwerp",
+      "tough": "stoer(e), hard(e)"
+    },
+    "G Reading (→)": {
+      "_meta": {
+        "flip": false
+      },
+      "navy": "marine",
+      "obesity": "zwaarlijvigheid",
+      "severe": "ernstig(e)"
+    },
+    "*H Speaking & Stones (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "Tips and advice": "Tips en advies",
+      "to avoid": "vermijden",
+      "to breathe in/out": "in-/uitademen",
+      "to cure": "genezen",
+      "to cut down on": "(ver)minderen",
+      "to heal": "herstellen, genezen",
+      "to improve": "verbeteren",
+      "to lie down": "gaan liggen",
+      "to prevent": "voorkomen",
+      "to push yourself": "het beste uit hezelf halen",
+      "to quit": "ophouden, stoppen met",
+      "to recover": "herstellen, erbovenop komen",
+      "to take a break": "een pauze nemen",
+      "to take it easy": "het rustig aan doen",
+      "to worry": "(zich) zorgen maken"
+    },
+    "*stone 4": {
+      "_meta": {
+        "flip": false
+      },
+      "Talking about how you feel": "Praten over hoe je je voelt",
+      "How are you doing?": "Hoe gaat het met je?",
+      "Are you feeling any better?": "Voel je je wat beter?",
+      "I feel much better now, thank you.": "Ik voel me veel beter nu, dank je.",
+      "I only had a sore throat, so I'll be fine.": "Ik had alleen maar een zere keel, dus het komt wel goed.",
+      "What's wrong with Donna?": "Wat is er mis met Donna?",
+      "Is she going to be OK?": "Komt het goed met haar?",
+      "I feel miserable": "Ik voel me vreselijk.",
+      "I've had the flu since yesterday.": "Sinds gisteren heb is de griep."
+    },
+    "*stone 5": {
+      "_meta": {
+        "flip": false
+      },
+      "Talking about what happened": "Praten over wat er is gebeurd",
+      "What were you doing when the accident happened?": "Wat was je aan het doen toen het ongeluk gebeurde?",
+      "I was in the gym when I bumped into someone.": "Ik was in de sportschool toen ik tegen iemand aanbotste.",
+      "He had an accident because the floor was slippery.": "Hij kreeg een ongeluk, omdat de vloer glad was.",
+      "I have bumped my head on the cupboard and now I've got a bruise.": "Ik heb mijn hoofd aan de kast gestoten en nu heb ik een blauwe plek.",
+      "I have had a nasty fall so now I feel a bit dizzy.": "Ik heb een lelijke val gemaakt, dus nu voel ik me een beetje duizelig."
+    },
+    "*stone 6": {
+      "_meta": {
+        "flip": false
+      },
+      "Giving advide and reassuring someone": "Advies geven en iemand geruststellen",
+      "You look rather unwell.": "Je ziet er nogal ziekjes uit.",
+      "Shouldn't you see a doctor?": "Zou je niet even langs een dokter gaan?",
+      "I went to my GP today.": "Ik ben vandaag naar mijn huisarts geweest.",
+      "He examined me but couldn't fine anything.": "Hij heeft me onderzocht maar kon niks vinden.",
+      "The doctor told me to cut down on fatty food.": "De dokter zei dat ik minder vet eten moest eten.",
+      "Perhaps you could exercise to get more energy?": "Misschien zou je kunnen trainen om meer energie te krijgen?",
+      "If I were in your shoes, I'd take it easy for a couple of days.": "Als ik in jouw schoenen stond, dan deed ik het een paar dagen rustig aan.",
+      "It's important to think positive and don't stress about it.": "Het is belangrijk om positief te denken en je er niet te veel druk over te maken."
+    }
+  },
+  "Chapter 3": {
+    "*A Watching (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "bring over": "meebrengen",
+      "care": "geven om",
+      "charity": "liefdadigheid",
+      "crowd": "menigte",
+      "equipment": "apparatuur",
+      "go for it": "ga ervoor",
+      "kind": "soort",
+      "loads of": "heel veel",
+      "pile": "hoop",
+      "scheme": "plan, schema"
+    },
+    "A Watching (→)": {
+      "_meta": {
+        "flip": false
+      },
+      "afterwards": "achteraf, daarna",
+      "beforehand": "van tevoren, vooraf",
+      "main": "belangrijkste",
+      "pursue": "nastreven",
+      "venue": "locatie"
+    },
+    "*B Theme Words (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "Showbiz and entertainment": "Showbizz en entertainment",
+      "audience": "publiek",
+      "autograph": "handtekening",
+      "award ceremony": "prijsuitreiking",
+      "backstage": "achter de schermen",
+      "breakthrough": "doorbraak",
+      "celebrity": "beroemdheid",
+      "dressing room": "kleedkamer",
+      "glamorious": "betoverend, aantrekkelijk",
+      "performance": "voorstelling",
+      "publicity": "publiciteit",
+      "red carpet": "rode loper",
+      "review": "recensie",
+      "to applaud": "applaudisseren",
+      "to entertain": "vermaken",
+      "to gossip": "roddelen",
+      "to rehearse": "repeteren",
+      "Linking words": "Voegwoorden",
+      "also": "ook",
+      "although": "hoewel, ondanks",
+      "as well as": "en ook",
+      "because": "omdat",
+      "but": "maar",
+      "clearly": "duidelijk",
+      "finally": "ten slotte",
+      "first": "ten eerste",
+      "for example": "bijvoorbeeld",
+      "however": "echter",
+      "in fact": "in feite, eigenlijk",
+      "next": "vervolgens",
+      "obviously": "duidelijk",
+      "since": "aangezien",
+      "so": "zodat",
+      "such as": "zoals",
+      "therefore": "daarom",
+      "too": "ook"
+    },
+    "*C Reading (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "anonymous": "anoniem",
+      "claim": "beweren",
+      "direction": "richting",
+      "opportunity": "kans, mogelijkheid",
+      "perform": "optreden",
+      "receive": "ontvangen",
+      "record label": "platen-maatschappij",
+      "release": "uitbrengen",
+      "research": "onderzoeken",
+      "reveal": "onthullen",
+      "songwriter": "liedjesschrijver",
+      "target": "doel"
+    },
+    "C Reading (→)": {
+      "_meta": {
+        "flip": false
+      },
+      "collaboration": "samenwerking",
+      "credit": "erkenning",
+      "slihtly": "een beetje"
+    },
+    "*D Speaking & Stones (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "Expressing your opinion": "Je mening uiten",
+      "annoying": "ergerlijk, vervelend",
+      "awful": "verschrikkelijk",
+      "charming": "aantrekkelijk, charmant",
+      "disappointing": "teleurstellend",
+      "impressive": "indrukwekkend",
+      "moving": "ontroerend",
+      "overrated": "overschat, overgewaardeerd",
+      "predictable": "voorspelbaar",
+      "remarkable": "opmerkelijk, opvallend",
+      "silly": "dwaas, onnozel",
+      "stunning": "ongelooflijk",
+      "surprising": "verrassend",
+      "terrible": "verschrikkelijk",
+      "thrilling": "spannend",
+      "weird": "raar, vreemd",
+      "wonderful": "schitterend, geweldig"
+    },
+    "*F Listening (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "agree": "het eens zijn",
+      "based on": "gebaseerd op",
+      "disagree": "het oneens zijn",
+      "embarassed": "zich generen, zich schamen",
+      "era": "tijdperk",
+      "mean": "gemeen",
+      "pick up": "oppikken, ophalen",
+      "promise": "beloven",
+      "scream": "schreeuwen",
+      "shark": "haai",
+      "worry about": "zich zorgen maken"
+    },
+    "F Listening (→)": {
+      "_meta": {
+        "flip": false
+      },
+      "current": "huidig(e)",
+      "in public": "in het openbaar",
+      "spin-off": "spin-off",
+      "spoiler": "spoiler"
+    },
+    "*G Reading (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "decision": "beslissing",
+      "definitely": "zeker, absoluut",
+      "department": "afdeling",
+      "no clue": "geen idee",
+      "on screen": "op beeld",
+      "passionate": "gepassioneerd(e)",
+      "prop": "rekwisiet, theatervoorwerp",
+      "property": "bezit",
+      "suitable": "geschikt",
+      "time pressure": "tijdsdruk"
+    },
+    "G Reading (→)": {
+      "_meta": {
+        "flip": false
+      },
+      "challenging": "uitdagend",
+      "collaboration": "uitdagend",
+      "get cut": "eruit geknipt worden",
+      "picky": "kieskeurig(e)"
+    },
+    "*H Speaking & Stones (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "Films and series": "Films en series",
+      "blockbuster": "kaskraker",
+      "cast": "rolverdeling",
+      "credits": "aftiteling",
+      "director": "regisseur",
+      "episode": "aflevering",
+      "extra": "figurant",
+      "plot twist": "onverwachte wending",
+      "preview": "voorvertoning",
+      "remake": "nieuwe versie",
+      "screenplay": "script, scenario",
+      "sequel": "vervolg",
+      "storyline": "verhaallijn",
+      "subtitles": "ondertiteling",
+      "to feature": "prominente rol spelen",
+      "to rate": "waarderen",
+      "to shoot (a film)": "een film opnemen"
+    },
+    "*stone 7": {
+      "_meta": {
+        "flip": false
+      },
+      "Asking for and giving your opinion": "Om een mening vragen en je mening geven",
+      "How did you like the performance?": "Wat vond je van het optreden?",
+      "The live show was so fantastic, so I will definitely go again next year.": "De show was zo fantastisch, dus ik ga volgend jaar weer.",
+      "Something that really disappointed me were the annoying vocals and dull lyrics.": "Wat mij erg teleurstelde waren de irritante zang en de saaie songteksten",
+      "The thing that struck me most was how amazing the songs turned out.": "Wat me het meest opviel was hoe geweldig de liedjes waren geworden.",
+      "What surprised me was how powerful his voice was.": "Wat me verraste, was hoe krachtig zijn stem was."
+    },
+    "*stone 8": {
+      "_meta": {
+        "flip": false
+      },
+      "Recommending something": "Iets aanbevelen",
+      "I would recommend the romantic comedy. It's perfect for binge-watching.": "Ik zou deze romantische komedie aanraden. Deze is perfect voor binge-watching.",
+      "The series is wel worth seeing because of Emma Stone's impressive acting.": "De serie is het kijken waard vanwege het geweldige acteerwerk van Emma Stone.",
+      "It is not to be missed because it has several unexpected plot twists.": "Dit wil je niet missen want het heeft onverwachte wendingen.",
+      "If you are into science fiction this film is for you.": "Als je van science fiction houdt, dan is deze film iets voor jou.",
+      "Don't bother watching Netflix's latest comedy.": "Doe geen moeite om de nieuwste Netflix-komedie te kijken.",
+      "I'm afraid this film is a complete waste of time and money.": "Ik ben bang dat deze film een totale verspilling van tijd en geld is."
+    },
+    "*stone 9": {
+      "_meta": {
+        "flip": false
+      },
+      "Describing and comparing films and series": "Films en series beschrijven en vergelijken",
+      "The new super hero film has been in theatres for a few weeks.": "De nieuwe superheldfilm draait/speelt al een paar weken in de bioscoop/het theater.",
+      "The film has received a lot of prestigious awards.": "De film heeft veel belangrijke prijzen ontvangen.",
+      "This romantic comedy is set in a desert town.": "Deze romantische komedie speelt zich af in een woestijnstad.",
+      "The trailer to that film looks promising and the story seems interesting.": "De trailer van die film lijk veelbelovend en het verhaal lijkt interessant.",
+      "You can compare it to a James Bond film but without all the crazy plot twists.": "Je kunt het vergelijken met een James Bond-film, maar zonder alle gekke onverwachte wendingen.",
+      "The new Start Wars film is not as thrilling as I expected.": "De nieuwe Star Wars-film is niet zo opwindend als ik had verwacht.",
+      "The series is wonderful, but the remake looks even better.": "De serie is geweldig, maar de nieuwste versie is nog beter."
+    }
+  },
+  "Chapter 4": {
+    "*A Watching (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "atmosphere": "sfeer",
+      "elsewhere": "elders",
+      "have a bite": "een hapje eten",
+      "hesitate": "aarzelen",
+      "hip": "hip, in de mode",
+      "main": "belangrijkst(e)",
+      "recommend": "aanraden",
+      "retail": "detailhandel",
+      "stall": "kraam",
+      "suggestion": "voorstel",
+      "wonder": "zich afvragen"
+    },
+    "A Watching (→)": {
+      "_meta": {
+        "flip": false
+      },
+      "maritime": "maritiem(e), zeevaart-",
+      "overview": "overzicht",
+      "suppose": "veronderstellen",
+      "surrounding": "omliggend(e)"
+    },
+    "*B Theme Words (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "Shopping (I)": "Winkelen (I)",
+      "bargain": "koopje",
+      "cashier": "caissière, kassamedewerker",
+      "change": "wisselgeld",
+      "check-out": "kassa",
+      "coin": "munt",
+      "counter": "toonbank, balie",
+      "to deliver": "bezorgen",
+      "item": "artikel",
+      "note": "biljet",
+      "to order": "bestellen",
+      "to pay by card": "met pinpas betalen",
+      "to pay cash": "contant betalen",
+      "price tag": "prijskaartje",
+      "to purchase": "aanschaffen, kopen",
+      "to queue": "in de rij staan",
+      "to spend": "besteden, uitgeven",
+      "Adverbs of frequency": "Tijdsbepalingen",
+      "constantly": "steeds",
+      "frequenttly": "dikwijls, vaak",
+      "generally": "doorgaans, over het algemeen",
+      "hardly ever": "bijna nooit, zelden",
+      "occasionally": "af en toe, zo nu en dan",
+      "rarely": "zelden",
+      "regularly": "regelmatig",
+      "usually": "gewoonlijk",
+      "daily": "dagelijks",
+      "hourly": "ieder uur",
+      "monthly": "maandelijks",
+      "once a week": "eens per week",
+      "three times a day": "driemaal daags",
+      "twice a month": "twee keer per maand",
+      "weekly": "wekelijks",
+      "yearly": "jaarlijks"
+    },
+    "*C Reading (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "announcement": "aankondeging",
+      "develop": "ontwikkelen",
+      "employee": "werknemer",
+      "human": "menselijk(e)",
+      "judgement": "oordeel",
+      "response": "reactie",
+      "rude": "onbeschoft",
+      "scare away": "wegjagen",
+      "suspicious": "achterdochting",
+      "threaten": "bedreigen"
+    },
+    "C Reading (→)": {
+      "_meta": {
+        "flip": false
+      },
+      "apparently": "blijkbaar",
+      "carry out": "uitvoeren",
+      "is attached to": "gehecht zijn aan",
+      "Previously": "voorheen",
+      "trademark": "handelsmerk"
+    },
+    "*D Speaking & Stones (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "Shopping (II)": "Winkelen (II)",
+      "aisle": "gang(pad)",
+      "to browse": "rondkijken, snuffelen",
+      "children's department": "kinderafdeling",
+      "discount": "korting",
+      "fitting room": "paskamer",
+      "floor": "verdieping",
+      "to get a refund": "geld terugkrijgen",
+      "in stock/out of stock": "op voorraad/niet op voorraad",
+      "on sale": "in de aanbieding",
+      "receipt": "bonnetje",
+      "to return": "terugbrengen",
+      "shop window": "etalage",
+      "size": "maat",
+      "sold out": "uitverkocht",
+      "to suit": "passen/staan (bij)",
+      "to try on": "passen"
+    },
+    "*F Listening (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "amount": "hoeveelheid",
+      "convenient": "handig",
+      "ferris wheel": "reuzenrad",
+      "particular": "depaald(e)",
+      "reason": "reden",
+      "rush hour": "spitsuur",
+      "science": "wetenschap",
+      "skyscraper": "wolkenkrabber",
+      "tracksuit": "trainingspak",
+      "unless": "tenzij",
+      "vehicle": "voertuig"
+    },
+    "F Listening (→)": {
+      "_meta": {
+        "flip": false
+      },
+      "appeal": "fascinatie",
+      "massive": "gigantisch(e)",
+      "understandable": "begrijpelijk",
+      "worn": "versleten"
+    },
+    "*G Reading (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "ad": "reclame, advertentie",
+      "allow": "toelaten, toestaan",
+      "allowance": "zakgeld",
+      "environment": "milieu",
+      "fabric": "stof",
+      "is into": "geïnteresseerd zijn in",
+      "mall": "winkelcetrum",
+      "receive": "ontvangen",
+      "thrift store": "tweedehandswinkel",
+      "vending machine": "verkopautomaat"
+    },
+    "G Reading (→)": {
+      "_meta": {
+        "flip": false
+      },
+      "amongst": "tussen",
+      "concern": "zorg",
+      "fad": "trend",
+      "one of a kind": "uniek",
+      "stand out": "zich onderscheiden"
+    },
+    "*H Speaking & Stones (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "Getting around town": "De weg vinden in de stad",
+      "to change": "overstappen",
+      "connection": "aansluiting",
+      "delayed": "vertraagd",
+      "elevator": "lift",
+      "entrance": "ingang",
+      "escalator": "roltrap",
+      "exit": "uitgang",
+      "fare": "vervoeringsprijs, tarief",
+      "to get on/off": "in-/uitstappen",
+      "information desk": "informatiebalie",
+      "platform": "perron",
+      "public transport": "openbaar vervoer",
+      "return ticket": "retourtje",
+      "single ticket": "enkeltje",
+      "ticket office": "loket",
+      "traffic jam": "file, verkeeropstopping"
+    },
+    "*stone 10": {
+      "_meta": {
+        "flip": false
+      },
+      "Asking for information in or about a shop": "Informatie vragen in of over een winkel",
+      "Can I help you?": "Kan ik u helpen?",
+      "No thank you.": "Nee, bedankt.",
+      "I'm looking for the cosmetic aisle.": "Ik ben op zoek naar make-up afdeling.",
+      "Excuse me. Do you have these shoes? / Have you got this jacket?": "Pardon. Heeft u deze schoenen? / Heeft u deze jas?",
+      "Certainly, we have (got) a few in stock.": "Zeker, we hebben een paar op voorraad.",
+      "What size do you have?": "Welke maat heeft u?",
+      "Where can I find phone chargers?": "Wat kan ik telefoonopladers vinden?",
+      "You can find them in that aisle.": "Je kan ze vinden in dat gangpad.",
+      "I'd like to return/exchange this item.": "Ik zou dit product graag willen terugbrengen/ruilen."
+    },
+    "*stone 11": {
+      "_meta": {
+        "flip": false
+      },
+      "Shopping and ordering online": "Online shoppen en bestellen",
+      "Could you explain/tell me how to order these items?": "Kunt u mij uitleggen/vertellen hoe ik deze producten kan bestellen?",
+      "First create a new account": "Maak eerst/om te beginnen een nieuw account.",
+      "Next/Then/Finally order the items.": "Bestel daarna/dan/ten slotte de producten.",
+      "If you need help, there is a chat assistant available.": "Als u hulp nodig heeft, is eer een chat-assistent beschikbaar.",
+      "If you have any questions go to the FAQ page.": "Als u vragen heeft, ga dan naar de pagina met veelgestelde vragen."
+    },
+    "*stone 12": {
+      "_meta": {
+        "flip": false
+      },
+      "Talking about public transport": "Praten over het openbaar vervoer",
+      "I will/am going to visit the Science Museum this afternoon.": "Ik ga het Science Museum vanmiddag bezoeken.",
+      "Do you know how to reach the city centre?": "Weet u/je hoe ik bij het stadscentrum kom?",
+      "Can you tell me the fastest way to get there?": "Kun je mij de snelste weg daarheen vertellen?",
+      "To reach the park, take the bus to Kensington.": "Om het park te bereiken, neem de bus naar Kensington",
+      "To get there, change to the Piccadilly Line.": "Om daar te komen, stap over op de Piccadilly Line",
+      "What time/When does the bus come by?": "Hoe laat /Wanneer komt de bus langs?",
+      "The train runs once an hour.": "De train gaat ieder uur.",
+      "Do we have to/Shall we get a single ticket?": "Moeten/Zullen we een enkeltje kopen?",
+      "Yes, they are available at the ticket office.": "Ja, ze zijn beschikbaar bij het kaartjesloket.",
+      "No, it's better to buy a return ticket.": "Nee, het is beter om een retourtje te kopen.",
+      "The bus is late because of a traffic jam.": "De bus komt later door een verkeersopstopping.",
+      "Line 10 is delayed but it will be here any minute.": "Lijn 10 is vertraagd, maar kan ieder moment hier zijn."
+    }
+  },
+  "Chapter 5": {
+    "*A Watching (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "constantly": "voortdurend",
+      "demanding": "veeleisend",
+      "devastate": "verwoesten",
+      "divide": "verdelen",
+      "editor": "redacteur",
+      "freelance": "freelance, zelfstandig",
+      "point of view": "standpunt",
+      "range": "reeks, verscheidenheid",
+      "retailer": "detailhandelaar, winkelier",
+      "trade": "handel"
+    },
+    "A Watching (→)": {
+      "_meta": {
+        "flip": false
+      },
+      "agenda": "achterliggende reden, belang",
+      "are biased": "bevooroordeeld zijn",
+      "Deputy Mayor": "locoburgemeester",
+      "downtime": "rust",
+      "thoroughly": "grondig, zeer"
+    }
+  },
+  "Chapter 6": {
+    "*A Watching (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "decide": "beslissen",
+      "edge": "rand",
+      "force": "kracht",
+      "goggles": "(veiligheids)bril",
+      "heights": "hoogte(s)",
+      "lean": "leunen",
+      "mood": "stemming",
+      "probably": "waarschijnlijk",
+      "promise": "beloven",
+      "to be scared of": "bang zijn voor",
+      "tube": "buis"
+    },
+    "A Watching (→)": {
+      "_meta": {
+        "flip": false
+      },
+      "madness": "gekte",
+      "snap": "knappen",
+      "straighten": "strekken",
+      "vertigo": "hoogtevrees"
+    },
+    "*B Theme Words (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "Having a good time": "Een leuke tijd hebben",
+      "atmosphere": "sfeer",
+      "to attend": "bijwonen",
+      "to be up for a laugh": "zin hebben in plezier",
+      "to chill": "relaxen",
+      "dress code": "kledingvoorschrift",
+      "to enjoy yourself": "genieten",
+      "entrance fee": "toegangsprijs",
+      "gig": "optreden, concert",
+      "to have a blast": "dikke pret hebben",
+      "host/hostess": "gastheer/-vrouw",
+      "leisure time": "vrije tijd",
+      "lively": "levendig(e)",
+      "party animal": "feestbeest",
+      "spectator": "toeschouwer",
+      "to socialise": "gezellig doen",
+      "to throw a party": "een feest geven",
+      "Moods, emotions and feelings": "Stemmingen, emoties en gevoelens",
+      "annoyed": "geïrriteerd",
+      "confused": "verward",
+      "content": "tevreden",
+      "cranky": "chagrijnig, humeurig",
+      "disappointed": "teleurgesteld",
+      "embarrassed": "beschaamd",
+      "fabulous": "fantastisch",
+      "frustrated": "gefrustreerd",
+      "guilty": "schuldig",
+      "insecure": "onzeker",
+      "inspired": "geïnspireerd",
+      "passionate": "gepassioneerd",
+      "pleased": "verheugd, tevreden",
+      "relieved": "opgelucht",
+      "spontaneous": "spontaan, impulsief",
+      "thrilled": "blij, opgewonden"
+    },
+    "*C Reading (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "aboard": "aan boord",
+      "admit": "toegeven",
+      "below": "hieronder",
+      "border": "grens",
+      "glance": "blik",
+      "joke around": "lol trappen",
+      "muscle": "spier",
+      "nerves": "zenuwen",
+      "repaint": "oververven",
+      "soccer": "voetbal (AmE)",
+      "tackle": "aanpakken, oplossen"
+    },
+    "C Reading (←→)": {
+      "_meta": {
+        "flip": true
+      },
+      "beyond": "voorbij",
+      "completion": "voltooiing",
+      "head back": "terugkeren",
+      "rapidly": "snel"
+    }
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "Thema 1": {
+    "Paragraaf 1": {
+      "_meta": {
+        "flip": false
+      },
+      "glucose": "stof die veel energie bevat die wordt gebruikt om andere stoffen te maken",
+      "stofwisseling": "het omzetten van stoffen in andere stoffen",
+      "mitochondrium": "celorganel dat glucose afbreekt"
+    },
+    "Paragaaf 2": {
+      "_meta": {
+        "flip": false
+      },
+      "verbranding": "de afbraak van glucose in cellen",
+      "brandstof (voor verbranding)": "stof die verbrandt, die je nodig hebt voor verbranding"
+    },
+    "Paragraaf 3": {
+      "_meta": {
+        "flip": false
+      },
+      "bronchiën": "deel van het ademhalingsstelsel waarin de luchtpijp zich vertakt",
+      "middenrif": "stevig, gespierd vlies dat de romp verdeelt in de borstholte en de buikholte",
+      "neusslijmvlies": "slijmvlies in de neus dat uit slijmproducerende cellen bestaat",
+      "trilhaar": "organel dat slijm (met stofdeeltjes) van de neus naar de keelholte verplaatst",
+      "strotklepje": "klepje dat de luchtpijp afsluit als je voedsel inslikt",
+      "huig": "klepje dat de neusholte afsluit als je voedsel inslikt",
+      "luchtpijp": "holle buis die aansluit op de onderkant van het strottenhoofd",
+      "longblaasje": "deel van de longen aan het uiteinde van een luchtpijptakje",
+      "longhaarvaten": "een netwerk van kleine bloedvaatjes rondom de longblaasjes"
+    },
+    "Paragraaf 4": {
+      "_meta": {
+        "flip": false
+      },
+      "gaswisseling": "de opname en afgifte van zuurstof en koolstofdioxide via de longblaasjes",
+      "ademhalingsspier": "spier die nodig is om adem te halen",
+      "borstademhaling": "ademhaling waarbij de ribben en het borstbeen bewegen",
+      "buikademhaling": "ademhaling waarbij het middenrif en de buikwand bewegen"
+    },
+    "Paragraaf 5": {
+      "_meta": {
+        "flip": false
+      },
+      "smog": "luchtvervuiling die vooral bestaat uit fijnstof",
+      "ventilatie": "het vervangen van ‘oude’ lucht met verse lucht",
+      "hooikoorts": "allergie voor stuifmeelkorrels"
+    },
+    "Paragraaf 6": {
+      "_meta": {
+        "flip": false
+      },
+      "tracheeën": "sterk vertakte ademhalingsbuisjes in het lichaam van een insect",
+      "stigma": "opening waardoor lucht de trachee instroomt",
+      "kieuw": "orgaan waarmee vissen zuurstof opnemen vanuit het water",
+      "luchtzak": "zak die aan de long van een vogel zit"
+    },
+    "Paragraaf *7": {
+      "_meta": {
+        "flip": false
+      },
+      "nicotine": "stof in sigaretten die ervoor zorgt dat mensen verslaafd raken aan roken",
+      "teer": "stof in tabaksrook die schadelijk is voor de longen",
+      "koolstofmonoxide": "reukloos gas dat, wanneer het in je bloed wordt opgenomen, ervoor zorgt dat er minder zuurstof opgenomen kan worden",
+      "passief roken (meeroken)": "inademen van rook van brandende sigaretten of die door een ander is uitgeblazen",
+      "geestelijk afhankelijk": "verlangen naar een (verslavend) middel",
+      "gewenning": "steeds meer nodig hebben van een (verslavend) middel om hetzelfde effect te ervaren",
+      "lichamelijk afhankelijk": "verslaving aan een stof, waarbij je lichaam protesteert als je de stof niet binnenkrijgt",
+      "THC": "stof in cannabis waar je stoned of high van wordt",
+      "CBD": "stof in cannabis die de werking van THC beïnvloedt",
+      "stoned": "effect van cannabis waarbij je lui en ontspannen wordt",
+      "high": "effect van cannabis waarbij je energiek en vrolijk wordt"
+    },
+    "Paragraaf *8": {
+      "_meta": {
+        "flip": false
+      },
+      "warmbloedig": "constante lichaamstemperatuur hebben",
+      "koudbloedig": "temperatuur gelijk aan de omgeving hebben",
+      "winterslaap": "lange periode waarbij de lichaamstemperatuur daalt en de stofwisseling vertraagt",
+      "isolatie": "(vet)laag die warmbloedige dieren warm houdt",
+      "trek": "wegtrekken van een groep dieren naar warmere gebieden"
+    }
+  },
+  "Thema 2": {
+    "Paragraaf 1": {
+      "_meta": {
+        "flip": false
+      },
+      "voedingsmiddel": "product dat men eet of drinkt",
+      "voedingsstof": "stof die je lichaam nodig heeft voor energie, groei of herstel",
+      "brandstof (als voedingsstof)": "voedingsstof die energie levert",
+      "bouwstof": "voedingsstof die wordt gebruikt bij de vorming van cellen en weefsels",
+      "reservestof": "voedingsstof die wordt opgeslagen in bepaalde delen van het lichaam",
+      "beschermende stof": "voedingsstof die ervoor zorgt dat je niet ziek wordt",
+      "eiwit": "voedingsstof die voornamelijk dient als bouwstof, maar ook als brandstof en reservestof kan dienen",
+      "koolhydraat": "voedingsstof die vooral dient als brandstof, maar ook als bouwstof en reservestof kan dienen",
+      "vet": "voedingsstof die vooral dient als brandstof, maar ook als bouwstof en reservestof kan dienen",
+      "water": "voedingsstof die dient als bouwstof en die nodig is voor het vervoer van stoffen in je lichaam",
+      "mineraal": "voedingsstof die dient als bouwstof en beschermende stof",
+      "vitamine": "voedingsstof die dient als bouwstof en beschermende stof",
+      "voedingsvezel": "onverteerbare stof in plantaardig voedsel die nodig is voor een goede darmwerking"
+    },
+    "Paragraaf 2": {
+      "_meta": {
+        "flip": false
+      },
+      "verteringsstelsel": "alle delen van het lichaam die betrokken zijn bij de vertering van voedsel",
+      "darmkanaal": "kanaal van de mond tot de anus",
+      "vertering": "het afbreken van grotere voedingsstoffen tot kleinere verteringproducten die in het bloed kunnen worden opgenomen",
+      "verteringsproduct": "voedingsstof die door de darmwand in het bloed kan worden opgenomen",
+      "snijtand": "tand waarmee stukken van voedsel wordt afgebeten, en die bij de mens minder puntig is dan een hoektand",
+      "hoektand": "tand waarmee stukken van voedsel wordt afgebeten, en die bij de mens iets puntiger is dan een snijtand",
+      "kies": "tand waarmee voedsel wordt fijngemalen",
+      "mechanische vertering": "voedsel in kleine stukjes kauwen",
+      "verteringssap": "sap dat voedsel afbreekt in kleinere stukjes",
+      "verteringsklier": "klier dat verteringssap aanmaakt",
+      "chemische vertering": "vorm van vertering waarbij stoffen worden omgezet in andere stoffen door middel van scheikundige reacties",
+      "enzym": "stof die een scheikundig proces versnelt",
+      "kringspieren (in de darmwand)": "spieren in de darmwand die, samen met de lengtespieren, ervoor zorgen dat de voedselbrij wordt voortgeduwd, gekneed en vermengd met verteringssappen",
+      "lengtespieren (in de darmwand)": "spieren in de darmwand die, samen met de kringspieren, ervoor zorgen dat de voedselbrij wordt voortgeduwd, gekneed en vermengd met verteringssappen",
+      "darmperistaltiek (peristaltische beweging)": "het afwisselend samentrekken en ontspannen van kringspieren en lengtespieren in de wand van het darmkanaal"
+    },
+    "Paragraaf 3": {
+      "_meta": {
+        "flip": false
+      },
+      "speeksel": "verteringssap dat bestaat uit water, slijm en een enzym",
+      "slokdarm": "orgaan dat voedsel verplaatst van de keelholte naar de maag",
+      "maag": "orgaan dat voedsel tijdelijk opslaat",
+      "maagsapklier": "klier in de maagwand die maagsap produceert",
+      "maagsap": "verteringssap dat bestaat uit water, zoutzuur en een enzym",
+      "maagportier": "kringspier die de uitgang van de maag af kan sluiten",
+      "twaalfvingerige darm": "orgaan dat voedselbrij vermengt met gal en alvleessap",
+      "lever": "orgaan dat gal produceert",
+      "gal": "verteringssap dat grote vetdruppels in kleinere druppeltjes verdeelt",
+      "galblaas": "orgaan dat dient als tijdelijke opslagplaats voor gal",
+      "galbuis": "buis waardoor gal van de galblaas naar de twaalfvingerige darm wordt vervoerd",
+      "emulgeren": "het verdelen van grote vetdruppels in kleinere vetdruppels",
+      "alvleessap": "verteringssap met verschillende enzymen die zorgen voor de vertering van eiwitten, koolhydraten en vetten",
+      "alvleesklier": "klier die alvleessap produceert",
+      "dunne darm": "orgaan waar via de darmwand verteringsproducten worden opgenomen in het bloed",
+      "darmsapklier": "klier in de wand van de dunne darm die darmsap produceert",
+      "darmsap": "verteringssap met enzymen dat de vertering van eiwitten, koolhydraten en vetten afmaakt",
+      "darmplooi": "plooi in de dunne darm",
+      "darmvlok": "uitstulping op een darmplooi",
+      "dikke darm": "orgaan waar al het water uit de brij van onverteerde voedselresten wordt opgenomen",
+      "blindedarm": "orgaan dat onderdeel is van het verteringsstelsel, maar geen eigen functie heeft bij de vertering",
+      "appendix": "uitstulping aan de onderkant van de blindedarm",
+      "endeldarm": "orgaan waar onverteerde voedselresten tijdelijk worden opgeslagen",
+      "anus": "kringspier die de endeldarm afsluit",
+      "ontlasting": "het legen van de endeldarm"
+    },
+    "Paragraaf 4": {
+      "_meta": {
+        "flip": false
+      },
+      "kilojoule": "eenheid voor de energie in voedsel, afgekort als kJ",
+      "kilocalorie": "eenheid voor de energie in voedsel, afgekort als kcal",
+      "overgewicht": "te hoog lichaamsgewicht, waarbij er te veel vet in het lichaam is opgeslagen",
+      "obesitas": "ernstig overgewicht",
+      "ondergewicht": "te laag lichaamsgewicht",
+      "ondervoeding": "te weinig energie of voedingstoffen binnenkrijgen",
+      "Body Mass Index (BMI)": "meetmethode om te meten of je een gezond gewicht hebt",
+      "eetstoornis": "stoornis waarbij iemand constant in het hoofd bezig is met eten en de invloed daarvan op het lichaam",
+      "anorexia nervosa": "eetstoornis waarbij mensen extreem weinig eten",
+      "boulimia nervosa": "eetstoornis met eetbuien, waarna het voedsel wordt uitgebraakt of laxeermiddelen worden gebruikt",
+      "eetbuistoornis": "eetstoornis met eetbuien, waarbij niet wordt gebraakt of een laxeermiddel wordt gebruikt"
+    },
+    "Paragraaf 5": {
+      "_meta": {
+        "flip": false
+      },
+      "voedselvergiftiging": "afweerreactie die ontstaat door het eten van voedsel dat is besmet met giftige stoffen",
+      "salmonellabacterie": "bacterie die giftige afvalstoffen produceert",
+      "conserveren": "voedsel behandelen zodat het niet bederft",
+      "pasteuriseren": "verhitten tot 72 ℃, waardoor de meeste bacteriën en schimmels doodgaan",
+      "steriliseren": "verhitten tot 130-140 ℃, waardoor alle bacteriën en schimmels doodgaan",
+      "conserveermiddel": "stof die de leefomgeving voor bacteriën en schimmels ongunstig maakt",
+      "additief": "stof die toegevoegd wordt aan voedingsmiddelen om ze langer houdbaar of aantrekkelijker te maken",
+      "kleurstof": "stof die wordt toegevoegd om een voedingsmiddel er mooier uit te laten zien",
+      "geurstof": "stof die wordt toegevoegd om een voedingsmiddel lekkerder te laten ruiken",
+      "smaakstof": "stof die wordt toegevoegd om een voedingsmiddel lekkerder te laten smaken"
+    },
+    "Paragraaf 6": {
+      "_meta": {
+        "flip": false
+      },
+      "planteneter": "zoogdier dat alleen planten eet",
+      "vleeseter": "zoogdier dat alleen dieren eet",
+      "alleseter": "zoogdier dat planten en dieren eet",
+      "herbivoor": "planteneter",
+      "plooikies": "kies van een planteneter met harde richels om voedsel fijn te malen",
+      "carnivoor": "vleeseter",
+      "knipkies": "kies van een vleeseter met scherpe randen om het voedsel in stukken te knippen",
+      "omnivoor": "alleseter",
+      "knobbelkies": "kies van een alleseter met een knobbelig oppervlak om het voedsel fijn te malen"
+    },
+    "Paragraaf *7": {
+      "_meta": {
+        "flip": false
+      },
+      "vegetariër": "iemand die geen vlees eet",
+      "veganist": "iemand die geen dierlijke producten eet",
+      "flexitariër": "iemand die ervoor kiest om af en toe vlees te eten",
+      "vleesvervanger": "voedselproduct dat op vlees lijkt in uiterlijk, smaak, samenstelling en voedingswaarde"
+    },
+    "Paragraaf *8": {
+      "_meta": {
+        "flip": false
+      },
+      "productinformatie": "informatie over de inhoud van een voedingsmiddel",
+      "productiecode (partijcode)": "code die weergeeft waar en wanneer een product gemaakt is",
+      "estimate": "Engels woord voor schatting en de betekenis van de letter ‘e’ op een verpakking",
+      "THT-datum": "ten minste houdbaar tot-datum; tot en met die datum garandeert een fabrikant de kwaliteit van een product",
+      "TGT-datum": "te gebruiken tot-datum; dit is de laatste dag waarop je een product nog veilig kunt eten of drinken",
+      "bewaarvoorschrift": "beschrijving waarin staat hoe je een product moet bewaren",
+      "ingrediënt": "grondstof in een product",
+      "E-nummer": "code die een additief krijgt als het geen gevaar oplevert voor de gezondheid",
+      "voedingswaarde": "hoeveelheid energie, vetten, eiwitten, koolhydraten en zout die een product bevat"
+    }
+  },
+  "Thema 3": {
+    "Paragraaf 1": {
+      "_meta": {
+        "flip": false
+      },
+      "bloedplasma": "deel van het bloed dat bestaat uit water, plasma-eiwitten en opgeloste stoffen",
+      "rode bloedcel": "bloedcel zonder celkern en met hemoglobine",
+      "witte bloedcel": "bloedcel met een celkern en zonder vaste vorm",
+      "bloedplaatje": "deel van een uiteengevallen cel dat een functie vervult bij bloedstolling",
+      "fibrinogeen": "plasma-eiwit dat een functie vervult bij de bloedstolling",
+      "hemoglobine": "eiwit dat zuurstof bindt en weer loslaat",
+      "bloedstolling": "het stollen van het bloed als het buiten de bloedvaten komt"
+    },
+    "Paragraaf 2": {
+      "_meta": {
+        "flip": false
+      },
+      "bloedsomloop": "weg die het bloed door het lichaam aflegt",
+      "slagader": "bloedvat waardoor het bloed van het hart wegstroomt",
+      "haarvat": "bloedvat waarvan de wand nog maar één cellaag dik is",
+      "ader": "bloedvat waardoor het bloed naar het hart toestroomt",
+      "bloedvatenstelsel": "alle bloedvaten in het lichaam",
+      "poortader": "bloedvat dat bloed van de darmwand naar de lever vervoert",
+      "kleine bloedsomloop": "bloedsomloop waarbij het bloed van het hart naar de longen en weer terug naar het hart stroomt",
+      "grote bloedsomloop": "bloedsomloop waarbij het bloed van het hart naar de rest van het lichaam (behalve de longen) en weer terug naar het hart stroomt",
+      "dubbele bloedsomloop": "bloedsomloop waarbij het bloed per omloop twee keer door het hart stroomt",
+      "klep": "soort vlies dat ervoor zorgt dat het bloed maar in één richting kan stromen"
+    },
+    "Paragraaf 3": {
+      "_meta": {
+        "flip": false
+      },
+      "kransslagader": "aftakking van de aorta waardoor bloed richting de hartspier stroomt",
+      "kransader": "bloedvat dat bloed wegvoert uit de hartspier",
+      "harttussenwand": "scheiding tussen de linker- en rechterharthelft",
+      "bovenste holle ader": "ader waardoor het zuurstofarme bloed van het hoofd en de armen naar het hart stroomt",
+      "onderste holle ader": "ader waardoor het zuurstofarme bloed van de romp en de benen naar het hart stroomt",
+      "rechterboezem": "deel van het hart waar de holle aders en de kransaders uitmonden",
+      "rechterkamer": "deel van het hart dat het bloed in de longslagaders pompt",
+      "longslagader": "bloedvat dat zuurstofarm bloed van het hart naar de longen vervoert",
+      "longader": "bloedvat dat zuurstofrijk bloed van de longen naar het hart vervoert",
+      "linkerboezem": "deel van het hart waar de longaders in uitmonden",
+      "linkerkamer": "deel van het hart dat het bloed via de aorta naar alle organen van het lichaam pompt",
+      "aorta": "bloedvat dat zuurstofrijk bloed van het hart naar de organen vervoert",
+      "hartklep": "klep tussen een boezem en een kamer",
+      "halvemaanvormige klep": "klep aan het begin van de longslagader of de aorta",
+      "hartslag": "samentrekken van de boezems, gevolgd door het samentrekken van de kamers, gevolgd door een hartpauze",
+      "hartpauze": "periode waarbij de boezems en de kamers ontspannen zijn"
+    },
+    "Paragraaf 4": {
+      "_meta": {
+        "flip": false
+      },
+      "nier": "orgaan dat afvalstoffen uit het bloed haalt",
+      "nierslagader": "slagader waardoor zuurstofrijk bloed naar een nier stroomt",
+      "nierader": "ader waardoor gezuiverd bloed weg van een nier stroomt",
+      "nierschors": "deel van de nier dat urine vormt",
+      "niermerg": "deel van de nier dat urine vormt",
+      "nierbekken": "deel van de nier waarin urine wordt verzameld",
+      "urine": "verzameling van stoffen die door de nieren zijn verwijderd uit het bloed",
+      "urineleider": "buis die urine afvoert van een nier naar de urineblaas",
+      "urineblaas": "tijdelijke opslagplaats van urine",
+      "urinebuis": "buis die urine afvoert uit het lichaam"
+    },
+    "Paragraaf 5": {
+      "_meta": {
+        "flip": false
+      },
+      "lichaamsvreemde stof": "stof die niet in je lichaam thuishoort",
+      "infectie": "binnendringen van ziekteverwekkers in het lichaam",
+      "afweersysteem (immuunsysteem)": "systeem in het lichaam dat ziekteverwekkers bestrijdt",
+      "antigeen": "eiwit op de buitenkant van een cel of van een virus",
+      "antistof": "eiwit dat ziekteverwekkers onschadelijk maakt",
+      "immuun": "niet ziek worden, omdat witte bloedcellen vrijwel onmiddellijk antistof kunnen maken voor een ziekteverwekker waarmee je al eens bent besmet",
+      "natuurlijke immuniteit": "immuniteit doordat iemand de ziekte zelf heeft meegemaakt",
+      "vaccinatie": "inenting waarbij je een vaccin krijgt ingespoten",
+      "vaccin": "middel dat een dode of verzwakte ziekteverwekker bevat",
+      "kunstmatige immuniteit": "immuniteit doordat iemand is ingeënt met een vaccin",
+      "vaccinatiegraad": "percentage mensen dat gevaccineerd moet worden om de bevolking als geheel te beschermen tegen een ziekte",
+      "allergische reactie": "reactie van het immuunsysteem op een stof waar iemand overgevoelig voor is",
+      "allergie": "overgevoeligheid voor bepaalde stoffen",
+      "anafylactische reactie": "ernstige allergische reactie die kan ontstaan wanneer het lichaam vaker in contact komt met een stof waar iemand allergisch voor is"
+    },
+    "Paragraaf 6": {
+      "_meta": {
+        "flip": false
+      },
+      "bloeddruk": "druk die op de slagaders staat wanneer het bloed wordt rondgepompt",
+      "slagaderverkalking": "vernauwing van bloedvaten door ophoping van kalk",
+      "hartinfarct": "verstopping van een kransslagader waardoor een deel van de hartspier geen zuurstof en voedingsstoffen meer krijgt",
+      "hart- en vaatziekten": "verzamelnaam voor ziekten aan hart en bloedvaten",
+      "kater": "hoofdpijn, dorst en/of misselijkheid door vochtverlies en door de giftige stoffen die ontstaan bij de afbraak van alcohol",
+      "alcoholvergiftiging": "vergiftiging door het drinken van veel alcohol",
+      "bingedrinking": "in korte tijd veel alcohol drinken, waardoor het alcoholgehalte in het bloed snel stijgt tot 0,8 promille of hoger"
+    },
+    "Paragraaf *7": {
+      "_meta": {
+        "flip": false
+      },
+      "weefselvloeistof": "vloeistof die zich tussen de cellen van de organen bevindt",
+      "lymfevat": "vat waarin weefselvloeistof terechtkomt die niet is opgenomen door een haarvat",
+      "lymfe": "vloeistof in de lymfevaten",
+      "lymfevatenstelsel": "alle lymfevaten in het lichaam",
+      "lymfeknoop": "klier die lymfe zuivert van onder andere ziekteverwekkers"
+    },
+    "Paragraaf *8": {
+      "_meta": {
+        "flip": false
+      },
+      "bloedgroep": "bloedtype gebaseerd op bloedfactoren",
+      "bloedfactor": "antigeen op het celmembraan van een rode bloedcel",
+      "antigeen A": "bloedfactor die voorkomt bij mensen met bloedgroep A en bloedgroep AB",
+      "antigeen B": "bloedfactor die voorkomt bij mensen met bloedgroep B en bloedgroep AB",
+      "bloedtransfusie": "bloed toedienen aan een ander persoon"
+    }
+  }
+}

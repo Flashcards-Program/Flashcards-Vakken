@@ -1,0 +1,1097 @@
+{
+  "Unité 1": {
+    "Apprendre 1": {
+      "_meta": {
+        "flip": true
+      },
+      "arriver": "aankomen",
+      "partir": "vertrekken",
+      "voyager": "reizen",
+      "la route": "de weg",
+      "l’autoroute (f)": "de autoweg",
+      "la destination": "de bestemming",
+      "l’aéroport (m)": "het vliegveld",
+      "l’avion (m)": "het vliegtuig",
+      "le train": "de trein",
+      "la voiture": "de auto",
+      "le bateau": "de boot",
+      "la météo": "het weerbericht",
+      "la Belgique": "België",
+      "le Luxembourg": "Luxemburg",
+      "la Suisse": "Zwitserland",
+      "les Pays-Bas (m pl), la Hollande": "Nederland",
+      "le Maroc": "Marokko",
+      "la Turquie": "Turkije",
+      "la France": "Frankrijk",
+      "l’Espagne (f)": "Spanje"
+    },
+    "Apprendre 2": {
+      "_meta": {
+        "flip":false
+      },
+      "le voyage": "de reis",
+      "rouler": "rijden",
+      "la frontière": "de grens",
+      "le péage": "de tol",
+      "l’arrivée (f)": "de aankomst",
+      "continuer": "doorgaan, doorrijden",
+      "avoir mal au cœur": "misselijk zijn",
+      "garer": "parkeren",
+      "le bouchon": "de file",
+      "le départ": "het vertrek",
+      "le panneau": "het (verkeers)bord",
+      "quitter": "verlaten",
+      "la sortie": "de afrit",
+      "la déviation": "de omleiding",
+      "sortir": "uitgaan, naar buiten gaan",
+      "la station-service": "het tankstation",
+      "le retour": "de terugkeer, terugreis"
+    },
+    "Apprendre 3": {
+      "_meta": {
+        "flip": true
+      },
+      "je pars": "ik vertrek",
+      "tu pars": "jij vertrekt",
+      "il / elle part": "hij/zij vertrekt",
+      "on part": "wij vertrekken, men vertrekt",
+      "nous partons": "wij vertrekken",
+      "vous partez": "jullie vertrekken, u vertrekt",
+      "ils / elles partent": "zij vertrekken (m/v)",
+      "je sors": "ik ga uit",
+      "tu sors": "jij gaat uit",
+      "il / elle sort": "hij/zij gaat uit",
+      "on sort": "wij gaan uit, men gaat uit",
+      "nous sortons": "wij gaan uit",
+      "vous sortez": "jullie gaan uit, u gaat uit",
+      "ils / elles sortent": "zij gaan uit (m/v)"
+    },
+    "Apprendre 4": {
+      "_meta": {
+        "flip":false
+      },
+      "le guichet": "het loket",
+      "dépêche-toi !": "haast je!",
+      "la queue": "de rij",
+      "la direction": "de richting",
+      "changer": "overstappen",
+      "descendre": "uitstappen",
+      "la gare": "het (trein)station",
+      "rater": "missen",
+      "traverser": "oversteken",
+      "l’itinéraire (m)": "de reisroute",
+      "l’aller-simple (m)": "het enkeltje",
+      "l’aller-retour (m)": "het retourtje",
+      "le billet": "het (trein)kaartje",
+      "le quai": "het perron",
+      "la voie": "het spoor",
+      "le retard": "de vertraging",
+      "la grève": "de staking",
+      "le vol": "de vlucht"
+    },
+    "Apprendre 5": {
+      "_meta": {
+        "flip": true
+      },
+      "il est allé": "hij is gegaan",
+      "il est venu": "hij is gekomen",
+      "il est arrivé": "hij is aangekomen",
+      "il est parti": "hij is vertrokken",
+      "il est entré": "hij is naar binnen gegaan",
+      "il est sorti": "hij is uitgegaan, naar buiten gegaan",
+      "il est monté": "hij is naar boven gegaan, ingestapt",
+      "il est descendu": "hij is naar beneden gegaan, uitgestapt",
+      "il est resté": "hij is gebleven",
+      "il est rentré": "hij is naar huis gegaan",
+      "il est retourné": "hij is teruggegaan",
+      "il est tombé": "hij is gevallen"
+    },
+    "Apprendre 6": {
+      "_meta": {
+        "flip": true
+      },
+      "la carte Navigo": "de OV-chipkaart (omgeving Parijs)",
+      "être pressé": "haast hebben",
+      "j’ouvre (ouvrir)": "ik open (openen)",
+      "le voyageur": "de reiziger",
+      "simple": "eenvoudig",
+      "l’escalator (m)": "de roltrap",
+      "de rien": "geen dank",
+      "tard": "laat",
+      "être en retard": "te laat zijn",
+      "le distributeur (automatique)": "de kaartjesautomaat",
+      "la carte bancaire": "de bankpas",
+      "avoir envie de": "zin hebben om",
+      "j’en ai marre": "ik ben het zat",
+      "le trajet": "het traject",
+      "le pont": "de brug",
+      "le carrefour": "het kruispunt",
+      "le rondpoint": "de rotonde"
+    },
+    "Apprendre 7": {
+      "_meta": {
+        "flip": true
+      },
+      "Vous pouvez m’aider, s’il vous plait ?": "Kunt u mij alstublieft helpen?",
+      "Il faut prendre quelle ligne ? La ligne en direction de Châtelet ?": "Welke lijn moeten we nemen? De lijn in de richting van Châtelet?",
+      "On descend où ?": "Waar stappen we uit?",
+      "Tu dois payer par carte bancaire.": "Je moet met een pinpas betalen.",
+      "Le RER part de quelle voie ?": "Vanaf welk spoor vertrekt de RER?",
+      "Cela prend combien de temps ? Environ trente minutes ?": "Hoeveel tijd kost dat? Ongeveer dertig minuten?"
+    },
+    "Apprendre 8": {
+      "_meta": {
+        "flip": true
+      },
+      "quinze jours": "twee weken",
+      "dormir": "slapen",
+      "l’avantage (m)": "het voordeel",
+      "bronzer": "bruin worden",
+      "la randonnée": "de wandeltocht",
+      "prochain": "volgend",
+      "faire de l’escalade": "klimmen",
+      "non plus": "ook niet",
+      "louer": "huren",
+      "bref": "kortom",
+      "les jeunes (m pl)": "de jongeren",
+      "l’étranger (m)": "het buitenland",
+      "rester": "blijven",
+      "rencontrer": "ontmoeten",
+      "faire du camping": "kamperen",
+      "la tente": "de tent",
+      "j’avais (avoir)": "ik had (hebben)",
+      "le soleil": "de zon"
+    },
+    "Apprendre 9": {
+      "_meta": {
+        "flip": true
+      },
+      "Pendant les grandes vacances, je suis allé(e) au Luxembourg.": "Tijdens de zomervakantie ben ik naar Luxemburg gegaan.",
+      "Je suis allé(e) à Toulouse avec mes parents en avion.": "Ik ben met het vliegtuig naar Toulouse gegaan met mijn ouders.",
+      "Nous sommes resté(e)s une semaine à Cannes.": "Wij zijn een week in Cannes gebleven.",
+      "On a fait du camping près de la mer. C'était super !": "Wij hebben dicht bij de zee gekampeerd. Het was geweldig!",
+      "J’ai fait des randonnées en montagne.": "Ik heb wandelingen gemaakt in de bergen.",
+      "Heureusement, il a fait chaud tout le temps.": "Gelukkig is het de hele tijd warm weer geweest."
+    },
+    "Apprendre 10": {
+      "_meta": {
+        "flip":false
+      },
+      "Quel temps fait-il ?": "Wat voor weer is het?",
+      "Il fait beau.": "Het is mooi weer.",
+      "Il fait du soleil.": "De zon schijnt.",
+      "Il fait chaud.": "Het is warm.",
+      "Il fait froid.": "Het is koud.",
+      "Il fait du vent.": "Het waait.",
+      "Il pleut.": "Het regent.",
+      "Il neige.": "Het sneeuwt."
+    }
+  },
+  "Unité 2": {
+    "Apprendre 1": {
+      "_meta": {
+        "flip": true
+      },
+      "l’équipe (f)": "het team",
+      "la victoire": "de overwinning",
+      "le champion, la championne": "de kampioen",
+      "le stade": "het stadion",
+      "la balle (de tennis)": "de (tennis)bal",
+      "le ballon (de foot)": "de (voet)bal",
+      "l’arbitre (m / f)": "de scheidsrechter",
+      "faire du vélo": "fietsen",
+      "nager": "zwemmen",
+      "perdre": "verliezen",
+      "battre": "verslaan",
+      "la finale": "de finale",
+      "le tournoi": "het toernooi",
+      "l’entraineur (m)": "de trainer",
+      "les loisirs (m pl)": "de vrijetijdsbesteding",
+      "le jeu de société": "het gezelschapsspel",
+      "bricoler": "knutselen",
+      "la passion": "de passie",
+      "jouer de la musique": "muziek spelen",
+      "créatif, créative": "creatief"
+    },
+    "Apprendre 2": {
+      "_meta": {
+        "flip":false
+      },
+      "le joueur, la joueuse": "de speler",
+      "raconter": "vertellen",
+      "haut": "hoog",
+      "faire partie de": "deel uitmaken van",
+      "participer à": "deelnemen aan",
+      "l’expérience (f)": "de ervaring",
+      "inoubliable": "onvergetelijk",
+      "espérer": "hopen",
+      "je m’entraine (s’entrainer)": "ik train (trainen)",
+      "les études (f pl)": "de studie",
+      "l’avenir (m)": "de toekomst",
+      "conseiller": "aanraden",
+      "attraper": "vangen",
+      "lancer": "gooien",
+      "car": "want",
+      "le point": "het punt",
+      "l’adversaire (m)": "de tegenstander"
+    },
+    "Apprendre 3": {
+      "_meta": {
+        "flip": true
+      },
+      "je peux": "ik kan",
+      "tu peux": "jij kan",
+      "il / elle peut": "hij/zij kan",
+      "on peut": "wij kunnen, men kan",
+      "nous pouvons": "wij kunnen",
+      "vous pouvez": "jullie kunnen, u kunt",
+      "ils / elles peuvent": "zij kunnen (m/v)"
+    },
+    "Apprendre 4": {
+      "_meta": {
+        "flip":false
+      },
+      "progresser": "vooruitgaan",
+      "célèbre": "beroemd",
+      "devenir": "worden",
+      "sur": "over",
+      "l’heure (f)": "het uur",
+      "montrer": "laten zien",
+      "l’exposé (m)": "de spreekbeurt",
+      "on se voit": "we zien elkaar",
+      "le but": "het doel, doelpunt",
+      "j’ai appris (Apprendre)": "ik heb geleerd (leren)",
+      "le matériel": "het materiaal",
+      "fou, folle": "gek",
+      "le casque": "de helm",
+      "la planche": "de plank, het board",
+      "le coude": "de elleboog",
+      "le genou": "de knie",
+      "vérifier": "controleren",
+      "futur": "toekomstig"
+    },
+    "Apprendre 5": {
+      "_meta": {
+        "flip": true
+      },
+      "mon frère": "mijn broer",
+      "ton frère": "jouw broer",
+      "son frère": "zijn / haar broer",
+      "notre frère": "onze broer",
+      "votre frère": "jullie broer, uw broer",
+      "leur frère": "hun broer",
+      "ma sœur": "mijn zus",
+      "ta sœur": "jouw zus",
+      "sa sœur": "zijn / haar zus",
+      "notre sœur": "onze zus",
+      "votre sœur": "jullie zus, uw zus",
+      "leur sœur": "hun zus",
+      "mon amie": "mijn vriendin",
+      "ton amie": "jouw vriendin",
+      "son amie": "zijn / haar vriendin",
+      "notre amie": "onze vriendin",
+      "votre amie": "jullie vriendin, uw vriendin",
+      "leur amie": "hun vriend",
+      "mes parents": "mijn ouders",
+      "tes parents": "jouw ouders",
+      "ses parents": "zijn / haar ouders",
+      "nos parents": "onze ouders",
+      "vos parents": "jullie ouders, uw ouders",
+      "leurs parents": "hun ouders"
+    },
+    "Apprendre 6": {
+      "_meta": {
+        "flip": true
+      },
+      "avoir l’air": "eruitzien",
+      "musicien, musicienne": "muzikaal",
+      "excusez-moi": "neemt u me niet kwalijk",
+      "ciao !": "doei!",
+      "le rendez-vous": "de afspraak",
+      "l’entrée principale (f)": "de hoofdingang",
+      "la batterie": "het drumstel",
+      "arrêter": "stoppen",
+      "tiens !": "hé!",
+      "n’importe quel": "het maakt niet uit welk",
+      "la voix": "de stem",
+      "l’erreur (f)": "de vergissing",
+      "qu’est-ce qu’il y a ?": "wat is er?",
+      "filmer": "filmen",
+      "la démonstration": "de demonstratie",
+      "en tout cas": "in ieder geval",
+      "plus tard": "later",
+      "environ": "ongeveer"
+    },
+    "Apprendre 7": {
+      "_meta": {
+        "flip": true
+      },
+      "Tu joues d’un instrument ?": "Speel jij een instrument?",
+      "Quand est-ce qu’on prend rendez-vous ?": "Wanneer spreken we af?",
+      "On se voit à trois heures et quart devant l’entrée du collège.": "We zien elkaar om kwart over drie voor de schoolingang.",
+      "Allo, c’est Jules.": "Hallo, je spreekt met Jules.",
+      "Excusez-moi, j’ai fait un faux numéro.": "Neemt u me niet kwalijk, ik ben verkeerd verbonden.",
+      "C’est quoi, ton sport préféré ?": "Wat is je lievelingssport?"
+    },
+    "Apprendre 8": {
+      "_meta": {
+        "flip": true
+      },
+      "l’annonce (f)": "de advertentie",
+      "quelqu’un": "iemand",
+      "placer": "plaatsen",
+      "faire la cuisine": "koken",
+      "gourmand": "lekkerbek",
+      "la recette": "het recept",
+      "passionné": "bevlogen",
+      "proposer": "voorstellen",
+      "échanger": "uitwisselen",
+      "découvrir": "ontdekken",
+      "téléphoner à": "bellen",
+      "la flute": "de fluit",
+      "rechercher": "zoeken",
+      "l’ado (m / f)": "de jongere",
+      "bienvenu": "welkom",
+      "la balade": "de tocht",
+      "la région": "de streek"
+    },
+    "Apprendre 9": {
+      "_meta": {
+        "flip": true
+      },
+      "Si tu es intéressé, contacte-nous.": "Als je interesse hebt, neem dan contact met ons op.",
+      "Ils sont fous de balades en bateau avec leurs amis.": "Zij zijn gek op boottochtjes met hun vrienden.",
+      "Vous pouvez venir samedi prochain à midi ?": "Kunnen jullie aanstaande zaterdag om twaalf uur komen?",
+      "Où est-ce qu’on peut se rencontrer ?": "Waar kunnen we elkaar ontmoeten?",
+      "Tout le monde est bienvenu à trois heures moins le quart.": "Iedereen is welkom om kwart voor drie.",
+      "Nous aimons jouer de la guitare et de la flute.": "Wij vinden het leuk om gitaar te spelen en te fluiten."
+    },
+    "Apprendre 10": {
+      "_meta": {
+        "flip":false
+      },
+      "Quelle heure est-il ?": "Hoe laat is het?",
+      "Il est une heure.": "Het is één uur.",
+      "Il est trois heures et quart.": "Het is kwart over drie.",
+      "Il est cinq heures et demie.": "Het is half zes.",
+      "Il est six heures moins le quart.": "Het is kwart voor zes.",
+      "Il est midi.": "Het is twaalf uur ’s middags.",
+      "Il est minuit.": "Het is twaalf uur ’s nachts.",
+      "Il est deux heures vingt.": "Het is twintig over twee.",
+      "Il est trois heures moins dix.": "Het is tien voor drie.",
+      "Il est cinq heures moins le quart.": "Het is kwart voor vijf.",
+      "Le cours commence à neuf heures.": "De les begint om negen uur."
+    }
+  },
+  "Unité 3": {
+    "Apprendre 1": {
+      "_meta": {
+        "flip": true
+      },
+      "décrire": "beschrijven",
+      "la personne": "de persoon",
+      "l’objet (m)": "het voorwerp",
+      "le bâtiment": "het gebouw",
+      "le truc": "het ding",
+      "la différence": "het verschil",
+      "en bois": "van hout",
+      "en plastique": "van plastic",
+      "en métal": "van metaal",
+      "lourd": "zwaar",
+      "léger, légère": "licht",
+      "les cheveux (m pl)": "de haren",
+      "les yeux (m pl)": "de ogen",
+      "la bouche": "de mond",
+      "la peau": "de huid",
+      "la forme": "de vorm",
+      "rond": "rond",
+      "carré": "vierkant",
+      "la taille": "de maat",
+      "l’endroit (m)": "de plaats"
+    },
+    "Apprendre 2": {
+      "_meta": {
+        "flip":false
+      },
+      "l’histoire (f)": "het verhaal",
+      "elle voit (voir)": "zij ziet (zien)",
+      "bizarre": "vreemd",
+      "ne … personne": "niemand",
+      "décider": "beslissen",
+      "le personnage principal": "de hoofdpersoon",
+      "mauvais": "slecht",
+      "recommander": "aanraden",
+      "amusant": "grappig",
+      "la vie": "het leven",
+      "l’amitié (f)": "de vriendschap",
+      "possible, impossible": "mogelijk, onmogelijk",
+      "il entend (entendre)": "hij hoort (horen)",
+      "le bruit": "het geluid",
+      "l’accident (m)": "het ongeluk",
+      "grave": "ernstig",
+      "la fin": "het einde",
+      "aucun": "geen enkel"
+    },
+    "Apprendre 3": {
+      "_meta": {
+        "flip": true
+      },
+      "mettre": "leggen, zetten",
+      "je mets": "ik leg, zet",
+      "tu mets": "jij legt, zet",
+      "il / elle met": "hij / zij legt, zet",
+      "on met": "wij leggen, zetten, men legt, zet",
+      "nous mettons": "wij leggen, zetten",
+      "vous mettez": "jullie leggen, zetten, u legt, zet",
+      "ils / elles mettent": "zij leggen, zetten (m/v)",
+      "il a mis": "hij heeft gelegd, gezet"
+    },
+    "Apprendre 4": {
+      "_meta": {
+        "flip":false
+      },
+      "mesurer": "meten, lang zijn",
+      "en tissu": "van stof",
+      "interdit (interdire)": "verboden (verbieden)",
+      "à partir de": "vanaf",
+      "assez": "nogal",
+      "il dit (dire)": "hij zegt (zeggen)",
+      "le propriétaire": "de eigenaar",
+      "au moins": "ten minste",
+      "les poils (m pl)": "de vacht",
+      "hésiter": "twijfelen",
+      "la patte": "de poot",
+      "j’ai vu (voir)": "ik heb gezien (zien)",
+      "la queue": "de staart",
+      "le corps": "het lichaam",
+      "le collier": "de halsband",
+      "bouclé": "gekruld"
+    },
+    "Apprendre 6": {
+      "_meta": {
+        "flip": true
+      },
+      "ressembler à": "lijken op",
+      "l’église (f)": "de kerk",
+      "décorer": "versieren",
+      "en cuir": "van leer",
+      "incroyable": "ongelooflijk",
+      "la femme": "de vrouw",
+      "la place": "het plein",
+      "le café": "het café",
+      "en verre": "van glas",
+      "vers": "tegen (+ tijd)",
+      "tu connais (connaitre)": "jij kent (kennen)",
+      "la fontaine": "de fontein",
+      "avoir lieu": "plaatsvinden",
+      "la tour": "de toren",
+      "joyeux, joyeuse": "vrolijk",
+      "on y va": "we gaan er naartoe",
+      "au milieu de": "in het midden van",
+      "peser": "wegen"
+    },
+    "Apprendre 7": {
+      "_meta": {
+        "flip": true
+      },
+      "C’est quoi, ce truc en papier ?": "Wat is dat, dat ding van papier?",
+      "C’est un animal de taille moyenne qui pèse lourd.": "Het dier heeft een gemiddeld formaat en weegt veel.",
+      "Ça sert à protéger ton portable.": "Dat is om je mobiel te beschermen.",
+      "Tu veux dire le haut bâtiment en verre ?": "Bedoel je het hoge gebouw van glas?",
+      "On se voit à côté de la station de métro vers huit heures.": "We zien elkaar naast het metrostation tegen acht uur.",
+      "À gauche du café, il y a une vieille église en bois.": "Links van het café staat een oude, houten kerk."
+    },
+    "Apprendre 8": {
+      "_meta": {
+        "flip": true
+      },
+      "personnel, personnelle": "persoonlijk",
+      "cette fois-ci": "deze keer",
+      "le maquillage": "de make-up",
+      "le rouge à lèvres": "de lippenstift",
+      "la boucle d’oreille": "de oorbel",
+      "lisse": "steil",
+      "chauve": "kaal",
+      "la coiffure": "het kapsel",
+      "l’apparence (f)": "het uiterlijk",
+      "la barbe": "de baard",
+      "la moustache": "de snor",
+      "l’appareil (m) dentaire": "de beugel",
+      "être d’accord": "het eens zijn",
+      "ordinaire": "gewoon",
+      "brun": "bruin",
+      "blond": "blond",
+      "plusieurs": "meerdere, verschillende",
+      "soigné": "verzorgd"
+    },
+    "Apprendre 9": {
+      "_meta": {
+        "flip": true
+      },
+      "Noëlle a les yeux verts.": "Noëlle heeft groene ogen.",
+      "Ton copain a les cheveux noirs et bouclés.": "Jouw vriend heeft zwart, gekruld haar.",
+      "Yves ressemble beaucoup à son frère.": "Yves lijkt veel op zijn broer.",
+      "Ils mesurent environ 1 mètre 65.": "Zij zijn ongeveer 1.65 meter lang.",
+      "Je ne suis pas d’accord avec toi.": "Ik ben het niet met je eens.",
+      "Leur sœur porte toujours des lunettes.": "Hun zus draagt altijd een bril."
+    },
+    "Apprendre 10": {
+      "_meta": {
+        "flip":false
+      },
+      "le bus, les bus": "de bus, de bussen",
+      "le corps, les corps": "het lichaam, de lichamen",
+      "le prix, les prix": "de prijs, de prijzen",
+      "le cadeau, les cadeaux": "het cadeau, de cadeaus",
+      "le drapeau, les drapeaux": "de vlag, de vlaggen",
+      "le feu, les feux": "het stoplicht, de stoplichten",
+      "le cheveu, les cheveux": "de haar, de haren",
+      "l'animal, les animaux": "het dier, de dieren",
+      "le cheval, les chevaux": "het paard, de paarden",
+      "l'hôpital, les hôpitaux": "het ziekenhuis, de ziekenhuizen",
+      "le travail, les travaux": "het werk, de werkzaamheden",
+      "l'œil, les yeux": "het oog, de ogen"
+    }
+  },
+  "Unité 4": {
+    "Apprendre 1": {
+      "_meta": {
+        "flip": true
+      },
+      "gratter": "krabben",
+      "la tête": "het hoofd",
+      "l’oeil (m), les yeux": "het oog, de ogen",
+      "le rhume": "de verkoudheid",
+      "l’oreille (f)": "het oor",
+      "le nez": "de neus",
+      "la bouche": "de mond",
+      "les dents (f pl)": "de tanden",
+      "le dos": "de rug",
+      "le ventre": "de buik",
+      "le bras": "de arm",
+      "la jambe": "het been",
+      "le bouton": "de pukkel",
+      "le pied": "de voet",
+      "l’hôpital (m)": "het ziekenhuis",
+      "la fracture": "de breuk",
+      "la cheville": "de enkel",
+      "le doigt": "de vinger",
+      "le doigt de pied": "de teen",
+      "la santé": "de gezondheid",
+      "la main": "de hand",
+      "le genou": "de knie",
+      "le coude": "de elleboog",
+      "le corps": "het lichaam",
+      "avoir mal à": "pijn hebben aan"
+    },
+    "Apprendre 2": {
+      "_meta": {
+        "flip":false
+      },
+      "se moquer de": "uitlachen",
+      "le conseil": "de raad",
+      "la solution": "de oplossing",
+      "se sentir": "zich voelen",
+      "transpirer": "zweten",
+      "le dentiste": "de tandarts",
+      "refuser": "weigeren",
+      "se lever": "opstaan",
+      "se coucher": "gaan slapen",
+      "grossir": "dik worden",
+      "malheureux, malheureuse": "ongelukkig",
+      "être allergique à": "allergisch zijn voor",
+      "se faire du souci": "zich zorgen maken",
+      "répondre à": "antwoord geven op",
+      "avoir peur de": "bang zijn voor",
+      "la peur de l’échec": "de faalangst",
+      "ridicule": "belachelijk"
+    },
+    "Apprendre 3": {
+      "_meta": {
+        "flip": true
+      },
+      "vendre": "verkopen",
+      "je vends": "ik verkoop",
+      "tu vends": "jij verkoopt",
+      "il / elle vend": "hij/zij verkoopt",
+      "on vend": "wij verkopen, men verkoopt",
+      "nous vendons": "wij verkopen",
+      "vous vendez": "jullie verkopen, u verkoopt",
+      "ils / elles vendent": "zij verkopen (m/v)",
+      "il a vendu": "hij heeft verkocht"
+    },
+    "Apprendre 4": {
+      "_meta": {
+        "flip":false
+      },
+      "marcher": "lopen",
+      "pâle": "bleek",
+      "le médecin": "de dokter",
+      "tout de suite": "meteen",
+      "partout": "overal",
+      "le pansement": "de pleister",
+      "guérir": "genezen",
+      "soulager": "verlichten",
+      "saigner": "bloeden",
+      "prescrire": "voorschrijven",
+      "vomir": "overgeven",
+      "la pommade": "het zalfje",
+      "l’ordonnance (f)": "het recept",
+      "la piqure d’insecte": "de insectenbeet",
+      "le médicament": "het medicijn",
+      "le mal de gorge": "de keelpijn",
+      "le coup de soleil": "de zonnesteek"
+    },
+    "Apprendre 5": {
+      "_meta": {
+        "flip": true
+      },
+      "se laver": "zich wassen",
+      "je me lave": "ik was me",
+      "tu te laves": "jij wast je",
+      "il / elle se lave": "hij wast zich",
+      "on se lave": "wij wassen ons, men wast zich",
+      "nous nous lavons": "wij wassen ons",
+      "vous vous lavez": "jullie wassen je, u wast zich",
+      "ils / elles se lavent": "zij wassen zich (m/v)"
+    },
+    "Apprendre 6": {
+      "_meta": {
+        "flip": true
+      },
+      "la pharmacie": "de apotheek",
+      "insupportable": "onverdraaglijk",
+      "nerveux, nerveuse": "zenuwachtig",
+      "la fièvre": "de koorts",
+      "le degré": "de graad",
+      "à la fois": "tegelijkertijd",
+      "le comprimé": "het tabletje",
+      "la cuillère": "het lepeltje",
+      "polluer": "vervuilen",
+      "la douleur": "de pijn",
+      "durer": "duren",
+      "longtemps": "lang",
+      "bon rétablissement": "beterschap",
+      "asseyez-vous": "gaat u zitten",
+      "j’appuie (appuyer)": "ik druk (drukken)",
+      "s’inquiéter": "zich zorgen maken",
+      "propre": "schoon"
+    },
+    "Apprendre 7": {
+      "_meta": {
+        "flip": true
+      },
+      "Qu’est-ce que je peux faire pour vous ?": "Wat kan ik voor u doen?",
+      "Vous avez un médicament contre le mal de ventre ?": "Heeft u een medicijn tegen buikpijn?",
+      "Vous avez de la fièvre ?": "Heeft u koorts?",
+      "Depuis quand est-ce que tu es malade ?": "Sinds wanneer ben je ziek?",
+      "Ça fait mal où ?": "Waar doet het pijn?",
+      "Je ne me sens pas bien du tout.": "Ik voel me helemaal niet goed."
+    },
+    "Apprendre 8": {
+      "_meta": {
+        "flip": true
+      },
+      "l’absence (f)": "de afwezigheid",
+      "le prétexte": "de smoes",
+      "tomber malade": "ziek worden",
+      "attraper la grippe": "de griep krijgen",
+      "tousser": "hoesten",
+      "éternuer": "niezen",
+      "le cabinet du médecin": "de dokterspraktijk",
+      "l’examen (m)": "het onderzoek",
+      "médical": "medisch",
+      "la chute": "de val",
+      "se cogner": "zich stoten",
+      "la blessure": "de verwonding",
+      "le sang": "het bloed",
+      "également": "eveneens",
+      "si": "of (voorwaarde)",
+      "cordialement": "vriendelijke groet",
+      "être en forme": "in vorm zijn"
+    },
+    "Apprendre 9": {
+      "_meta": {
+        "flip": true
+      },
+      "J’ai attrapé un rhume.": "Ik heb kougevat.",
+      "J’ai 40 degrés de fièvre.": "Ik heb 40 graden koorts.",
+      "Je crois que j’ai la grippe.": "Ik geloof dat ik griep heb.",
+      "J’ai fait une chute et je me suis fait très mal.": "Ik ben gevallen en heb me veel pijn gedaan.",
+      "Je vais chez le médecin.": "Ik ga naar de dokter.",
+      "Je me suis cogné la tête.": "Ik heb mijn hoofd gestoten."
+    },
+    "Apprendre 10": {
+      "_meta": {
+        "flip":false
+      },
+      "avoir mal à": "pijn hebben aan",
+      "J’ai mal au nez. (à + le = au)": "Ik heb pijn aan mijn neus.",
+      "J’ai mal à la tête. (à + la = à la)": "Ik heb hoofdpijn.",
+      "J’ai mal à l’oreille. (à + l' = à l')": "Ik heb oorpijn.",
+      "J’ai mal aux dents. (à + les = aux)": "Ik heb pijn aan mijn tanden."
+    }
+  },
+  "Unité 5": {
+    "Apprendre 1": {
+      "_meta": {
+        "flip": true
+      },
+      "le centre-ville": "het stadscentrum",
+      "la cathédrale": "de kathedraal",
+      "le parc": "het park",
+      "le musée": "het museum",
+      "l’office de tourisme (m)": "de VVV",
+      "le guide": "de gids",
+      "visiter": "bezoeken",
+      "le château": "het kasteel",
+      "la terrasse": "het terras",
+      "le pont": "de brug",
+      "gratuit": "gratis",
+      "il y a beaucoup de monde": "het is druk",
+      "le touriste": "de toerist",
+      "le plan de ville": "de stadsplattegrond",
+      "le paysage": "het landschap",
+      "la campagne": "het platteland",
+      "la montagne": "de bergen, het gebergte",
+      "la plage": "het strand",
+      "la rivière": "de rivier",
+      "tranquille": "rustig",
+      "le nord": "het noorden",
+      "le sud": "het zuiden",
+      "l’ouest (m)": "het westen",
+      "l’est (m)": "het oosten",
+      "une curiosité": "een bezienswaardigheid"
+    },
+    "Apprendre 2": {
+      "_meta": {
+        "flip":false
+      },
+      "le conseil": "de tip",
+      "essayer": "proberen",
+      "voler": "vliegen",
+      "autour de": "rondom",
+      "le siècle": "de eeuw",
+      "le Moyen Âge": "de Middeleeuwen",
+      "la hauteur": "de hoogte",
+      "fermer": "sluiten",
+      "le roi": "de koning",
+      "dater de": "dateren uit",
+      "l’ile (f)": "het eiland",
+      "la côte": "de kust",
+      "se trouver": "zich bevinden",
+      "le sommet": "de top",
+      "la statue": "het standbeeld",
+      "bas, basse": "laag",
+      "utile": "nuttig"
+    },
+    "Apprendre 3": {
+      "_meta": {
+        "flip": true
+      },
+      "je vois": "ik zie",
+      "tu vois": "jij ziet",
+      "il / elle voit": "hij/zij ziet",
+      "on voit": "wij zien, men ziet",
+      "nous voyons": "wij zien",
+      "vous voyez": "jullie zien, u ziet",
+      "ils / elles voient": "zij zien (m/v)",
+      "il a vu": "hij heeft gezien"
+    },
+    "Apprendre 4": {
+      "_meta": {
+        "flip":false
+      },
+      "stupide": "stom",
+      "l’étudiant (m)": "de student",
+      "il fait nuit": "het is donker",
+      "la lumière": "het licht",
+      "le devoir": "de opdracht",
+      "en plein air": "in de openlucht",
+      "le nombre": "het aantal, getal",
+      "la capitale": "de hoofdstad",
+      "sentir": "ruiken",
+      "profond": "diep",
+      "ça suffit": "het is genoeg",
+      "le visiteur": "de bezoeker",
+      "l’amateur (m)": "de liefhebber",
+      "le tableau": "het schilderij",
+      "la sculpture": "het beeld",
+      "impressionnant": "indrukwekkend",
+      "le sable": "het zand"
+    },
+    "Apprendre 5": {
+      "_meta": {
+        "flip": true
+      },
+      "ce garçon": "deze jongen, die jongen",
+      "cette flle": "dit meisje, dat meisje",
+      "ces amis": "deze vrienden, die vrienden",
+      "cet enfant": "dit kind, dat kind",
+      "cet homme": "dezeeman, die man"
+    },
+    "Apprendre 6": {
+      "_meta": {
+        "flip": true
+      },
+      "malheureusement": "jammer genoeg",
+      "l’Afrique (f)": "Afrika",
+      "magnifique": "prachtig",
+      "avec eux": "met hen",
+      "le million": "het miljoen",
+      "ça vaut le coup": "dat is de moeite waard",
+      "répéter": "herhalen",
+      "le sujet": "het onderwerp",
+      "ils viennent (venir)": "zij komen (komen)",
+      "la température": "de temperatuur",
+      "le climat": "het klimaat",
+      "connu": "bekend",
+      "l’habitant (m)": "de inwoner",
+      "la colline": "de heuvel",
+      "sec, sèche": "droog",
+      "je finis (finir)": "ik eindig (eindigen)",
+      "quelques": "enkele"
+    },
+    "Apprendre 7": {
+      "_meta": {
+        "flip": true
+      },
+      "Je fais mon exposé sur la ville de Bordeaux.": "Ik hou mijn spreekbeurt over de stad Bordeaux.",
+      "J’ai choisi ce pays parce que j’adore sa culture.": "Ik heb dat land gekozen omdat ik dol ben op de cultuur daar.",
+      "La ville se trouve dans le sud-ouest de la France.": "De stad bevindt zich in het zuidwesten van Frankrijk.",
+      "Cette région est connue pour ses beaux paysages.": "Deze streek staat bekend om haar mooie landschap.",
+      "Je te conseille d’aller voir la grande place.": "Ik raad je aan om het grote plein te gaan bekijken.",
+      "Merci de votre attention. Il y a encore des questions ?": "Bedankt voor jullie aandacht. Zijn er nog vragen?"
+    },
+    "Apprendre 8": {
+      "_meta": {
+        "flip": true
+      },
+      "l’avis": "de mening",
+      "il y a (deux mois)": "(twee maanden) geleden",
+      "la rencontre": "de ontmoeting",
+      "la BD": "het stripboek",
+      "le héros": "de held",
+      "absolument": "absoluut",
+      "nécessaire": "noodzakelijk",
+      "ennuyeux, ennuyeuse": "saai",
+      "effrayant": "eng",
+      "sale": "vies",
+      "à cause de": "als gevolg van",
+      "déçu": "teleurgesteld",
+      "l’ambiance (f)": "de sfeer",
+      "le / la fan": "de fan",
+      "la visite": "het bezoek",
+      "la plupart": "het merendeel",
+      "ne … plus jamais": "nooit meer"
+    },
+    "Apprendre 9": {
+      "_meta": {
+        "flip": true
+      },
+      "J’ai déjà visité ce parc il y a trois ans.": "Drie jaar geleden heb ik dit park al bezocht.",
+      "Le personnel est agréable et veut toujours aider.": "Het personeel is aardig en wil altijd helpen.",
+      "Il n’y a pas beaucoup d’ambiance.": "Er is niet veel sfeer.",
+      "Il faut faire la queue devant les attractions.": "Je moet in de rij staan voor de attracties.",
+      "À mon avis, ce parc est le meilleur parc de France.": "Naar mijn mening is dit park het beste park van Frankrijk.",
+      "La journée est passée trop vite.": "De dag is te snel voorbijgegaan."
+    },
+    "Apprendre 10": {
+      "_meta": {
+        "flip":false
+      },
+      "premier, première": "eerste",
+      "deuxième / second": "tweede",
+      "troisième": "derde",
+      "quatrième": "vierde",
+      "cinquième": "vijfde",
+      "sixième": "zesde",
+      "septième": "zevende",
+      "huitième": "achtste",
+      "neuvième": "negende",
+      "dixième": "tiende"
+    }
+  },
+  "Unité 6": {
+    "Apprendre 1": {
+      "_meta": {
+        "flip": true
+      },
+      "le bonheur": "het geluk",
+      "l’amour (m)": "de liefde",
+      "la tristesse": "de triestheid",
+      "la peur": "de angst",
+      "avoir honte": "zich schamen",
+      "déprimé": "somber",
+      "seul": "alleen, eenzaam",
+      "jaloux, jalouse": "jalors",
+      "l’émotion (f)": "de emotie",
+      "amoureux, amoureuse": "verliefd",
+      "heureux, heureuse": "gelukkig",
+      "fier, fière": "trots",
+      "stressé": "gestrest",
+      "consoler": "troosten",
+      "paniquer": "in paniek raken",
+      "tomber amoureux, amoureuse": "verliefd worden",
+      "avoir peur": "bang zijn",
+      "la dispute": "de ruzie",
+      "joyeux, joyeuse": "vrolijk",
+      "le chagrin d’amour": "het liefsdesverdriet",
+      "pleurer": "huilen",
+      "malheureux, malheureuse": "ongelukkig",
+      "triste": "triest",
+      "fâché": "boos",
+      "rire": "lachen"
+    },
+    "Apprendre 2": {
+      "_meta": {
+        "flip":false
+      },
+      "au secours !": "help!",
+      "communiquer": "communiceren",
+      "la catastrophe": "de ramp",
+      "exagérer": "overdrijven",
+      "se disputer": "ruzie hebben",
+      "c’est l’angoisse": "dat vind ik eng",
+      "inquiet, inquiète": "ongerust",
+      "oser": "durven",
+      "rougir": "blozen",
+      "chanter": "zingen",
+      "essayer": "proberen",
+      "soudain": "plotseling",
+      "trembler": "trillen",
+      "timide": "verlegen",
+      "tomber dans les pommes": "flauwvallen",
+      "finir": "eindigen, klaar zijn",
+      "autrefois": "vroeger",
+      "ça va passer": "het gaat over"
+    },
+    "Apprendre 3": {
+      "_meta": {
+        "flip": true
+      },
+      "rougir": "blozen",
+      "je rougis": "ik bloos",
+      "tu rougis": "jij bloost",
+      "il / elle rougit": "hij/zij bloost",
+      "on rougit": "wij blozen, men bloost",
+      "nous rougissons": "wij blozen",
+      "vous rougissez": "jullie blozen, u bloost",
+      "ils / elles rougissent": "zij blozen (m/v)",
+      "il a rougi": "hij heeft gebloost"
+    },
+    "Apprendre 4": {
+      "_meta": {
+        "flip":false
+      },
+      "la joie": "de blijdschap",
+      "curieux, curieuse": "nieuwsgierig",
+      "il a écrit (écrire)": "hij heeft geschreven (schrijven)",
+      "organiser": "organiseren",
+      "la surprise": "de verrassing",
+      "populaire": "populair",
+      "le début": "het begin",
+      "espérer": "hopen",
+      "l’actrice (f)": "de actrice",
+      "suivant": "volgend",
+      "aider": "helpen",
+      "la déception": "de teleurstelling",
+      "sensible": "gevoelig",
+      "avant": "eerst, vroeger",
+      "annuler": "afzeggen, annuleren",
+      "maintenant": "nu",
+      "j’ai reçu (recevoir)": "ik heb ontvangen (ontvangen)"
+    },
+    "Apprendre 5": {
+      "_meta": {
+        "flip": true
+      },
+      "je dansais": "ik danste",
+      "tu dansais": "jij danste",
+      "il / elle dansait": "hij/zij danste",
+      "on dansait": "wij dansten, men danste",
+      "nous dansions": "wij dansten",
+      "vous dansiez": "jullie dansten, u danste",
+      "ils / elles dansaient": "zij dansten (m/v)"
+    },
+    "Apprendre 6": {
+      "_meta": {
+        "flip": true
+      },
+      "sélectionner": "selecteren",
+      "la réunion": "de vergadering",
+      "avoir raison": "gelijk hebben",
+      "la discussion": "de discussie",
+      "discuter": "discussiëren",
+      "arrogant": "arrogant",
+      "dire du mal de quelqu’un": "roddelen over iemand",
+      "c’est évident": "dat is duidelijk",
+      "énerver": "irriteren",
+      "laisse tomber": "laat zitten",
+      "patient, impatient": "geduldig, ongeduldig",
+      "sociable": "sociaal",
+      "en ce moment": "op dit moment",
+      "tu dois (devoir)": "jij moet (moeten)",
+      "je sais (savoir)": "ik weet (weten)",
+      "faible": "zwak",
+      "fort": "sterk"
+    },
+    "Apprendre 7": {
+      "_meta": {
+        "flip": true
+      },
+      "Je me sens vraiment nul / nulle.": "Ik voel me echt waardeloos.",
+      "Qu’est-ce qu’il y a ? Ça ne va pas bien ?": "Wat is er aan de hand? Gaat het niet goed?",
+      "Demain, j’ai rendez-vous avec Deborah.": "Morgen heb ik een afspraak met Deborah.",
+      "Merci du compliment. C’est très gentil.": "Dank je wel voor het compliment. Dat is erg aardig.",
+      "Je suis heureux / heureuse parce que j’ai eu un 16 en histoire.": "Ik ben blij want ik heb een 8 gehaald voor geschiedenis.",
+      "Je trouve que ce garçon n’est pas du tout sympa.": "Ik vind dat die jongen helemaal niet aardig is."
+    },
+    "Apprendre 8": {
+      "_meta": {
+        "flip": true
+      },
+      "ce matin": "vanmorgen",
+      "le pneu crevé": "de lekke band",
+      "interroger": "overhoren",
+      "sûrement": "zeker",
+      "affreux, affreuse": "vreselijk",
+      "le contrôle": "de schriftelijke overhoring",
+      "injuste": "onrechtvaardig",
+      "réviser": "overkijken",
+      "furieux, furieuse": "woedend",
+      "paresseux, paresseuse": "lui",
+      "faire de son mieux": "zijn best doen",
+      "intelligent": "intelligent",
+      "négatif, négative": "negatief",
+      "positif, positive": "positief",
+      "frustré": "gefrustreerd",
+      "je reçois (recevoir)": "ik ontvang (ontvangen)",
+      "faire semblant": "doen alsof"
+    },
+    "Apprendre 9": {
+      "_meta": {
+        "flip": true
+      },
+      "Moi, ça ne va pas bien du tout.": "Het gaat helemaal niet goed met mij.",
+      "Je suis arrivé en retard en cours d’histoire.": "Ik ben te laat bij de geschiedenisles gekomen.",
+      "J’ai eu une mauvaise note. Ce n’est pas une bonne nouvelle.": "Ik heb een slecht cijfer gehaald. Dat is geen goed nieuws.",
+      "Je fais toujours de mon mieux.": "Ik doe altijd mijn best.",
+      "Je ne supporte pas, c’est injuste.": "Ik kan er niet tegen, het is onrechtvaardig.",
+      "Je me sens mieux maintenant. Je te tiens au courant.": "Ik voel me beter nu. Ik hou je op de hoogte."
+    },
+    "Apprendre 10": {
+      "_meta": {
+        "flip":false
+      },
+      "d'abord": "eerst",
+      "ensuite": "vervolgens",
+      "enfin": "uiteindelijk",
+      "mais": "maar",
+      "car": "want",
+      "parce que": "omdat",
+      "donc": "dus",
+      "aussi": "ook"
+    }
+  }
+}

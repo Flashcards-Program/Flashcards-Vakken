@@ -1,0 +1,1239 @@
+{
+  "Unité 1": {
+    "Apprendre 1": {
+      "_meta": {
+        "flip": true
+      },
+      "bonjour": "dag",
+      "salut": "hoi",
+      "au revoir": "tot ziens",
+      "ça va ?": "hoe gaat het?",
+      "merci": "bedankt",
+      "oui": "ja",
+      "non": "nee",
+      "le garçon": "de jongen",
+      "la fille": "het meisje",
+      "je m'appelle": "ik heet",
+      "j'habite (habiter)": "ik woon (wonen)",
+      "voici": "hier is, hier zijn",
+      "voilà": "daar is, daar zijn",
+      "monsieur": "meneer",
+      "madame": "mevrouw",
+      "il y a": "er is, er zijn",
+      "c'est": "het is, dat is",
+      "français(e)": "Frans",
+      "néerlandais(e)": "Nederlands",
+      "où ?": "waar?"
+    },
+    "Apprendre 2": {
+      "_meta": {
+        "flip": false
+      },
+      "je m'appelle": "ik heet",
+      "l'ami (m)": "de vriend",
+      "j'habite (habiter)": "ik woon (wonen)",
+      "le quartier": "de wijk",
+      "l'école (f)": "de school",
+      "la France": "Frankrijk",
+      "le pays": "het land",
+      "la ville": "de stad",
+      "la rue": "de straat",
+      "le collège": "de middelbare school (klas 1, 2, 3)",
+      "voici": "hier is, hier zijn",
+      "voilà": "daar is, daar zijn",
+      "et toi ?": "en jij?",
+      "grand": "groot",
+      "joli": "mooi, leuk",
+      "il y a": "er is, er zijn",
+      "aussi": "ook"
+    },
+    "Apprendre 3": {
+      "_meta": {
+        "flip": true
+      },
+      "être": "zijn",
+      "je suis": "ik ben",
+      "tu es": "jij bent",
+      "il est": "hij is",
+      "elle est": "zij is",
+      "on est": "wij zijn, men is",
+      "nous sommes": "wij zijn",
+      "vous êtes": "jullie zijn, u bent",
+      "ils sont": "zij zijn (m)",
+      "elles sont": "zij zijn (v)"
+    },
+    "Apprendre 4": {
+      "_meta": {
+        "flip": false
+      },
+      "oui": "ja",
+      "non": "nee",
+      "le garçon": "de jongen",
+      "la fille": "het meisje",
+      "l'amie (f)": "de vriendin",
+      "comment ?": "hoe?",
+      "ça va bien": "het gaat goed",
+      "le prénom": "de voornaam",
+      "ça va ?": "hoe gaat het?",
+      "merci": "bedankt",
+      "présenter": "voorstellen",
+      "moi ?": "ik?",
+      "à plus": "tot later",
+      "chouette": "leuk",
+      "qui ?": "wie?",
+      "nouveau, nouvelle": "nieuw",
+      "là-bas": "daar, daarginds",
+      "regarde ! (regarder)": "kijk! (kijken naar)"
+    },
+    "Apprendre 6": {
+      "_meta": {
+        "flip": true
+      },
+      "en sixième": "in de brugklas",
+      "dans": "in",
+      "sympa": "aardig",
+      "je te présente": "ik stel je voor",
+      "où ?": "waar?",
+      "l'appartement (m)": "het appartement",
+      "la maison": "het huis",
+      "loin": "ver",
+      "le jardin": "de tuin",
+      "la piscine": "het zwembad",
+      "il s'appelle": "hij heet",
+      "la minute": "de minuut",
+      "maintenant": "nu",
+      "très": "heel, erg",
+      "bien": "goed",
+      "et": "en",
+      "mais": "maar",
+      "avec": "met"
+    },
+    "Apprendre 7": {
+      "_meta": {
+        "flip": true
+      },
+      "Comment tu t'appelles ?": "Hoe heet je?",
+      "Je m'appelle Thomas.": "Ik heet Thomas.",
+      "Tu es en quelle classe ?": "In welke klas zit je?",
+      "Je suis en sixième.": "Ik zit in de brugklas.",
+      "Tu habites où ?": "Waar woon je?",
+      "J'habite à Paris.": "Ik woon in Parijs."
+    },
+    "Apprendre 8": {
+      "_meta": {
+        "flip": true
+      },
+      "français(e)": "Frans",
+      "la mer": "de zee",
+      "super": "geweldig",
+      "petit": "klein",
+      "de": "van",
+      "le / la même": "dezelfde, hetzelfde",
+      "content": "tevreden, blij",
+      "ou": "of",
+      "sportif": "sportief",
+      "le bus": "de bus",
+      "le nom de famille": "de achternaam",
+      "l'âge (m)": "de leeftijd",
+      "l'adresse (f)": "het adres",
+      "la nationalité": "de nationaliteit",
+      "le hobby": "de hobby",
+      "près de": "dicht bij",
+      "le tennis": "tennis",
+      "alors": "dan, dus"
+    },
+    "Apprendre 9": {
+      "_meta": {
+        "flip": true
+      },
+      "Tu es néerlandais(e) ?": "Ben je Nederlands?",
+      "Non, je suis français(e).": "Nee, ik ben Frans.",
+      "J'habite dans une maison / un appartement.": "Ik woon in een huis / een appartement.",
+      "Le collège est à 10 minutes.": "De middelbare school is op 10 minuten afstand.",
+      "C'est un village.": "Het is een dorp.",
+      "J'aime le foot.": "Ik hou van voetbal."
+    },
+    "Apprendre 10": {
+      "_meta": {
+        "flip": true
+      },
+      "Regarde le film.": "Bekijk de film.",
+      "Lis le texte.": "Lees de tekst.",
+      "Écoute le dialogue.": "Luister naar de dialoog.",
+      "Écris un e-mail.": "Schrijf een e-mail.",
+      "Réponds aux questions.": "Beantwoord de vragen.",
+      "Complète les phrases.": "Vul de zinnen aan.",
+      "Combine les images.": "Combineer de plaatjes.",
+      "Travaillez à deux.": "Werk samen."
+    }
+  },
+  "Unité 2": {
+    "Apprendre 1": {
+      "_meta": {
+        "flip": true
+      },
+      "la famille": "het gezin, de familie",
+      "le frère": "de broer",
+      "la sœur": "de zus",
+      "les parents (m pl)": "de ouders",
+      "l'enfant (m / f)": "het kind",
+      "le père": "de vader",
+      "la mère": "de moeder",
+      "papa": "papa",
+      "maman": "mama",
+      "le fils": "de zoon",
+      "la fille": "de dochter",
+      "l'oncle (m)": "de oom",
+      "la tante": "de tante",
+      "le grand-père": "de opa",
+      "la grand-mère": "de oma",
+      "les grands-parents (m pl)": "de grootouders",
+      "le cousin": "de neef",
+      "la cousine": "de nicht",
+      "marié (se marier)": "getrouwd (trouwen)",
+      "divorcé (divorcer)": "gescheiden (scheiden)"
+    },
+    "Apprendre 2": {
+      "_meta": {
+        "flip": false
+      },
+      "meilleur": "beste",
+      "demain": "morgen",
+      "l'anniversaire (m)": "de verjaardag",
+      "la fête": "het feest",
+      "l'invitation (f)": "de uitnodiging",
+      "inviter": "uitnodigen",
+      "danser": "dansen",
+      "manger": "eten",
+      "le grand-père": "de opa",
+      "la grand-mère": "de oma",
+      "les parents (m pl)": "de ouders",
+      "le père": "de vader",
+      "la mère": "de moeder",
+      "la famille": "het gezin, de familie",
+      "le frère": "de broer",
+      "la sœur": "de zus",
+      "les jumeaux (m pl)": "de tweeling",
+      "le chien": "de hond"
+    },
+    "Apprendre 3": {
+      "_meta": {
+        "flip": true
+      },
+      "avoir": "hebben",
+      "j'ai": "ik heb",
+      "tu as": "jij hebt",
+      "il a": "hij heeft",
+      "elle a": "zij heeft",
+      "on a": "wij hebben, men heeft",
+      "nous avons": "wij hebben",
+      "vous avez": "jullie hebben, u heeft",
+      "ils ont": "zij hebben (m)",
+      "elles ont": "zij hebben (v)"
+    },
+    "Apprendre 4": {
+      "_meta": {
+        "flip": false
+      },
+      "divorcé (divorcer)": "gescheiden (scheiden)",
+      "marié (se marier)": "getrouwd (trouwen)",
+      "le demi-frère": "de halfbroer",
+      "le fils / la fille unique": "het enig kind",
+      "seul(e)": "alleen",
+      "l'enfant (m / f)": "het kind",
+      "la voisine": "de buurvrouw",
+      "le weekend": "het weekend",
+      "le voisin": "de buurman",
+      "l'oncle (m)": "de oom",
+      "la tante": "de tante",
+      "le copain": "de vriend",
+      "la copine": "de vriendin",
+      "le train": "de trein",
+      "attends ! (attendre)": "wacht! (wachten op)",
+      "le message": "de boodschap",
+      "écouter": "luisteren (naar)",
+      "la chambre": "de slaapkamer"
+    },
+    "Apprendre 5": {
+      "_meta": {
+        "flip": true
+      },
+      "mon frère": "mijn broer",
+      "ma sœur": "mijn zus",
+      "mes parents": "mijn ouders",
+      "ton frère": "jouw broer",
+      "ta sœur": "jouw zus",
+      "tes parents": "jouw ouders",
+      "son frère": "zijn/haar broer",
+      "sa sœur": "zijn/haar zus",
+      "ses parents": "zijn/haar ouders",
+      "mon adresse": "mijn adres",
+      "ton école": "jouw school",
+      "son histoire": "zijn/haar verhaal"
+    },
+    "Apprendre 6": {
+      "_meta": {
+        "flip": true
+      },
+      "organiser": "organiseren",
+      "quel": "welke",
+      "vieux": "oud",
+      "l'animal (m)": "het dier",
+      "adorer": "dol zijn op",
+      "la musique": "de muziek",
+      "chez": "bij (thuis)",
+      "mignon": "schattig",
+      "le métro": "de metro",
+      "seulement": "alleen maar",
+      "rentrer": "naar huis gaan",
+      "en plus": "bovendien",
+      "à pied": "lopend",
+      "le chat": "de kat",
+      "la journée": "de dag",
+      "la chance": "het geluk",
+      "génial": "geweldig",
+      "comme": "zoals"
+    },
+    "Apprendre 7": {
+      "_meta": {
+        "flip": true
+      },
+      "Tu as quel âge ?": "Hoe oud ben je?",
+      "J'ai treize ans.": "Ik ben dertien jaar.",
+      "Tu as des frères et des sœurs ?": "Heb je broers en zussen?",
+      "J'ai un frère et deux sœurs.": "Ik heb een broer en twee zussen.",
+      "Je suis fils / fille unique.": "Ik ben enig kind.",
+      "C'est mon meilleur ami.": "Het is mijn beste vriend."
+    },
+    "Apprendre 8": {
+      "_meta": {
+        "flip": true
+      },
+      "la photo": "de foto",
+      "préparé (préparer)": "klaargemaakt, voorbereid (klaarmaken, voorbereiden)",
+      "bon, bonne": "goed, lekker",
+      "le gâteau": "de taart",
+      "la fleur": "de bloem",
+      "elle rit (rire)": "zij lacht (lachen)",
+      "le mari": "de man, echtgenoot",
+      "drôle": "grappig",
+      "les vacances (f pl)": "de vakantie",
+      "aout": "augustus",
+      "maman": "mama",
+      "l'olive (f)": "de olijf",
+      "sur": "op",
+      "la table": "de tafel",
+      "tout le monde": "iedereen",
+      "toujours": "altijd",
+      "depuis": "sinds"
+    },
+    "Apprendre 9": {
+      "_meta": {
+        "flip": true
+      },
+      "Voici une photo de vacances.": "Hier is een vakantiefoto.",
+      "Mes parents sont très gentils.": "Mijn ouders zijn erg aardig.",
+      "Ma cousine est ma meilleure amie.": "Mijn nicht is mijn beste vriendin.",
+      "Nous sommes amis depuis dix ans.": "Wij zijn sinds tien jaar vrienden.",
+      "C'est ma tante préférée.": "Dat is mijn lievelingstante.",
+      "Nous sommes cinq.": "Wij zijn met zijn vijven."
+    },
+    "Apprendre 10": {
+      "_meta": {
+        "flip": true
+      },
+      "zéro": "0",
+      "un": "1",
+      "deux": "2",
+      "trois": "3",
+      "quatre": "4",
+      "cinq": "5",
+      "six": "6",
+      "sept": "7",
+      "huit": "8",
+      "neuf": "9",
+      "dix": "10",
+      "onze": "11",
+      "douze": "12",
+      "treize": "13",
+      "quatorze": "14",
+      "quinze": "15",
+      "seize": "16",
+      "dix-sept": "17",
+      "dix-huit": "18",
+      "dix-neuf": "19",
+      "vingt": "20"
+    }
+  },
+  "Unité 3": {
+    "Apprendre 1": {
+      "_meta": {
+        "flip": true
+      },
+      "dimanche": "zondag",
+      "lundi": "maandag",
+      "mardi": "dinsdag",
+      "mercredi": "woensdag",
+      "jeudi": "donderdag",
+      "vendredi": "vrijdag",
+      "samedi": "zaterdag",
+      "le / la prof": "de leraar, de lerares",
+      "l'élève (m / f)": "de leerling",
+      "le stylo": "de pen",
+      "l'agenda (m)": "de agenda",
+      "l'interro (f)": "de overhoring",
+      "apprendre": "leren",
+      "l'anglais": "Engels",
+      "les maths (mathématiques) (f pl)": "wiskunde",
+      "l'histoire (f)": "geschiedenis",
+      "la géo(graphie)": "aardrijkskunde",
+      "la biologie": "biologie",
+      "l'ordinateur (m)": "de computer",
+      "la tablette": "de tablet"
+    },
+    "Apprendre 2": {
+      "_meta": {
+        "flip": false
+      },
+      "l'exercice (m)": "de oefening",
+      "le français": "Frans",
+      "la note": "het cijfer",
+      "strict": "streng",
+      "préférer": "liever hebben",
+      "jouer": "spelen",
+      "les devoirs (m pl)": "het huiswerk",
+      "le jeu (vidéo)": "het (computer)spel",
+      "le livre": "het boek",
+      "le cahier": "het schrift",
+      "demander": "vragen",
+      "parler": "praten",
+      "le sac à dos": "de rugzak",
+      "terminer": "eindigen",
+      "détester": "een hekel hebben aan",
+      "regarder": "kijken naar",
+      "la télé(vision)": "de televisie",
+      "travailler": "werken",
+      "commencer": "beginnen",
+      "donner": "geven"
+    },
+    "Apprendre 3": {
+      "_meta": {
+        "flip": true
+      },
+      "danser": "dansen",
+      "je danse": "ik dans",
+      "tu danses": "jij danst",
+      "il danse": "hij danst",
+      "elle danse": "zij danst",
+      "on danse": "wij dansen, men danst",
+      "nous dansons": "wij dansen",
+      "vous dansez": "jullie dansen",
+      "ils dansent": "zij dansen (m)",
+      "elles dansent": "zij dansen (v)"
+    },
+    "Apprendre 4": {
+      "_meta": {
+        "flip": false
+      },
+      "la matière": "het schoolvak",
+      "redoubler": "blijven zitten",
+      "pratiquer": "doen aan",
+      "désolé": "sorry",
+      "l'entrainement (m)": "de training",
+      "difficile": "moeilijk",
+      "fort en": "goed in",
+      "nul en": "slecht in",
+      "il doit (devoir)": "hij moet (moeten)",
+      "dessiner": "tekenen",
+      "le cours": "de les",
+      "sérieux": "serieus",
+      "sauf": "behalve",
+      "bientôt": "gauw",
+      "la comédie musicale": "de musical",
+      "souvent": "vaak",
+      "le jour": "de dag",
+      "qu'est-ce que … ?": "wat?"
+    },
+    "Apprendre 6": {
+      "_meta": {
+        "flip": true
+      },
+      "tout": "alles",
+      "presque": "bijna",
+      "dangereux": "gevaarlijk",
+      "pourquoi ?": "waarom ?",
+      "le spectacle": "de voorstelling",
+      "jouer au tennis": "tennissen",
+      "lire": "lezen",
+      "beaucoup": "veel",
+      "tous les jours": "iedere dag",
+      "ensemble": "samen",
+      "avoir peur": "bang zijn",
+      "le dessin": "tekenen",
+      "jouer du piano": "piano spelen",
+      "jouer du violon": "viool spelen",
+      "jouer au volleyball": "volleyballen",
+      "faire du cheval": "paardrijden",
+      "faire du hockey": "hockey spelen",
+      "faire de la gymnastique": "turnen"
+    },
+    "Apprendre 7": {
+      "_meta": {
+        "flip": true
+      },
+      "Je n'aime pas les jeux vidéo.": "Ik hou niet van computerspellen.",
+      "Est-ce que tu joues souvent de la batterie ?": "Speel je vaak drum?",
+      "Qu'est-ce que tu as comme hobby ?": "Wat heb je als hobby?",
+      "Qu'est-ce que tu fais comme sport ?": "Wat doe je als sport?",
+      "Quelle est ta matière préférée ?": "Wat is jouw lievelingsvak?",
+      "On va faire les devoirs ensemble ?": "Zullen we samen huiswerk maken?"
+    },
+    "Apprendre 8": {
+      "_meta": {
+        "flip": true
+      },
+      "horrible": "verschrikkelijk",
+      "la langue": "de taal",
+      "comprendre": "begrijpen",
+      "le repas": "de maaltijd",
+      "déjeuner": "lunchen",
+      "le matin": "de ochtend, 's ochtends",
+      "le match": "de wedstrijd",
+      "long": "lang",
+      "l'emploi du temps (m)": "het rooster",
+      "l'ennui (m)": "de verveling",
+      "la cantine": "de kantine",
+      "l'activité (f)": "de activiteit",
+      "l'allemand (m)": "Duits",
+      "la chimie": "de scheikunde",
+      "la physique": "de natuurkunde",
+      "aujourd'hui": "vandaag"
+    },
+    "Apprendre 9": {
+      "_meta": {
+        "flip": true
+      },
+      "Le weekend, on regarde un film.": "In het weekend kijken wij naar een film.",
+      "Tu commences à huit heures ?": "Begin je om acht uur?",
+      "Le prof d'histoire est drôle ?": "Is de leraar geschiedenis grappig?",
+      "Non, je déteste l'histoire, je préfère l'anglais.": "Nee, ik heb een hekel aan geschiedenis, ik heb liever Engels.",
+      "Le mercredi, je suis libre à midi.": "Op woensdag ben ik om twaalf uur vrij.",
+      "L'après-midi, j'ai mon entrainement de foot.": "s Middags heb ik mijn voetbaltraining."
+    },
+    "Apprendre 10": {
+      "_meta": {
+        "flip": true
+      },
+      "Comment elle s'appelle ?": "Hoe",
+      "Qui a un chien ?": "Wie",
+      "Quel film on va voir ?": "Welke",
+      "Qu'est-ce que tu fais comme hobby ?": "Wat",
+      "Où est la piscine ?": "Waar",
+      "Pourquoi tu cherches ton sac à dos ?": "Waarom",
+      "Tu regardes la télé quand ?": "Wanneer"
+    }
+  },
+  "Unité 4": {
+    "Apprendre 1": {
+      "_meta": {
+        "flip": true
+      },
+      "la maison": "het huis",
+      "l'appartement (m)": "het appartement",
+      "le garage": "de garage",
+      "l'entrée (f)": "de ingang",
+      "la porte": "de deur",
+      "l'escalier (m)": "de trap",
+      "l'ascenseur (m)": "de lift",
+      "l'étage (m)": "de verdieping",
+      "le meuble": "het meubelstuk",
+      "la pièce": "de kamer, het vertrek",
+      "la chambre": "de slaapkamer",
+      "la cuisine": "de keuken",
+      "la salle de bains": "de badkamer",
+      "la salle de séjour": "de woonkamer",
+      "la fenêtre": "het raam",
+      "l'armoire (f)": "de kast",
+      "les toilettes (f pl)": "het toilet",
+      "la chaise": "de stoel",
+      "la table": "de tafel",
+      "le lit": "het bed"
+    },
+    "Apprendre 2": {
+      "_meta": {
+        "flip": false
+      },
+      "l'arrêt de bus (m)": "de bushalte",
+      "la voiture": "de auto",
+      "le centre-ville": "het stadscentrum",
+      "le magasin": "de winkel",
+      "ouvert (ouvrir)": "open, geopend (openen)",
+      "le supermarché": "de supermarkt",
+      "la plage": "het strand",
+      "la circulation": "het verkeer",
+      "en face de": "tegenover",
+      "le coin": "de hoek",
+      "au-dessus de": "boven",
+      "monter": "naar boven gaan",
+      "il faut": "je moet, het is nodig",
+      "la chose": "het ding",
+      "chercher": "zoeken",
+      "passer": "doorbrengen",
+      "dommage": "jammer"
+    },
+    "Apprendre 3": {
+      "_meta": {
+        "flip": true
+      },
+      "aller": "gaan",
+      "je vais": "ik ga",
+      "tu vas": "jij gaat",
+      "il va": "hij gaat",
+      "elle va": "zij gaat",
+      "on va": "wij gaan, men gaat",
+      "nous allons": "wij gaan",
+      "vous allez": "jullie gaan, u gaat",
+      "ils vont": "zij gaan (m)",
+      "elles vont": "zij gaan (v)"
+    },
+    "Apprendre 4": {
+      "_meta": {
+        "flip": false
+      },
+      "tout près": "dichtbij",
+      "d'accord": "oké",
+      "bonne chance !": "succes!",
+      "tu prends (prendre)": "jij neemt (nemen)",
+      "la boulangerie": "de bakker",
+      "deuxième": "tweede",
+      "déménager": "verhuizen",
+      "blanc": "wit",
+      "les feux (m pl)": "het stoplicht",
+      "à gauche": "(naar) links",
+      "à droite": "(naar) rechts",
+      "tout droit": "rechtdoor",
+      "propre": "eigen",
+      "premier, première": "eerste",
+      "bleu": "blauw",
+      "jusqu'à": "tot aan",
+      "le cinéma": "de bioscoop",
+      "troisième": "derde"
+    },
+    "Apprendre 6": {
+      "_meta": {
+        "flip": true
+      },
+      "la fenêtre": "het raam",
+      "c'est vrai": "dat is waar",
+      "la prise électrique": "het stopcontact",
+      "pratique": "praktisch",
+      "la place": "de plaats",
+      "moche": "lelijk",
+      "puis": "daarna, vervolgens",
+      "troisième": "derde",
+      "le mur": "de muur",
+      "c'est ça": "dat klopt",
+      "exactement": "precies",
+      "on met (mettre)": "wij zetten, men zet (zetten)",
+      "le bureau": "het bureau",
+      "clair": "helder, licht",
+      "tant pis !": "pech gehad!",
+      "pour": "voor, om te",
+      "beau, belle": "mooi"
+    },
+    "Apprendre 7": {
+      "_meta": {
+        "flip": true
+      },
+      "Pardon, je cherche la rue Alibert.": "Pardon, ik zoek de Alibertstraat.",
+      "Il faut continuer tout droit.": "Je moet rechtdoor gaan.",
+      "Tu prends la deuxième rue à gauche.": "Je neemt de tweede straat links.",
+      "Le parc est en face de la boulangerie.": "Het park ligt tegenover de bakker.",
+      "Elle est comment, ta chambre ?": "Hoe ziet je kamer eruit?",
+      "Mon armoire est contre le mur.": "Mijn kast staat tegen de muur."
+    },
+    "Apprendre 8": {
+      "_meta": {
+        "flip": true
+      },
+      "la salle à manger": "de eetkamer",
+      "la salle de bains": "de badkamer",
+      "la vue": "het uitzicht",
+      "le balcon": "het balkon",
+      "le rez-de-chaussée": "de begane grond",
+      "il décrit (décrire)": "hij beschrijft (beschrijven)",
+      "plein de": "een heleboel",
+      "calme": "rustig",
+      "le rêve": "de droom",
+      "arriver": "aankomen",
+      "le tapis": "het tapijt",
+      "idéal": "ideaal",
+      "le canapé": "de bank",
+      "doux": "zacht",
+      "même": "zelfs",
+      "le frigo": "de koelkast",
+      "le four": "de oven",
+      "ici": "hier"
+    },
+    "Apprendre 9": {
+      "_meta": {
+        "flip": true
+      },
+      "Vous avez combien de pièces ?": "Hoeveel kamers hebben jullie?",
+      "Ma maison est très grande.": "Mijn huis is erg groot.",
+      "Ta chambre est à quel étage ?": "Op welke verdieping is je slaapkamer?",
+      "Ma chambre est au troisième étage.": "Mijn slaapkamer is op de derde verdieping.",
+      "Au rez-de-chaussée, il y a la cuisine.": "De keuken is op de begane grond.",
+      "J'habite dans un quartier calme.": "Ik woon in een rustige wijk."
+    },
+    "Apprendre 10": {
+      "_meta": {
+        "flip": true
+      },
+      "sur": "op",
+      "sous": "onder",
+      "dans": "in",
+      "derrière": "achter",
+      "devant": "voor",
+      "à côté de": "naast"
+    }
+  },
+  "Unité 5": {
+    "Apprendre 1": {
+      "_meta": {
+        "flip": true
+      },
+      "bleu": "blauw",
+      "jaune": "geel",
+      "vert": "groen",
+      "rouge": "rood",
+      "orange": "oranje",
+      "blanc": "wit",
+      "noir": "zwart",
+      "les vêtements (m pl)": "de kleren",
+      "le jean": "de spijkerbroek",
+      "la casquette": "de pet",
+      "la robe": "de jurk",
+      "la jupe": "de rok",
+      "la chemise": "het overhemd",
+      "la chaussure": "de schoen",
+      "le pull": "de trui",
+      "la bottine": "de laars",
+      "la chaussette": "de sok",
+      "le manteau": "de jas",
+      "le teeshirt": "het T-shirt",
+      "la basket": "de sportschoen"
+    },
+    "Apprendre 2": {
+      "_meta": {
+        "flip": false
+      },
+      "le style": "de stijl",
+      "porter": "dragen",
+      "oublier": "vergeten",
+      "changer": "veranderen",
+      "la couleur": "de kleur",
+      "quand": "als, wanneer",
+      "s'habiller": "zich aankleden",
+      "le chapeau": "de hoed",
+      "les lunettes (f pl)": "de bril",
+      "le pantalon": "de (nette) broek",
+      "gris": "grijs",
+      "marron": "bruin",
+      "le collier": "de ketting",
+      "le blouson": "het jack",
+      "pourquoi pas ?": "waarom niet?",
+      "la cravate": "de stropdas",
+      "tu lis (lire)": "jij leest (lezen)"
+    },
+    "*Apprendre 3": {
+      "_meta": {
+        "flip": true
+      },
+      "vouloir": "willen",
+      "je veux": "ik wil",
+      "tu veux": "jij wilt",
+      "il veut": "hij wil",
+      "elle veut": "zij wil",
+      "on veut": "wij willen, men wil",
+      "nous voulons": "wij willen",
+      "vous voulez": "jullie willen, u wilt",
+      "ils veulent": "zij willen (m)",
+      "elles veulent": "zij willen (v)"
+    },
+    "Apprendre 4": {
+      "_meta": {
+        "flip": false
+      },
+      "la taille": "de maat",
+      "les soldes (m pl)": "de uitverkoop",
+      "faire du shopping": "winkelen",
+      "cher, chère": "duur",
+      "acheter": "kopen",
+      "le site": "de website",
+      "tu mets (mettre)": "jij trekt aan (aantrekken)",
+      "renvoyer": "terugsturen",
+      "le sweat": "het sweatshirt",
+      "couter": "kosten",
+      "rapide": "snel",
+      "la veste": "het jasje",
+      "choisir": "kiezen",
+      "essayer": "passen",
+      "commander": "bestellen",
+      "vous venez (venir)": "jullie komen, u komt (komen)",
+      "si": "als"
+    },
+    "Apprendre 6": {
+      "_meta": {
+        "flip": true
+      },
+      "prêter": "lenen",
+      "en promotion": "in de aanbieding",
+      "moi si": "ik wel",
+      "en ligne": "online",
+      "la qualité": "de kwaliteit",
+      "je viens (venir)": "ik kom (komen)",
+      "regretter": "jammer vinden, betreuren",
+      "désirer": "wensen",
+      "la pointure": "de schoenmaat",
+      "je prends (prendre)": "ik neem (nemen)",
+      "tu peux (pouvoir)": "jij kunt (kunnen)",
+      "quand même": "toch",
+      "autre": "ander",
+      "le vendeur": "de verkoper",
+      "d'occasion": "tweedehands",
+      "la paire": "het paar",
+      "dernier, dernière": "laatste",
+      "moche": "lelijk"
+    },
+    "Apprendre 7": {
+      "_meta": {
+        "flip": true
+      },
+      "Qu'est-ce que tu mets pour la fête de David ?": "Wat trek je aan op het feest van David?",
+      "Je mets une veste bleue, un jean noir et des baskets.": "Ik trek een blauw jasje aan, een zwarte spijkerbroek en sportschoenen.",
+      "Quelle est votre taille ?": "Wat is uw maat?",
+      "Ma taille, c'est 38 ou 40.": "Mijn maat is 38 of 40.",
+      "Les bottines coutent combien ?": "Hoe duur zijn de laarzen?",
+      "Elles coutent 65 euros. Ce n'est pas cher.": "Ze kosten 65 euro. Dat is niet duur."
+    },
+    "Apprendre 8": {
+      "_meta": {
+        "flip": true
+      },
+      "la cour": "het schoolplein",
+      "par exemple": "bijvoorbeeld",
+      "trouver": "vinden",
+      "la réponse": "het antwoord",
+      "violet": "paars",
+      "la marque": "het merk",
+      "important": "belangrijk",
+      "ça me va bien": "het staat me goed",
+      "durable": "duurzaam",
+      "à la mode": "in de mode",
+      "triste": "triest, verdrietig",
+      "bon marché": "goedkoop",
+      "pas du tout": "helemaal niet",
+      "chaque": "iedere",
+      "rose": "roze",
+      "rayé": "gestreept",
+      "l'argent de poche (m)": "het zakgeld"
+    },
+    "Apprendre 9": {
+      "_meta": {
+        "flip": true
+      },
+      "C'est quoi, ton style de vêtements ?": "Wat is je kledingstijl?",
+      "Ça ne m'intéresse pas.": "Dat interesseert me niet.",
+      "Je porte souvent des vêtements sportifs.": "Ik draag vaak sportieve kleren.",
+      "Je n'achète jamais de vêtements de marque.": "Ik koop nooit merkkleding.",
+      "Est-ce que tu suis la mode ?": "Volg jij de mode?",
+      "Pour moi, le prix est le plus important.": "Voor mij is de prijs het belangrijkst."
+    },
+    "Apprendre 10": {
+      "_meta": {
+        "flip": true
+      },
+      "vingt": "20",
+      "vingt-et-un": "21",
+      "vingt-deux": "22",
+      "vingt-trois": "23",
+      "vingt-quatre": "24",
+      "vingt-cinq": "25",
+      "vingt-six": "26",
+      "vingt-sept": "27",
+      "vingt-huit": "28",
+      "vingt-neuf": "29",
+      "trente": "30",
+      "trente-et-un": "31",
+      "trente-deux": "32",
+      "quarante": "40",
+      "quarante-et-un": "41",
+      "quarante-deux": "42",
+      "cinquante": "50",
+      "cinquante-et-un": "51",
+      "cinquante-deux": "52",
+      "soixante": "60",
+      "soixante-et-un": "61",
+      "soixante-deux": "62",
+      "soixante-dix": "70"
+    }
+  },
+  "Unité 6": {
+    "Apprendre 1": {
+      "_meta": {
+        "flip": true
+      },
+      "avoir faim": "honger hebben",
+      "avoir soif": "dorst hebben",
+      "boire": "drinken",
+      "manger": "eten",
+      "le repas": "de maaltijd",
+      "le petit-déjeuner": "het ontbijt",
+      "le déjeuner": "de lunch",
+      "le diner": "het avondeten",
+      "les légumes (m pl)": "de groenten",
+      "le fruit": "het fruit",
+      "le poisson": "de vis",
+      "la viande": "het vlees",
+      "le fromage": "de kaas",
+      "la baguette": "het stokbrood",
+      "le pain": "het brood",
+      "l'œuf (m)": "het ei",
+      "payer": "betalen",
+      "acheter": "kopen",
+      "cher, pas cher": "duur, niet duur",
+      "le supermarché": "de supermarkt"
+    },
+    "Apprendre 2": {
+      "_meta": {
+        "flip": false
+      },
+      "le bonbon": "het snoepje",
+      "l'eau minérale (f)": "het (mineraal)water",
+      "la semaine": "de week",
+      "le vélo": "de fiets",
+      "chaud": "warm",
+      "à midi": "om twaalf uur 's middags",
+      "différent": "anders",
+      "la salade": "de salade",
+      "je crois (croire)": "ik geloof (geloven)",
+      "je dois (devoir)": "ik moet (moeten)",
+      "vite": "snel",
+      "facile": "makkelijk",
+      "l'huile (f)": "de olie",
+      "le sel": "het zout",
+      "le poivre": "de peper",
+      "couper": "snijden",
+      "mélanger": "mengen",
+      "ajouter": "toevoegen"
+    },
+    "Apprendre 3": {
+      "_meta": {
+        "flip": true
+      },
+      "prendre": "nemen",
+      "je prends": "ik neem",
+      "tu prends": "jij neemt",
+      "il prend": "hij neemt",
+      "elle prend": "zij neemt",
+      "on prend": "wij nemen, men neemt",
+      "nous prenons": "wij nemen",
+      "vous prenez": "jullie nemen, u neemt",
+      "ils prennent": "zij nemen (m)",
+      "elles prennent": "zij nemen (v)"
+    },
+    "Apprendre 4": {
+      "_meta": {
+        "flip": false
+      },
+      "l'Orangina (m)": "de sinas",
+      "le verre": "het glas",
+      "le jus de pomme": "de appelsap",
+      "le croquemonsieur": "de tosti",
+      "trop": "te, teveel",
+      "la glace": "het ijsje",
+      "la (crème) chantilly": "de slagroom",
+      "l'orange (f)": "de sinaasappel",
+      "la pomme": "de appel",
+      "le beurre": "de boter",
+      "gratuit": "gratis",
+      "le croissant": "de croissant",
+      "le printemps": "het voorjaar",
+      "encore": "nog",
+      "faire des courses": "boodschappen doen",
+      "le prix": "de prijs"
+    },
+    "Apprendre 5": {
+      "_meta": {
+        "flip": true
+      },
+      "Vous avez du coca ?": "Heeft u cola?",
+      "Il y a de la confiture ?": "Is er jam?",
+      "Je voudrais de l'eau.": "Ik wil graag water.",
+      "Vous voulez des chips ?": "Willen jullie chips?",
+      "Je prends un litre de lait.": "Ik neem een liter melk.",
+      "Il n'y a pas de beurre.": "Er is geen boter."
+    },
+    "Apprendre 6": {
+      "_meta": {
+        "flip": true
+      },
+      "la carotte": "de wortel",
+      "le poulet": "de kip",
+      "le plat": "het gerecht",
+      "délicieux": "heerlijk",
+      "gouter": "proeven",
+      "c'est fait avec": "het wordt gemaakt met",
+      "typiquement": "typisch",
+      "vraiment": "echt",
+      "d'abord": "eerst",
+      "aider": "helpen",
+      "je connais (connaitre)": "ik ken (kennen)",
+      "volontiers": "graag",
+      "bien sûr": "natuurlijk",
+      "hier": "gisteren",
+      "ce soir": "vanavond",
+      "le thé": "de thee"
+    },
+    "Apprendre 7": {
+      "_meta": {
+        "flip": true
+      },
+      "Qu’est-ce que vous avez à manger ?": "Wat heeft u te eten?",
+      "Je voudrais de la salade, s’il vous plait.": "Ik wil graag sla, alstublieft.",
+      "Qu’est-ce que tu prends ? Un gâteau ?": "Wat neem jij? Een koek?",
+      "Non, j’ai faim, je prends un croquemonsieur.": "Nee, ik heb honger, ik neem een tosti.",
+      "J’ai très soif, vous avez de l’eau ?": "Ik heb erge dorst, heeft u water?",
+      "Ça fait combien ?": "Hoe duur is dat?"
+    },
+    "Apprendre 8": {
+      "_meta": {
+        "flip": true
+      },
+      "parfois": "soms",
+      "surtout": "vooral",
+      "sain": "gezond",
+      "la santé": "de gezondheid",
+      "la nourriture": "het eten",
+      "les pâtes (f pl)": "de pasta",
+      "la pizza": "de pizza",
+      "les frites (f pl)": "de frites",
+      "le hamburger": "de hamburger",
+      "les haricots-verts (m pl)": "de sperziebonen",
+      "le chou-fleur": "de bloemkool",
+      "le saucisson": "het worstje",
+      "le yaourt": "de yoghurt",
+      "la confiture": "de jam",
+      "la boisson": "het drankje",
+      "le jus d'orange": "de sinaasappelsap",
+      "le lait": "de melk",
+      "le café": "de koffie"
+    },
+    "Apprendre 9": {
+      "_meta": {
+        "flip": true
+      },
+      "C’est très bon.": "Het is erg lekker.",
+      "Qu’est-ce que tu manges pendant la journée ?": "Wat eet je gedurende de dag?",
+      "Je mange une tartine de confiture.": "Ik eet een boterham met jam.",
+      "Au petit-déjeuner, je bois un verre de jus d’orange.": "Bij het ontbijt drink ik een glas jus d’orange.",
+      "Comme boisson, je prends un coca.": "Als drinken neem ik cola.",
+      "Ce n’est pas bon pour la santé.": "Dat is niet goed voor de gezondheid."
+    },
+    "Apprendre 10": {
+      "_meta": {
+        "flip": true
+      },
+      "combien": "hoeveel",
+      "une bouteille": "een fles",
+      "un verre": "een glas",
+      "un peu": "een beetje",
+      "peu": "weinig",
+      "beaucoup": "veel",
+      "assez": "genoeg",
+      "trop": "teveel",
+      "ne … pas": "niet",
+      "ne … plus": "niet meer",
+      "ne … jamais": "nooit",
+      "un morceau": "een stuk",
+      "un paquet": "een pak, zak",
+      "un litre": "een liter",
+      "un kilo": "een kilo",
+      "un gramme": "een gram"
+    }
+  },
+  "Unité 7": {
+    "Apprendre 1": {
+      "_meta": {
+        "flip": true
+      },
+      "l'ordinateur portable (m)": "de laptop",
+      "la tablette": "de tablet",
+      "le portable": "de mobiel",
+      "le téléphone": "de telefoon",
+      "appeler": "bellen",
+      "télécharger": "downloaden",
+      "taper": "typen",
+      "la souris": "de muis",
+      "le clavier": "het toetsenbord",
+      "les réseaux sociaux (m pl)": "de sociale media",
+      "l'écran (m)": "het scherm",
+      "le message": "de boodschap",
+      "le texto": "het sms'je",
+      "l'e-mail (m)": "de e-mail",
+      "les écouteurs (m pl)": "de oortjes",
+      "chargé, déchargé": "opgeladen, leeg",
+      "la connexion": "de verbinding",
+      "le lien": "de link",
+      "cliquer (sur)": "klikken (op)",
+      "accro": "verslaafd"
+    },
+    "Apprendre 2": {
+      "_meta": {
+        "flip": false
+      },
+      "le temps": "de tijd",
+      "la mémoire": "het geheugen",
+      "sans": "zonder",
+      "j'envoie (envoyer)": "ik stuur (sturen)",
+      "fantastique": "geweldig",
+      "le souvenir": "de herinnering",
+      "le timbre": "de postzegel",
+      "le monde": "de wereld",
+      "la lettre": "de brief",
+      "la carte postale": "de ansichtkaart",
+      "ne … jamais": "nooit",
+      "vivre": "leven",
+      "pendant": "tijdens",
+      "plein": "vol",
+      "jeter": "(weg)gooien",
+      "parce que": "omdat",
+      "garder": "bewaren, houden"
+    },
+    "Apprendre 3": {
+      "_meta": {
+        "flip": true
+      },
+      "faire": "doen, maken",
+      "ja fais": "ik doe, maak",
+      "tu fais": "jij doet, maakt",
+      "il fait": "hij doet, maakt",
+      "elle fait": "zij doet, maakt",
+      "on fait": "wij doen, maken, men doet, maakt",
+      "nous faisons": "wij doen, maken",
+      "vous faites": "jullie doen, maken",
+      "ils font": "zij doen, maken (m)",
+      "elles font": "zij doen, maken (v)"
+    },
+    "Apprendre 4": {
+      "_meta": {
+        "flip": false
+      },
+      "moins": "minder",
+      "quoi ?": "wat?",
+      "brancher": "(op de stroom) aansluiten",
+      "la poubelle": "de prullenbak",
+      "mieux": "beter",
+      "recycler": "hergebruiken",
+      "sûr": "zeker",
+      "expliquer": "uitleggen",
+      "occupé": "bezet",
+      "écolo": "milieubewust",
+      "je comprends (comprendre)": "ik begrijp (het) (begrijpen)",
+      "cassé": "kapot",
+      "recharger": "opladen",
+      "l'appareil (m)": "het apparaat",
+      "vendre": "verkopen",
+      "la main": "de hand"
+    },
+    "Apprendre 6": {
+      "_meta": {
+        "flip": true
+      },
+      "j'ai perdu (perdre)": "ik ben kwijt, heb verloren (kwijt zijn, verliezen)",
+      "tu plaisantes": "jij maakt een grapje",
+      "c'est la galère !": "wat een gedoe!",
+      "le réseau": "het netwerk",
+      "le mot de passe": "het wachtwoord",
+      "le chargeur": "de oplader",
+      "souris ! (sourire)": "glimlach ! (glimlachen)",
+      "gagner": "winnen",
+      "penser": "denken",
+      "pas mal": "niet slecht",
+      "rapporter": "terugbrengen",
+      "ça marche": "afgesproken, deal",
+      "fin": "dun, fijn",
+      "l'accès (m)": "de toegang",
+      "dépasser": "overschrijden",
+      "la limite": "de grens, limiet",
+      "tu sais (savoir)": "jij weet (weten)"
+    },
+    "Apprendre 7": {
+      "_meta": {
+        "flip": true
+      },
+      "Je n'ai pas d'accès Internet. Vous avez le wifi ?": "Ik heb geen internettoegang. Heeft u wifi?",
+      "Il y a une prise là-bas derrière la table.": "Er is een stopcontact achter de tafel.",
+      "Il est de quelle marque, ton ordinateur portable ?": "Van welk merk is jouw laptop?",
+      "Mon ordinateur portable, c'est un Samsung.": "Mijn laptop is van Samsung.",
+      "Quel est le mot de passe, s'il vous plait ?": "Wat is het wachtwoord, alstublieft?",
+      "Il est noir et il a un grand écran.": "Hij is zwart en heeft een groot scherm."
+    },
+    "Apprendre 8": {
+      "_meta": {
+        "flip": true
+      },
+      "fâché": "boos",
+      "utiliser": "gebruiken",
+      "l'appli(cation) (f)": "de app",
+      "voler": "stelen",
+      "la déclaration": "de verklaring",
+      "heureusement": "gelukkig",
+      "la bêtise": "de stommiteit",
+      "lent": "langzaam",
+      "partager": "delen",
+      "filmer": "filmen",
+      "la vidéo": "het filmpje",
+      "le forfait (mobile)": "het (mobiele) abonnement",
+      "embêtant": "vervelend",
+      "tomber": "vallen",
+      "donc": "dus",
+      "le problème": "het probleem",
+      "réagir": "reageren"
+    },
+    "Apprendre 9": {
+      "_meta": {
+        "flip": true
+      },
+      "Qu'est-ce que tu as fait au camping ?": "Wat heb je op de camping gedaan?",
+      "J'ai posté beaucoup de photos.": "Ik heb veel foto's gepost.",
+      "Qu'est-ce qui s'est passé ?": "Wat is er gebeurd?",
+      "On a volé mon portable.": "Mijn mobiel is gestolen.",
+      "J'ai fait une déclaration de vol en ligne.": "Ik heb online aangifte van diefstal gedaan.",
+      "C'est arrivé le 1er aout dans la rue Voltaire.": "Het gebeurde op 1 augustus in de rue Voltaire."
+    },
+    "Apprendre 10": {
+      "_meta": {
+        "flip": true
+      },
+      "soixante-dix": "70",
+      "soixante-et-onze": "71",
+      "soixante-douze": "72",
+      "soixante-treize": "73",
+      "soixante-dix-neuf": "79",
+      "quatre-vingt": "80",
+      "quatre-vingt-un": "81",
+      "quatre-vingt-deux": "82",
+      "quatre-vingt-trois": "83",
+      "quatre-vingt-neuf": "89",
+      "quatre-vingt-dix": "90",
+      "quatre-vingt-onze": "91",
+      "quatre-vingt-douze": "92",
+      "quatre-vingt-treize": "93",
+      "quatre-vingt-dix-neuf": "99",
+      "cent": "100",
+      "mille": "1000"
+    }
+  }
+}

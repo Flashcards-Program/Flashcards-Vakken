@@ -1,0 +1,352 @@
+{
+  "Hoofdstuk 1":{
+    "Paragraaf 1":{
+      "_meta": {
+        "flip": false
+       },
+      "natuurkunde":"Schoolvak dat tijdelijke veranderingen in de niet-levende natuur bestudeert.",
+      "wetenschap":"Het opdoen van kennis en het toepassen van die kennis in het dagelijks leven.",
+      "natuurwetenschap":"Wetenschap die de natuur bestudeert.",
+      "röntgenfoto's":"Foto’s die worden gemaakt met behulp van röntgenstraling. Ze worden veel gebruikt om breuken in botten op te sporen.",
+      "scheikunde":"Schoolvak dat blijvende veranderingen in de niet-levende natuur bestudeert.",
+      "biologie":"Schoolvak dat de levende natuur bestudeert."
+    },
+    "Paragraaf 2":{
+      "_meta": {
+        "flip": false
+       },
+      "eenheid":"Maat waarin je iets uitdrukt.",
+      "grootheid":"Eigenschap die je kunt meten.",
+      "hypothese":"Voorlopig antwoord; de uitkomst die je vooraf voorspelt.",
+      "indicator":"Een stof waarmee je de aanwezigheid van een andere stof kunt aantonen.",
+      "meetinstrument":"Gereedschap om te meten.",
+      "meetwaarde":"Het getal dat bij de meting wordt bepaald.",
+      "onderzoeksvraag":"Wat je wilt ontdekken tijdens het onderzoek.",
+      "wetenschappelijke methode":"Het doen van onderzoek volgens een aantal vaste stappen.",
+      "zintuig":"Onderdeel van je lichaam waarmee je kunt waarnemen."
+    },
+    "Paragraaf 3":{
+      "_meta": {
+        "flip": false
+       },
+      "analoog (meetinstrument)":"Meetinstrument met wijzers en een schaalverdeling.",
+      "digitaal (meetinstrument)":"Meetinstrument met cijfers op een scherm.",
+      "gasregelknop":"Onderdeel van de brander waarmee je meer of minder gas in de brander kunt laten.",
+      "luchtregelring":"Onderdeel van de brander waarmee je meer of minder lucht bij het gas kunt laten.",
+      "pauzevlam":"Geeloranje vlam van de brander.",
+      "practicum":"Het uitvoeren van experimenten bij natuurkunde en scheikunde.",
+      "ruisende blauwe vlam":"Heetste blauwe vlam van de brander die geluid maakt.",
+      "schaalverdeling":"Streepjes op regelmatige afstand van elkaar met daarbij een reeks getallen waarmee je een meetwaarde kunt aflezen.",
+      "schoorsteen":"Buis die boven op de luchtregelring van een brander staat, waarin lucht en gas gemengd worden.",
+      "stille blauwe vlam":"Geluidloze blauwe vlam van de brander.",
+      "veiligheidsregels":"Regels waar je je tijdens practicum aan moet houden."
+    }
+  },
+  "Hoofdstuk 2":{
+    "Paragraaf 1":{
+      "_meta": {
+        "flip": false
+       },
+      "stofeigenschap":"Een eigenschap waaraan je een stof kunt herkennen en die je kunt gebruiken om stoffen te onderscheiden.",
+      "brandbaarheid":"Stofeigenschap die aangeeft hoe goed eenstof kan branden.",
+      "gevarensymbool":"Een afbeelding (pictogram) die aangeeft voor welk gevaar je moet oppassen."
+    },
+    "Paragraaf 2":{
+      "_meta": {
+        "flip": false
+       },
+      "extraheren":"Scheidingsmethode om oplosbare vaste stoffen te scheiden van niet-oplosbare vaste stoffen.",
+      "filtraat":"De vloeistof die door het filter heen loopt tijdens het filtreren.",
+      "filtreren":"Scheidingsmethode om een vaste stof te scheiden van een vloeistof met behulp van een filter.",
+      "mengsel":"Stof die uit twee of meer soorten moleculen bestaat.",
+      "moleculen":"Heel kleine deeltjes waar stoffen uit bestaan.",
+      "oplossing":"Mengsel van twee (of meer) stoffen waarbijde opgeloste stof volledig is opgenomen in het vloeibare oplosmiddel.",
+      "residu":"Deeltjes die achterblijven op het filter nadat alle vloeistof door het filter is gelopen.",
+      "suspensie":"Vloeistof waarin een fijn verdeeld poeder zweeft.",
+      "zuivere stof":"Stof die uit één soort moleculen bestaat."
+    },
+    "Paragraaf 3":{
+      "_meta": {
+        "flip": false
+       },
+      "massa":"Maat die aangeeft uit hoeveel stof een voorwerp bestaat.",
+      "onderdompelmethode":"Methode om het volume van een voorwerp met een onregelmatige vorm te bepalen.",
+      "volume":"Maat voor de ruimte die een voorwerp of stof inneemt."
+    },
+    "Paragraaf 4":{
+      "_meta": {
+        "flip": false
+       },
+      "dichtheid":"De massa van 1 cm3 van een stof."
+    }
+  },
+  "Hoofdstuk 3":{
+    "Paragraaf 1":{
+      "_meta": {
+        "flip": false
+       },
+      "deeltjesmodel":"Natuur- en scheikundig model dat ervan uitgaat dat stoffen uit moleculen bestaan.",
+      "fasen":"De drie toestanden waarin een stof zich kan bevinden: vaste stof, vloeistof en gas.",
+      "gas":"Fase van een stof waarin alle moleculen los van elkaar kunnen bewegen. De moleculen zitten op relatief grote afstand van elkaar.",
+      "kristalrooster":"Regelmatige stapeling van moleculen van één stof. In dit rooster heeft elk molecuul een vaste plaats.",
+      "kristalstructuur":"Kenmerkende, regelmatige structuur van veel vaste stoffen.",
+      "vaste stof":"Fase van een stof waarin alle moleculen rond een evenwichtsstand trillen.",
+      "vloeistof":"Fase van een stof waarin alle moleculen langs elkaar heen kunnen bewegen. De moleculen zitten zo dicht mogelijk bij elkaar."
+    },
+    "Paragraaf 2":{
+      "_meta": {
+        "flip": false
+       },
+      "meetbereik":"Het verschil tussen de hoogste en de laagste waarde die je met een meetinstrument kunt meten.",
+      "reservoir":"Ruimte onderaan de vloeistofthermometer die gevuld is met vloeistof.",
+      "stijgbuis":"Doorzichtig pijpje van een thermometer waarin een vloeistof kan stijgen en dalen.",
+      "thermometer":"Instrument om de temperatuur mee te meten.",
+      "digitale thermometer":"Thermometer waarbij je de temperatuur op een schermpje kunt aflezen.",
+      "vloeistofthermometer":"Thermometer die bestaat uit een reservoir en een stijgbuis gevuld met vloeistof."
+    },
+    "Paragraaf 3":{
+      "_meta": {
+        "flip": false
+       },
+      "condenseren":"Fase-overgang waarbij een stof overgaat van gasvormig naar vloeibaar.",
+      "fase-overgang":"Een stof gaat van de ene toestand over in een andere toestand.",
+      "rijpen":"Fase-overgang waarbij een stof overgaat van gasvormig naar vast.",
+      "smelten":"Fase-overgang waarbij een stof overgaat van vast naar vloeibaar.",
+      "stollen":"Fase-overgang waarbij een stof overgaat van vloeibaar naar vast.",
+      "bevriezen":"Een andere naam voor stollen, specifiek voor vloeistoffen die vast worden bij een temperatuur onder 0 °C.",
+      "verdampen":"Fase-overgang waarbij een stof overgaat van vloeibaar naar gasvormig.",
+      "vervluchtigen":"Fase-overgang waarbij een stof overgaat van vast naar gasvormig."
+    },
+    "Paragraaf 4":{
+      "_meta": {
+        "flip": false
+       },
+      "koken":"Het proces waarbij een vloeistof niet alleen aan de oppervlakte verdampt, maar overal in de vloeistof.",
+      "kookpunt":"Temperatuur waarbij een vloeistof gaat koken. Het kookpunt is een kenmerkende stofeigenschap.",
+      "smeltdiagram":"Grafiek die het temperatuurverloop tijdens het smeltproces weergeeft voor een specifieke stof.",
+      "smeltpunt":"Temperatuur waarbij een vaste stof gaat smelten. Het smeltpunt is een kenmerkende stofeigenschap.",
+      "stoldiagram":"Grafiek die het temperatuurverloop tijdens het stollingsproces weergeeft voor een specifieke stof.",
+      "vriespunt":"Temperatuur waarbij een stof gaat stollen. Vries- en stolpunt zijn kenmerkende stofeigenschappen."
+    }
+  },
+  "Hoofdstuk 4":{
+    "Paragraaf 1":{
+      "_meta": {
+        "flip": false
+       },
+      "lading":"Hoeveelheid elektriciteit. Een elektrische stroom bestaat uit lading die door de onderdelen van een stroomkring beweegt.",
+      "geleider":"Stof waar een elektrische stroom gemakkelijk doorheen kan lopen.",
+      "isolator":"Stof die een elektrische stroom niet of heel slecht doorlaat.",
+      "schakelaar":"Het onderdeel van een stroomkring waarmee je de stroomkring kunt openen of sluiten.",
+      "stroomkring":"Een geheel van geleidende delen van snoeren, lampen enzovoort, waar stroom doorheen kan lopen.",
+      "stroommeter":"Instrument waarmee je kunt bepalen hoe groot de stroom door een stroomkring is.",
+      "stroomsterkte":"De hoeveelheid lading die per seconde voorbijkomt."
+    },
+    "Paragraaf 2":{
+      "_meta": {
+        "flip": false
+       },
+      "herbruikbare batterij":"Een batterij die je opnieuw kunt opladen.",
+      "netspanning":"De spanning die op stopcontacten staat. In Nederland is dit 230 V.",
+      "spanning":"Een soort ‘elektrische druk’: hoe groter de spanning, hoe groter de ‘druk’ waarmee de lading door de stroomkring wordt gevoerd.",
+      "spanningsbron":"Het onderdeel van een stroomkring dat de spanning levert. Bijvoorbeeld een batterij of een accu.",
+      "spanningsmeter":"Instrument waarmee je de spanning kunt meten.",
+      "transformator":"Apparaat dat netspanning omzet in een andere (meestal lagere) spanning."
+    },
+    "Paragraaf 3":{
+      "_meta": {
+        "flip": false
+       },
+      "bronspanning":"De spanning van de spanningsbron, bijvoorbeeld een batterij.",
+      "parallelschakeling":"Een schakeling met meerdere stroomkringen.",
+      "schakelschema":"Een overzichtelijke tekening van een schakeling, weergegeven met symbolen.",
+      "serieschakeling":"Een schakeling die bestaat uit één stroomkring zonder vertakkingen.",
+      "totale stroomsterkte":"De stroomsterkte in de onvertakte delen van een parallelschakeling."
+    },
+    "Paragraaf 4":{
+      "_meta": {
+        "flip": false
+       },
+      "vermogen":"De hoeveelheid elektrische energie die een apparaat per seconde verbruikt."
+    }
+  },
+  "Hoofdstuk 5":{
+    "Paragraaf 1":{
+      "_meta": {
+        "flip": false
+       },
+      "video-opname":"Serie beelden die met korte tussenpozen is gemaakt.",
+      "schaal":"Verhouding tussen de werkelijke grootte van een voorwerp en de grootte waarop dit voorwerp op een afbeelding is weergegeven.",
+      "stroboscopische foto":"Foto die is gemaakt in een verduisterde ruimte, met als enige verlichting een stroboscooplamp.",
+      "plaats-tijdtabel":"Tabel waarin de plaats (x) van een voorwerp op een aantal tijdstippen (t) is vastgelegd.",
+      "plaats-tijddiagram":"Assenstelsel waarin de plaats (x) is uitgezet tegen de tijd (t).",
+      "(x,t)-diagram":"Andere notatie voor een plaats-tijddiagram.",
+      "afgelegde afstand":"Verschil in afstand tussen twee meetwaarden. Het symbool voor afstand is s."
+    },
+    "Paragraaf 2":{
+      "_meta": {
+        "flip": false
+       },
+      "gemiddelde snelheid":"Afstand die is afgelegd gedeeld door de benodigde tijd.",
+      "snelheid-tijddiagram":"Assenstelsel waarin de snelheid (v) is uitgezet tegen de tijd (t).",
+      "(v,t)-diagram":"Andere notatie voor een snelheid-tijddiagram."
+    },
+    "Paragraaf 3":{
+      "_meta": {
+        "flip": false
+       },
+      "versnelde beweging":"Beweging waarvan de snelheid toeneemt.",
+      "eenparige beweging":"Beweging waarvan de snelheid constant is.",
+      "vertraagde beweging":"Beweging waarvan de snelheid afneemt."
+    },
+    "Paragraaf 4":{
+      "_meta": {
+        "flip": false
+       },
+      "remweg":"Afstand die een voertuig tijdens het remmen aflegt.",
+      "reactietijd":"Tijd tussen het zien van het gevaar en het aangrijpen van de remmen.",
+      "reactie-afstand":"Afstand die een voertuig aflegt tijdens de reactietijd.",
+      "stopafstand":"Totale afstand die een auto nodig heeft om tot stilstand te komen."
+    }
+  },
+  "Hoofdstuk 6":{
+    "Paragraaf 1":{
+      "_meta": {
+        "flip": false
+       },
+      "absorberen":"Opnemen; licht dat niet wordt teruggekaatst, wordt opgenomen.",
+      "diffuse terugkaatsing":"Het licht wordt in alle richtingen teruggekaatst door een object.",
+      "kunstmatige lichtbron":"Voorwerp dat zelf licht geeft en door de mens is gemaakt, bijvoorbeeld: kaarsen, lampen en tl-buizen.",
+      "natuurlijke lichtbron":"Een niet door de mens gemaakt voorwerp of verschijnsel dat zelf licht geeft.",
+      "prisma":"Doorzichtig driehoekig stuk glas of kunststof.",
+      "spectraalkleuren":"De zuivere kleuren in het spectrum.",
+      "spectrum":"Reeks opeenvolgende kleuren die bijvoorbeeld zichtbaar is als licht door een prisma valt.",
+      "zakspectroscoop":"Instrument om licht te bestuderen. Je kunt ermee zien uit welke kleuren licht bestaat."
+    },
+    "Paragraaf 2":{
+      "_meta": {
+        "flip": false
+       },
+      "direct licht":"Het licht gaat rechtstreeks van de lichtbron naar het voorwerp.",
+      "halfschaduw":"Gebied in de schaduw waar slechts een (klein) deel van het licht kan komen.",
+      "indirect licht":"Het licht gaat niet rechtstreeks, maar via een weerkaatsing naar het voorwerp.",
+      "indirecte lichtbron":"Oppervlak dat licht van een lichtbron weerkaatst.",
+      "kernschaduw":"Gebied in de schaduw waar helemaal geen licht komt.",
+      "lichtstraal":"Rechte lijn waarlangs licht beweegt.",
+      "randstraal":"Lichtstraal die net niet door een voorwerp tegengehouden wordt.",
+      "schaduw":"Gebied waar het licht niet rechtstreeks kan komen."
+    },
+    "Paragraaf 3":{
+      "_meta": {
+        "flip": false
+       },
+      "hoek van inval":"Hoek tussen de invallende lichtstraal en de normaal.",
+      "hoek van terugkaatsing":"Hoek tussen de teruggekaatste lichtstraal en de normaal.",
+      "normaal":"Hulplijn die loodrecht op de spiegel staat.",
+      "spiegel":"Glasplaat waartegen een dun laagje aluminium of zilver is aangebracht.",
+      "spiegelbeeld":"Schijnbeeld dat je ziet in een spiegel.",
+      "spiegelende terugkaatsing":"Het licht wordt gericht teruggekaatst en niet alle kanten op, zoals bij diffuse terugkaatsing.",
+      "spiegelwet":"Regel die zegt dat de hoek van inval gelijk is aan de hoek van terugkaatsing."
+    },
+    "Paragraaf 4":{
+      "_meta": {
+        "flip": false
+       },
+      "fluoresceren":"Licht geven als er ultraviolette straling op valt.",
+      "infrarode straling":"Onzichtbare straling die je kunt voelen als warmte.",
+      "ultraviolette straling":"Onzichtbare, schadelijke straling die in zonlicht voorkomt.",
+      "uv-lamp":"Lamp die vooral ultraviolette straling uitzendt.",
+      "warmtelamp":"Lamp die vooral infrarode straling uitzendt."
+    }
+  },
+  "Hoofdstuk 7":{
+    "Paragraaf 1":{
+      "_meta": {
+        "flip": false
+       },
+      "aardas":"Denkbeeldige lijn door de beide polen van de aarde waar de aarde omheen draait.",
+      "aswenteling":"Draaiende beweging van de aarde rond de aardas, waardoor dag en nacht ontstaan.",
+      "dierenriem":"Strook langs de hemel met de twaalf sterrenbeelden, waar de zon in de loop van het jaar voorlangs beweegt.",
+      "ecliptisch vlak":"Vlak waarin de baan van de aarde (en dus ook de zon) ligt.",
+      "fase":"Ander woord voor schijngestalte.",
+      "nieuwe maan":"Zo ziet de maan eruit als de donkere kant naar de aarde toegekeerd is; de maan is dan onzichtbaar.",
+      "noordelijke hemelpool":"Punt aan de hemel waar het noordelijke uiteinde van de aardas naartoe wijst; alle sterren in het noorden lijken rond dit punt te draaien.",
+      "schijngestalte":"Schijnbaar uiterlijk van een planeet of een maan, doordat je alleen het deel kunt zien dat door de zon verlicht wordt (en het niet-verlichte deel onzichtbaar blijft).",
+      "sterrenbeeld":"Groepje sterren dat een herkenbare figuur vormt, met een eigen naam; bekende voorbeelden zijn Orion en de Grote Beer.",
+      "volle maan":"Zo ziet de maan eruit als je tegen het door de zon verlichte deel aankijkt: een grote ronde schijf."
+    },
+    "Paragraaf 2":{
+      "_meta": {
+        "flip": false
+       },
+      "aardse planeet":"Planeet die op de aarde lijkt, met een hard, rotsachtig oppervlak waarop planeetverkenners kunnen landen.",
+      "ellips":"Soort afgeplatte cirkel.",
+      "planeet":"Bolvormig hemellichaam dat in een ellips rond de zon (of een andere ster) beweegt.",
+      "reuzenplaneet":"Planeet die veel groter is dan de aarde en voor een groot deel uit gassen bestaat; een reuzenplaneet heeft geen stevig oppervlak waarop je zou kunnen landen."
+    },
+    "Paragraaf 3":{
+      "_meta": {
+        "flip": false
+       },
+      "atmosfeer":"Mengsel van gassen dat de buitenste laag van een planeet vormt.",
+      "atmosferische druk":"Druk die ontstaat door het gewicht van de gassen in de atmosfeer van de planeet.",
+      "barometer":"Instrument waarmee je de atmosferische druk meet.",
+      "luchtdruk":"Atmosferische druk op aarde.",
+      "standaarddruk":"Gemiddelde luchtdruk op aarde op zeeniveau: 1013 hPa.",
+      "tegendruk":"Druk van de gassen in een hol voorwerp, die tegen de atmosferische druk in werkt.",
+      "vacuüm":"Ruimte waarin geen moleculen zijn en die dus letterlijk helemaal leeg is."
+    },
+    "Paragraaf 4":{
+      "_meta": {
+        "flip": false
+       },
+      "basislijn":"Lijnstuk met een bekende lengte, die je uitzet om een driehoeksmeting te kunnen doen; je doet de hoekmetingen vanaf de uiteinden van je basislijn.",
+      "driehoeksmeting":"Manier om afstand te bepalen door twee hoekmetingen te doen vanaf de uiteinden van een basislijn.",
+      "Melkweg":"Sterrenstelsel waar de zon en de aarde deel van uitmaken. Ook de band van licht die langs de nachtelijke hemel te zien is.",
+      "melkwegstelsel":"Andere naam voor sterrenstelsel.",
+      "sterrenkaart":"Kaart waarop de sterrenhemel wordt weergegeven zoals die op een wolkeloze nacht te zien is.",
+      "sterrenstelsel":"Verzameling van enkele honderden miljarden bij elkaar horende sterren, vaak met opvallende, spiraalvormige armen."
+    }
+  },
+  "Hoofdstuk 8":{
+    "Paragraaf 1":{
+      "_meta": {
+        "flip": false
+       },
+      "geluidsbron":"Voorwerp dat geluid maakt doordat het voorwerp of iets in het voorwerp trilt.",
+      "geluidssnelheid":"Snelheid waarmee het geluid in een tussenstof wordt doorgegeven.",
+      "tussenstof":"Stof waarin de trillingen zich verplaatsen van de geluidsbron naar je oren."
+    },
+    "Paragraaf 2":{
+      "_meta": {
+        "flip": false
+       },
+      "frequentie":"Aantal trillingen per seconde.",
+      "frequentiebereik":"Frequenties die een mens of een dier kan horen.",
+      "microfoon":"Instrument dat drukverschillen in de lucht vertaalt in een elektrisch signaal.",
+      "oscilloscoop":"Instrument dat geluidstrillingen op een scherm weergeeft.",
+      "stemmen":"Een muziekinstrument zo instellen dat het een toon met de juiste toonhoogte maakt.",
+      "tijdbasis":"Tijdschaal op de oscilloscoop.",
+      "trillingstijd":"Tijd die voor één volledige trilling nodig is."
+    },
+    "Paragraaf 3":{
+      "_meta": {
+        "flip": false
+       },
+      "A-filter":"Filter waarmee je een decibelmeter aanpast aan de gevoeligheid van het menselijk oor. Net als menselijke oren wordt de decibelmeter dan minder gevoelig voor lage en heel hoge tonen.",
+      "amplitude":"Maximale uitwijking van een trilling ten opzichte van het midden. Als de amplitude groter wordt, neemt de geluidssterkte toe.",
+      "decibelmeter":"Apparaat waarmee je de geluidssterkte kunt meten.",
+      "gehoordrempel":"Geluidssterkte waarbij je het geluid net begint te horen.",
+      "geluidssterkte":"De geluidssterkte geeft aan hoe hard een geluid is. De eenheid van geluidssterkte is decibel (dB).",
+      "pijngrens":"Geluidssterkte waarbij je oren pijn beginnen te doen."
+    },
+    "Paragraaf 4":{
+      "_meta": {
+        "flip": false
+       },
+      "geluidsisolatie":"Laag isolatiemateriaal om het geluid te absorberen, bijvoorbeeld glaswol.",
+      "geluidsscherm":"Scherm dat geluid terug kan kaatsen.",
+      "geluidswal":"Dikke laag aarde langs bijvoorbeeld de snelweg die het geluid absorbeert."
+    }
+  }
+}

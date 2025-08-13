@@ -1,0 +1,110 @@
+{
+  "Unité 1":{
+    "Apprendre 1":{
+      "_meta": {
+        "flip": true
+       },
+      "bonjour":"dag",
+      "salut":"hoi",
+      "au revoir":"tot ziens",
+      "ça va ?":"hoe gaat het?",
+      "ça va":"het gaat",
+      "merci":"bedankt",
+      "oui":"ja",
+      "non":"nee",
+      "je m'appelle":"ik heet",
+      "je suis":"ik ben",
+      "le garçon":"de jongen",
+      "français":"Frans",
+      "c'est":"het is",
+      "la ville":"de stad"
+    },
+    "Apprendre 2":{
+      "_meta": {
+        "flip": false
+       },
+      "j'habite (habiter)":"ik woon (wonen)",
+      "et toi ?":"en jij?",
+      "l'ami (m)":"de vriend",
+      "le collège":"de middelbare school (klas 1, 2, 3)",
+      "la classe":"de klas",
+      "voici":"dit is",
+      "voilà":"dat is",
+      "la France":"Frankrijk",
+      "le pays":"het land",
+      "le quartier":"de wijk",
+      "la rue":"de straat",
+      "grand":"groot",
+      "joli":"mooi, leuk",
+      "il y a":"er is, er zijn",
+      "aussi":"ook"
+    },
+    "Apprendre 4":{
+      "_meta": {
+        "flip": false
+       },
+      "la fille":"het meisje",
+      "l'amie (v)":"de vriendin",
+      "comment ?":"hoe?",
+      "tu t'appelles":"jij heet",
+      "à plus !":"tot later!",
+      "possible":"mogelijk",
+      "moi ?":"ik?",
+      "loin":"ver"
+    },
+    "Apprendre 6":{
+      "_meta": {
+        "flip": true
+       },
+      "dans":"in",
+      "là-bas":"daarginds",
+      "avec":"met, bij",
+      "et":"en",
+      "d'accord !":"oké!",
+      "zut!":"verdorie!",
+      "super !":"geweldig!"
+    },
+    "Apprendre 7":{
+      "_meta": {
+        "flip": true
+       },
+      "Tu t'appelles comment ?":"Hoe heet jij?",
+      "Je m'appelle Thomas.":"Ik heet Thomas.",
+      "Ça va ?":"Hoe gaat het?",
+      "Ça va bien, merci.":"Het gaat goed, bedankt.",
+      "Qui est-ce ? / C'est qui ?":"Wie is dat?",
+      "C'est une amie de Clémence.":"Dat is een vriendin van Clémence."
+    },
+    "Apprendre 8":{
+      "_meta": {
+        "flip": true
+       },
+      "le copain":"de vriend",
+      "la copine":"de vriendin",
+      "monsieur":"meneer",
+      "le prof":"de leraar",
+      "néerlandais(e)":"Nederlands",
+      "petit":"klein",
+      "grand":"groot",
+      "l'adresse (v)":"het adres",
+      "le prénom":"de voornaam",
+      "écouter":"luisteren",
+      "la musique":"de muziek",
+      "regarder":"kijken",
+      "très":"erg, heel",
+      "aussi":"ook",
+      "bisous":"kusjes"
+    },
+    "Apprendre 9":{
+      "_meta": {
+        "flip": true
+       },
+      "Tu es néerlandais(e) ?":"Ben je Nederlands?",
+      "Je suis français(e).":"Ik ben Frans.",
+      "Tu habites où ?":"Waar woon je?",
+      "J’habite à Amsterdam.":"Ik woon in Amsterdam.",
+      "J'aime le foot.":"Ik houd van voetbal.",
+      "Moi aussi, je suis sportif.":"Ik ook, ik ben sportief."
+    }
+  }
+}
