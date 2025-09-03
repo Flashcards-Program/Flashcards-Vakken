@@ -1,0 +1,72 @@
+name: "Onderwijs: Informatie / Vraag"
+description: "Kies Leerjaar, Onderwijsniveau en Schoolvak. Voeg optioneel notities toe voor extra context of urgentie."
+title: "Onderwijs — {leerjaar} / {schoolvak}"
+labels: ["education"]
+
+body:
+  - type: dropdown
+    id: leerjaar
+    attributes:
+      label: "Leerjaar"
+      description: "Selecteer het leerjaar."
+      options:
+        - label: "Jaar 1"
+          value: "jaar-1"
+        - label: "Jaar 2"
+          value: "jaar-2"
+        - label: "Jaar 3"
+          value: "jaar-3"
+        - label: "Jaar 4"
+          value: "jaar-4"
+        - label: "Jaar 5"
+          value: "jaar-5"
+        - label: "Jaar 6"
+          value: "jaar-6"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: onderwijsniveau
+    attributes:
+      label: "Onderwijsniveau"
+      description: "Kies het onderwijsniveau."
+      options:
+        - label: "Havo/VWO"
+          value: "havo-vwo"
+        - label: "Havo"
+          value: "havo"
+        - label: "VWO"
+          value: "vwo"
+        - label: "Other"
+          value: "other"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: schoolvak
+    attributes:
+      label: "Schoolvak"
+      description: "Kies het vak. Voeg meer opties toe in deze file als nodig."
+      options:
+        - label: "Frans"
+          value: "frans"
+        - label: "Duits"
+          value: "duits"
+        - label: "Nederlands"
+          value: "nederlands"
+        - label: "Natuurkunde"
+          value: "natuurkunde"
+        - label: "Scheikunde"
+          value: "scheikunde"
+        - label: "NaSk"
+          value: "nask"
+        # add your other subjects here
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: "Notities (optioneel)"
+      description: "Extra info, urgentie, of welk hoofdstuk precies — laat leeg als niet van toepassing."
+      placeholder: "Bijv. Hoofdstuk 3.2; toets komende vrijdag; uitleg bij opgave 5"
