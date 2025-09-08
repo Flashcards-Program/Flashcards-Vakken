@@ -1,7 +1,7 @@
 name: "Vak Request"
-description: "Kies Leerjaar, Onderwijsniveau en Schoolvak. Voeg optioneel notities toe voor extra context of urgentie."
-title: "Onderwijs — {leerjaar} / {schoolvak}"
-labels: ["education"]
+description: "Kies Leerjaar, Onderwijsniveau en Schoolvak. Voeg optioneel notities toe voor extra context, specificatie of urgentie."
+title: "Vak Request: "
+labels: ["enhancement"]
 
 body:
   - type: dropdown
