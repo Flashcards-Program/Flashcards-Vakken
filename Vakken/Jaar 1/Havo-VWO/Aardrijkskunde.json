@@ -1,0 +1,69 @@
+{
+  "Hoofdstuk 4": {
+    "Paragraaf 1": {
+      "_meta": {
+        "flip": false
+      },
+      "armoedegrens": "geeft aan wat je per dag minimaal nodig hebt voor de basisbehoeften in een arm land: voedsel, onderdak en kleding",
+      "bbp/inwoner": "het bruto binnenlands product is alles wat er in een land verdiend wordt, gedeeld door het aantal inwoners van het land, wordt ook wel bnp/inwoner genoemd",
+      "beroepsbevolking": "alle mensen die tegen betaling werken plus de werklozen",
+      "centrumlanden": "de groep landen met de hoogste welvaart, ook wel ‘Westen’ genoemd",
+      "periferie": "de groep landen met de laagste welvaart, ook wel de ontwikkelingslanden genoemd",
+      "semiperiferie": "landen waar de welvaart hoger is dan in arme landen, maar lager dan in welvarende landen",
+      "welvaart": "de rijkdom van een land op basis van wat er verdiend wordt"
+    },
+    "Paragraaf 2": {
+      "_meta": {
+        "flip": false
+      },
+      "alfabetiseringsgraad": "een percentage dat aangeeft hoeveel mensen ouder dan 15 jaar kunnen lezen en schrijven",
+      "formele sector": "het officiële deel van de economie. De werkzaamheden in de formele sector vind je terug in officiële statistieken van de overheid",
+      "HDI": "Human Development Index; een cijfer dat aangeeft hoe de levensomstandigheden in een land zijn. Het is gebaseerd op de levensverwachting, alfabetiseringsgraad en koopkracht",
+      "informele sector": "het niet-officiële deel van de economie. De werkzaamheden in de informele sector vind je niet terug in de officiële statistieken van de overheid",
+      "koopkracht": "hoeveel je in een land kunt kopen met één dollar of één euro",
+      "levensverwachting": "geeft aan hoe oud mensen bij geboorte naar verwachting gemiddeld zullen worden",
+      "welzijn": "de rijkdom van een land gemeten op basis van levensomstandigheden",
+      "welzijnsindex": "Human Development Index - een cijfer dat aangeeft hoe de levensomstandigheden in een land zijn. Het is gebaseerd op de levensverwachting, alfabetiseringsgraad en koopkracht"
+    },
+    "Paragraaf 3": {
+      "_meta": {
+        "flip": false
+      },
+      "brp per inwoner": "het bruto regionaal product is alles wat er in een jaar in een regio verdiend wordt, gedeeld door het aantal inwoners van die regio",
+      "ruimtelijke ongelijkheid": "verschillen in inkomen tussen gebieden",
+      "sloppenwijk": "wijk waarin bewoners zelf woningen bouwen, vaak zonder water en zonder toestemming van de overheid. Sloppenwijken liggen vaak op ongeschikte locaties, zoals bij een vuilnisbelt of op een steile helling",
+      "sociale ongelijkheid": "verschillen in inkomen tussen groepen mensen in een land"
+    },
+    "Paragraaf 4": {
+      "_meta": {
+        "flip": false
+      },
+      "arbeidsintensief": "als er voor het maken van een product veel arbeid nodig is en er weinig machines worden gebruikt",
+      "eindproducten": "producten die helemaal af zijn en zo verkocht kunnen worden (bijvoorbeeld een kast)",
+      "globalisering": "proces waarbij gebieden wereldwijd steeds meer met elkaar verbonden raken",
+      "grondstoffen": "nog niet bewerkte goederen (bijvoorbeeld een boomstam)",
+      "halffabricaat": "bewerkte grondstoffen (bijvoorbeeld een houten plank); nog niet het eindproduct",
+      "lagelonenlanden": "landen in de (semi)periferie waar de lonen veel lager zijn dan in de centrumlanden. Ze zijn een aantrekkelijk vestigingsgebied voor arbeidsintensieve bedrijven",
+      "mno (multinationale onderneming) of multinational": "groot bedrijf dat in meerdere landen fabrieken, kantoren en/of vestigingen heeft"
+    },
+    "Paragraaf 5": {
+      "_meta": {
+        "flip": false
+      },
+      "achterland": "een gebied dat voor de aan- en afvoer van goederen afhankelijk is van een haven",
+      "infrastructuur": "alles wat nodig is voor de verplaatsing van personen, goederen en dataverkeer, zoals wegen, havens en glasvezel",
+      "logistiek": "het plannen, organiseren en uitvoeren van goederen van A naar B",
+      "mainport": "haven of vliegveld met een belangrijke rol in het internationale vervoer van goederen en personen",
+      "vestigingsplaatsfactoren": "redenen voor een bedrijf om zich op een bepaalde plaats te vestigen"
+    },
+    "Paragraaf 6": {
+      "_meta": {
+        "flip": false
+      },
+      "opleidingsniveau": "de scholing die je hebt gevolgd",
+      "relatieve armoede": "de situatie waarbij mensen met een inkomen onder de armoedegrens leven. Mensen zijn relatief arm als ze minder te besteden hebben dan het gemiddelde in dat gebied",
+      "verzetsziekten": "ziekten die mede ontstaan door ongezonde leefomstandigheden, zoals ondervoeding en slechte hygiëne",
+      "werkloosheid": "het aantal of het percentage mensen dat geen werk heeft"
+    }
+  }
+}
