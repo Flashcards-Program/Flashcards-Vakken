@@ -1,0 +1,32 @@
+name: Validate JSON
+
+on: [push, pull_request]
+
+jobs:
+  validate-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Validate JSON syntax
+        run: |
+          python - <<'EOF'
+          import json, glob, sys
+          files = glob.glob("**/*.json", recursive=True)
+          failed = False
+          for f in files:
+              try:
+                  with open(f) as fh:
+                      json.load(fh)
+                  print(f"✅ {f} is valid JSON.")
+              except json.JSONDecodeError as e:
+                  print(f"❌ {f} is invalid JSON: {e}")
+                  failed = True
+          sys.exit(1 if failed else 0)
+          EOF
