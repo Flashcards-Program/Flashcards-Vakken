@@ -1,6 +1,8 @@
-name: Validate JSON
+name: Validate JSON (syntax + schema)
 
-on: [push, pull_request]
+on:
+  push:
+  pull_request:
 
 jobs:
   validate-json:
@@ -14,19 +16,64 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Validate JSON syntax
+      - name: Install validation dependency
+        run: pip install jsonschema
+
+      - name: Validate JSON syntax and schema
         run: |
-          python - <<'EOF'
-          import json, glob, sys
-          files = glob.glob("**/*.json", recursive=True)
+          python - <<'PY'
+          import json
+          import glob
+          import sys
+          from jsonschema import validate, ValidationError, SchemaError
+
+          # Load schema
+          schema_path = ".github/json_schema.json"
+          try:
+              with open(schema_path, "r", encoding="utf-8") as sf:
+                  schema = json.load(sf)
+          except FileNotFoundError:
+              print(f"⚠️ Schema file not found at {schema_path}. Schema validation will be skipped.")
+              schema = None
+          except json.JSONDecodeError as e:
+              print(f"❌ Schema file {schema_path} is not valid JSON: {e}")
+              sys.exit(1)
+
+          files = [f for f in glob.glob("**/*.json", recursive=True)
+                   if not f.startswith(".git/")]
+
+          # Skip the schema file itself from validation
+          files_to_validate = [f for f in files if f != schema_path]
+
+          if not files_to_validate:
+              print("No JSON files found (excluding schema).")
+              sys.exit(0)
+
           failed = False
-          for f in files:
+          for f in sorted(files_to_validate):
               try:
-                  with open(f) as fh:
-                      json.load(fh)
-                  print(f"✅ {f} is valid JSON.")
+                  with open(f, "r", encoding="utf-8") as fh:
+                      data = json.load(fh)
+                  print(f"✅ {f} — valid JSON syntax")
               except json.JSONDecodeError as e:
-                  print(f"❌ {f} is invalid JSON: {e}")
+                  print(f"❌ {f} — invalid JSON syntax: {e}")
                   failed = True
+                  continue
+
+              if schema is not None:
+                  try:
+                      validate(instance=data, schema=schema)
+                      print(f"   ✅ {f} — matches schema")
+                  except ValidationError as e:
+                      # show context: message and the path within the instance
+                      instance_path = list(e.path)
+                      print(f"   ❌ {f} — schema validation error: {e.message}")
+                      if instance_path:
+                          print(f"       instance path: {'/'.join(map(str, instance_path))}")
+                      failed = True
+                  except SchemaError as se:
+                      print(f"❌ Schema is invalid: {se}")
+                      sys.exit(1)
+
           sys.exit(1 if failed else 0)
-          EOF
+          PY
