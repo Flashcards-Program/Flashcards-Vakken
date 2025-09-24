@@ -1,0 +1,33 @@
+{
+  "Hoofdstuk 1": {
+    "Paragraaf 1": {
+      "_meta": {
+        "flip": false
+      }
+      "Alternatief aanwendbaar":"Middelen kun je op verschillende manieren inzetten om in je behoeften te voorzien.",
+      "Behoeften":"Alles wat je graag wilt hebben of nodig hebt. Er zijn primaire en secundaire behoeften.",
+      "Consumeren":"Het kopen van goederen en diensten om in je eigen behoeften te voorzien.",
+      "Diensten":"Activiteiten waarmee je in een behoefte voorziet.",
+      "Goederen":"Dit zijn tastbare producten die je kunt kopen. Er zijn gebruiksgoederen en verbruiksgoederen.",
+      "Middelen":"Deze heb je nodig om in je behoeften te kunnen voorzien. Middelen zijn tijd en geld.",
+      "Schaarste":"Je hebt niet genoeg middelen om in al je behoeften te kunnen voorzien."
+    },
+    "Paragraaf 2": {
+      "Begroting":"Overzicht van verwachte inkomsten en uitgaven over een bepaalde periode.",
+      "Bezuinigen":"Minder geld uitgeven.",
+      "Budget":"De hoeveelheid geld waarover je in een bepaalde periode kunt beschikken.",
+      "Huishoudelijke uitgaven":"Dagelijkse uitgaven, zoals boodschappen en persoonlijke verzorging.",
+      "Incidentele uitgaven":"Grote uitgaven die je niet zo vaak doet en waarvoor het verstandig is om geld te reserveren.",
+      "Inkomen":"Het geld dat je ontvangt. Er zijn drie soorten: inkomen uit arbeid, inkomen uit bezit en overdrachtsinkomen.",
+      "Primair inkomen":"Inkomen uit arbeid en bezit.",
+      "Secundair inkomen":"Het primair- en overdrachtsinkomen samen minus de belastingen.",
+      "Sparen":"Geld opzijzetten voor later.",
+      "Vaste lasten":"Uitgaven die je met een bepaalde regelmaat betaalt en die zijn opgenomen in een contract."
+    },
+    "Paragraaf 3": {
+      "Budgetlijn":"Lijn in een grafiek die aangeeft hoeveel je van elk van twee producten kunt kopen met een gegeven budget en gegeven prijzen.",
+      "Budgetset":"Alle keuzemogelijkheden van twee producten die binnen je budget vallen.",
+      "Model":"Een vereenvoudigde weergave van de werkelijkheid."
+    }
+  }
+}
