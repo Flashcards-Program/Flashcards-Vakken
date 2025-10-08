@@ -1,6 +1,9 @@
 {
   "Unité 1": {
     "Apprendre 1": {
+      "_meta": {
+        "flip": true
+      },
       "le décalage horaire": "het tijdsverschil",
       "le sentier": "het pad",
       "la chaleur": "de warmte",
@@ -28,6 +31,9 @@
       "riche": "rijk"
     },
     "Apprendre 2": {
+      "_meta": {
+        "flip": false
+      },
       "le lecteur": "de lezer",
       "raconter": "vertellen",
       "le plus beau, la plus belle": "de mooiste, het mooiste",
@@ -48,5 +54,6 @@
       "l’inscription (f)": "de inschrijving",
       "passer un examen": "een examen doen",
       "à partir de": "vanaf"
+    }
   }
 }
