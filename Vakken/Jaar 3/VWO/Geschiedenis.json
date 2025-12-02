@@ -1,17 +1,58 @@
 {
-  "Hoofdstuk 1": {
-    "Paragraaf 1": {
-      "_meta": {
-        "flip": false
-      },
-      "hoe mensen omstreeks 1900 met tijd omgingen": "In de 19e eeuw ontstonden nationale tijden op aandringen van de spoorwegen. Eind 19e eeuw werd Europa opgedeeld in tijdzones.",
-      "kenmerken van de beschaving omstreeks 1900": "De jaren 1890-1914 staan bekend als la belle époque. Het was een tijd van groeiende welvaart, van toenemende internationale contacten en van een vooruitgangsgeloof.",
-      "hoe de moderne Olympische Spelen ontstonden": "De moderne Olympische Spelenwerden voor het eerst gehouden in 1896. Ze pasten bij de industriële samenleving, het toenemende nationalisme en het groeiend belang van tijdmeting.",
+	"Hoofdstuk 1": {
+		"Paragraaf 1": {
+			"_meta": {
+				"flip": false
+			},
+			"hoe mensen omstreeks 1900 met tijd omgingen": "In de 19e eeuw ontstonden nationale tijden op aandringen van de spoorwegen. Eind 19e eeuw werd Europa opgedeeld in tijdzones.",
+			"kenmerken van de beschaving omstreeks 1900": "De jaren 1890-1914 staan bekend als la belle époque. Het was een tijd van groeiende welvaart, van toenemende internationale contacten en van een vooruitgangsgeloof.",
+			"hoe de moderne Olympische Spelen ontstonden": "De moderne Olympische Spelenwerden voor het eerst gehouden in 1896. Ze pasten bij de industriële samenleving, het toenemende nationalisme en het groeiend belang van tijdmeting.",
 
-      "la belle époque": "(het mooie tijdperk) de periode van omstreeks 1890 tot 1914",
-      "tijd van wereldoorlogen": "negende tijdvak (1900-1950)",
-      "tijdzone": "gebied met dezelfde tijd",
-      "vooruitgangsgeloof": "idee dat het leven steeds beter wordt"
-    }
-  }
+			"la belle époque": "(het mooie tijdperk) de periode van omstreeks 1890 tot 1914",
+			"tijd van wereldoorlogen": "negende tijdvak (1900-1950)",
+			"tijdzone": "gebied met dezelfde tijd",
+			"vooruitgangsgeloof": "idee dat het leven steeds beter wordt"
+		}
+	},
+	"Hoofdstuk 2": {
+		"Paragraaf 1": {
+			"_meta": {
+				"flip": false
+			},
+			"hoe de welvaart ontstond in de VS": "De VS waren in de jaren 1920 het rijkste land ter wereld. Door de bloeiende economie ontstond er een consumptiemaatschappij.",
+			"hoe de economische wereldcrisis ontstond.": "Eind 1929 begon in de VS een langdurige economische crisis die door de handelscontacten over de wereld werd verspreid.",
+			"hoe de crisis werd bestreden.": "Vanaf 1933 bestreed de Amerikaanse regering de crisis door zich intensief te bemoeien met de economie. De crisis eindigde door de Tweede Wereldoorlog.",
+			"hoe de economie invloed had op de cultuur.": "Door de bloeiende economie veranderde het dagelijks leven en de mentaliteit in de VS in de roerige jaren 1920. Conservatieve groepen zorgden voor een tijdelijk verbod op alcohol. In de jaren 1930 bloeide de filmindustrie.",
+
+			"beurs": "gebouw waar in aandelen wordt gehandeld",
+			"beurskrach": "sterke en snelle daling van de aandelenkoersen op de beurs",
+			"consumptiemaatschappij": "samenleving waarin veel consumptiegoederen worden gekoch",
+			"economische crisis (depressie)": "lange tijd van economische achteruitgang en werkloosheid",
+			"interbellum": "periode tussen de twee wereldoorlogen",
+			"keerpunt": "belangrijke snelle verandering",
+			"krediet": "lening",
+			"lopende band": "productiesysteem waarbij werknemers handelingen verrichten aan voorbijkomende producten",
+			"subsidie": "financiële steun van de overheid"
+		},
+		"Paragraaf 2": {
+			"_meta": {
+				"flip": false
+			},
+			"hoe Mussolini opkwam in Italië": "Na de Eerste Wereldoorlog was er onvrede en chaos in Italië. Mussolini presenteerde zich als de sterke man die het land kon redden.",
+			"hoe Italië een totalitaire dictatuur werd": "In 1922 werd Mussolini premier. Hij maakte van Italië een eenpartijstaat en een dictatuur met het fascisme als de staatsideologie.",
+			"hoe de Sovjeteconomie werd ontwikkeld": "Onder Stalin kreeg de Sovjet-Unie een planeconomie. Er was een snelle industrialisatie en de landbouw werd gecollectiviseerd. Miljoenen onderdanen stierven door terreur of hongersnood.",
+			"hoe de Sovjet-Unie een totalitaire dictatuur werd": "Met propaganda, indoctrinatie en terreur maakte Stalin van de Sovjet-Unie een totalitaire communistische dictatuur.",
+
+			"collectivisatie": "samenvoeging van privéboerderijen in gemeenschappelijke landbouwbedrijven",
+			"fascisme": "antidemocratische, gewelddadige, extreem nationalistische en totalitaire politieke beweging",
+			"indoctrineren": "systematisch opdringen van ideeën",
+			"kolchoz": "groot landbouwbedrijf waarop boeren samenwerkten",
+			"persoonsverheerlijking": "uitbundig prijzen van een persoon",
+			"planeconomie": "economie waarbij de overheid voorschrijft wat moet worden geproduceerd",
+			"stalinisme": "variant van het communisme met extreme onderdrukking en extreme verering van een politiek leider",
+			"totalitair": "als de overheid volledig heerst over de samenleving",
+			"veteraan": "oud-soldaat",
+			"welzijn": "als het goed gaat met iemand"
+		}
+	}
 }
