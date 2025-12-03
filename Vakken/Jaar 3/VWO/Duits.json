@@ -1,0 +1,38 @@
+{
+  "Kapitel 1": {
+    "Lektion 1": {
+      "_meta": {
+        "flip": false
+      },
+      "ebenfalls": "ook, tevens, eveneens",
+      "der Einfluss": "de invloed",
+      "die Erholung": "de ontspanning",
+      "der Felsen": "de rots",
+      "flach": "vlak",
+      "hügelig": "heuvelachtig",
+      "die Insel": "het eiland",
+      "die Küste": "de kust",
+      "in der Nähe": "in de buurt",
+      "der Wald": "het bos",
+      "weich": "zacht",
+      "zwischen": "tussen"
+    },
+    "Lektion 2": {
+      "_meta": {
+        "flip": false
+      },
+      "außerdem": "bovendien",
+      "bestätigen": "bevestigen",
+      "buchen": "boeken",
+      "das Fenster": "het raam",
+      "kaum": "nauwelijks",
+      "der Prospekt": "de folder",
+      "die Sachen": "de spullen",
+      "schicken": "sturen",
+      "vergessen": "vergeten",
+      "vermieten": "verhuren",
+      "der Vertrag": "het contract",
+      "vor kurzem": "kort geleden"
+    }
+  }
+}
