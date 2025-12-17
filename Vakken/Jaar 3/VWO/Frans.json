@@ -210,6 +210,9 @@
 	},
 	"Unité 3": {
 		"Bijlage Woordenlijst 3": {
+			"_meta": {
+				"flip": true
+			},
 			"vieren": "fêter",
 			"het feest": "la fête",
 			"het jaar": "l'année",
