@@ -3,7 +3,72 @@
     "Paragraaf 1": {
       "_meta": {
         "flip": false
-      }
+      },
+      "la belle époque": "(het mooie tijdperk) de periode van omstreeks 1890 tot 1914",
+      "tijd van de wereldoorlogen": "negende tijdvak (1900-1950)",
+      "tijdzone": "gebied met dezelfde tijd",
+      "vooruitgangsgeloof": "idee dat het leven steeds beter wordt"
+    },
+    "Paragraaf 2": {
+      "_meta": {
+        "flip": false
+      },
+      "centralen": "Duitsland, Oostenrijk en hun bondgenoten in de Eerste Wereldoorlog",
+      "geallieerden": "(bondgenoten) in de twee wereldoorlogen de VS, Groot-Brittannië, Frankrijk en Rusland/Sovjet-Unie met hun bondgenoten",
+      "loopgraaf": "uitgegraven gang waarin soldaten zich be-schermen tegen de vijand",
+      "militarisme": "verheerlijking van alles wat met het leger te maken heeft",
+      "mobilisatie": "gevechtsklaar maken van het leger voor de oorlog",
+      "tweefrontenoorlog": "oorlog waarbij in twee gebieden tegelijk gevochten wordt",
+      "wapenwedloop": "race om de sterkste bewapening",
+      "wereldoorlog": "oorlog waaraan veel volken in een groot deel van de wereld meedoen"
+    },
+    "Paragraaf 3": {
+      "_meta": {
+        "flip": false
+      },
+      "bolsjewiek": "communist",
+      "concentratiekamp": "gevangenkamp voor tegenstanders",
+      "bureaucratie": "bestuur met veel ambtenaren en regels",
+      "communist": "radicale socialist, aanhanger van Lenin",
+      "dictatuur": "(staat met een) alleenheerschappij",
+      "eenpartijstaat": "staat met één partij die alle macht heeft",
+      "geheime dienst": "overheidsdienst die in het geheim de staatsveiligheid bewaakt",
+      "Rode Leger": "leger van communistisch Rusland",
+      "sovjet": "(raad) groep mensen die iets bestuurt"
+    },
+    "Paragraaf 4": {
+      "_meta": {
+        "flip": false
+      },
+      "etnische zuivering": "acties om etnische groepen in een gebied in aantal te verminderen",
+      "mandaatgebied": "gebied dat in opdracht van de Volkenbond door een geallieerde staat werd bestuurd",
+      "Volkenbond": "in 1919 opgerichte volkerenorganisatie",
+      "Vrede van Versailles": "vredesverdrag tussen geallieerden en Duitsland (1919)",
+      "zelfbeschikkingsrecht": "recht van een volk om zelf te bepalen bij welke staat zijn gebied hoort en hoe deze staat bestuurd wordt"
+    },
+    "Paragraaf 5": {
+      "_meta": {
+        "flip": false
+      },
+      "abstracte kunst": "kunst waarvan je niet kunt zien wat het voorstelt",
+      "deporteren": "wegvoeren",
+      "figuratieve kunst": "kunst waarvan je kunt zien wat het voorstelt",
+      "kunstnijverheid": "(toegepaste kunst) vormgeving van gebruiksvoorwerpen en bouwwerken",
+      "neutraal": "onpartijdig",
+      "op de bon": "als mensen een bon moeten hebben om iets te mogen kopen",
+      "schaarste": "als er heel weinig is van iets",
+      "zwarte markt": "plek waar verboden handel plaatsvindt"
+    },
+    "Tijdlijn": {
+      "_meta": {
+        "flip": true
+      },
+      "Eerste Wereldoorlog": "1914–1918",
+      "grondwetswijziging in Nederland / oprichtingen van De Stijl / revoluties in Rusland": "1917",
+      "Vrede van Versailles": "1919",
+      "vorming van de Sovjet-Unie": "1922",
+      "stichting van de republiek Turkije": "1923",
+      "Tweede Wereldoorlog": "1939–1945"
     }
   }
 }
