@@ -1,0 +1,173 @@
+{
+  "Unité 1": {
+    "Apprendre 1": {
+      "_meta": {
+        "flip": true
+      },
+      "le décalage horaire": "het tijdsverschil",
+      "le sentier": "het pad",
+      "la chaleur": "de warmte",
+      "la valise": "de koffer",
+      "la distance": "de afstand",
+      "l’accent (m)": "het accent",
+      "la carte": "de kaart",
+      "le dauphin": "de dolfijn",
+      "la baleine": "de walvis",
+      "le nord": "het noorden",
+      "le sud": "het zuiden",
+      "l’ouest (m)": "het westen",
+      "l’est (m)": "het oosten",
+      "la plage": "het strand",
+      "le paysage": "het landschap",
+      "la mer": "de zee",
+      "le soleil": "de zon",
+      "la montagne": "de bergen, het gebergte",
+      "la forêt": "het bos",
+      "voyager": "reizen",
+      "l’ile (f)": "het eiland",
+      "le climat": "het klimaat",
+      "la saison": "het seizoen",
+      "pauvre": "arm",
+      "riche": "rijk"
+    },
+    "Apprendre 2": {
+      "_meta": {
+        "flip": false
+      },
+      "le lecteur": "de lezer",
+      "raconter": "vertellen",
+      "le plus beau, la plus belle": "de mooiste, het mooiste",
+      "la fois": "de keer",
+      "avoir de la chance": "geluk hebben",
+      "dès que": "zodra",
+      "la promenade": "de wandeling",
+      "le coucher du soleil": "de zonsondergang",
+      "merveilleux, merveilleuse": "geweldig",
+      "faire de la plongée sous-marine": "duiken",
+      "la pluie": "de regen",
+      "le volcan": "de vulkaan",
+      "se revoir": "elkaar terugzien",
+      "conduire": "rijden, sturen",
+      "obligatoire": "verplicht",
+      "la partie": "het (onder)deel",
+      "la condition": "de voorwaarde",
+      "l’inscription (f)": "de inschrijving",
+      "passer un examen": "een examen doen",
+      "à partir de": "vanaf"
+    },
+    "Apprendre 4": {
+      "_meta": {
+        "flip": false
+      },
+      "je viens d’arriver": "ik ben zojuist aangekomen",
+      "interrompre": "onderbreken",
+      "la patience": "het geduld",
+      "prier": "verzoeken",
+      "attendre": "afwachten, wachten op",
+      "le tour": "de beurt",
+      "tu veux dire": "jij bedoelt",
+      "faire du surf": "surfen",
+      "glisser": "glijden",
+      "la vitesse": "de snelheid",
+      "faire du rafting": "raften",
+      "avoir horreur de": "een enorme hekel hebben aan",
+      "ça tombe bien": "dat komt goed uit",
+      "le sport nautique": "de watersport",
+      "l’animal (m), les animaux": "het dier, de dieren",
+      "adorable": "schattig",
+      "l’endroit (m)": "de plaats",
+      "quand même": "toch",
+      "le partenaire": "de partner",
+      "la possibilité": "de mogelijkheid"
+    },
+    "Apprendre 6": {
+      "_meta": {
+        "flip": true
+      },
+      "vanmiddag": "cet après-midi",
+      "dat hangt ervan af": "ça dépend",
+      "de vergunning": "le permis",
+      "minstens": "au moins",
+      "de folder": "le dépliant",
+      "geen enkel": "ne … aucun(e)",
+      "laten zien": "montrer",
+      "het identiteitsbewijs": "la carte d’identité",
+      "achterlaten, laten liggen": "laisser",
+      "vandaag": "aujourd’hui",
+      "de borgsom": "la caution",
+      "terugbrengen": "rapporter",
+      "ondertekenen": "signer",
+      "ook niet": "ne … pas non plus",
+      "zwemmen": "nager",
+      "het badpak": "le maillot de bain",
+      "straks": "tout à l’heure",
+      "opmaken, eindigen": "finir",
+      "laten we gaan": "allons-y",
+      "de tijd vergeten": "oublier l’heure"
+    },
+    "Apprendre 7": {
+      "_meta": {
+        "flip": true
+      },
+      "Ik wil graag een waterscooter huren.": "Je voudrais louer un scooter des mers.",
+      "Je hebt een vergunning nodig.": "Il faut avoir un permis.",
+      "Voor hoeveel personen is het?": "C’est pour combien de personnes ?",
+      "Ík rij/stuur.": "C’est moi qui conduis.",
+      "Wat zijn de tarieven?": "Quels sont les tarifs ?",
+      "Zullen we iets nemen?": "On va prendre quelque chose ?",
+      "Ik eet niets en ik drink ook niets.": "Je ne mange rien et je ne bois rien non plus.",
+      "Ík heb honger en dorst.": "Moi, j’ai faim et j’ai soif."
+    },
+    "Apprendre 8": {
+      "_meta": {
+        "flip": true
+      },
+      "de ontdekking": "la découverte",
+      "het uitstapje": "la sortie",
+      "de duur": "la durée",
+      "de halve dag": "la demi-journée",
+      "het niveau": "le niveau",
+      "de beginner": "le débutant",
+      "de groep": "le groupe",
+      "de deelnemer": "le participant",
+      "inbegrepen": "compris",
+      "een klacht sturen naar": "adresser une plainte à",
+      "de klacht": "la plainte",
+      "op tijd": "à l’heure",
+      "de instructeur, de instructrice": "le moniteur, la monitrice",
+      "te laat": "en retard",
+      "meer": "de plus",
+      "gevorderd": "avancé",
+      "zorgen voor": "s’occuper de",
+      "mislukt": "raté",
+      "de terugbetaling": "le remboursement",
+      "hartelijke groet": "cordialement"
+    },
+    "Apprendre 9": {
+      "_meta": {
+        "flip": true
+      },
+      "Ik heb meegedaan aan een surfcursus voor beginners.": "J’ai participé à un cours de surf pour débutants.",
+      "Ik wil graag een klacht naar de club sturen omdat ik niet tevreden ben.": "Je voudrais adresser une plainte au club parce que je ne suis pas content.",
+      "De instructeur is te laat aangekomen.": "Le moniteur est arrivé en retard.",
+      "De instructeur sprak slecht Engels en geen Spaans.": "Le moniteur parlait mal anglais et pas espagnol.",
+      "Ik was de enige beginner.": "J’étais le seul débutant.",
+      "Niemand zorgde voor mij.": "Personne ne s’occupait de moi.",
+      "Het materiaal was kapot.": "Le matériel était cassé.",
+      "Het uitstapje was mislukt en ik vraag terugbetaling van deze cursus.": "La sortie était ratée et je demande le remboursement de ce cours."
+    },
+    "Apprendre 10": {
+      "_meta": {
+        "flip": true
+      },
+      "moi": "mij, ik",
+      "toi": "jou, jij",
+      "lui": "hem, hij",
+      "elle": "haar, zij",
+      "nous": "ons, wij",
+      "vous": "jullie, u",
+      "eux": "hen, zij (m pl)",
+      "elles": "hen, zij (f pl)"
+    }
+  }
+}
