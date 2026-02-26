@@ -1,4 +1,210 @@
 {
+    "Unité 1": {
+        "_meta": {
+            "revision": [
+                "Jaar 1/Havo-VWO/Frans.json/Unité 3/Apprendre 3",
+                "Jaar 1/Havo-VWO/Frans.json/Unité 2/Apprendre 3",
+                "Jaar 1/Havo-VWO/Frans.json/Unité 1/Apprendre 3"
+            ]
+        },
+        "Apprendre 1": {
+            "_meta": {
+                "flip": true
+            },
+            "het tijdsverschil": "le décalage horaire",
+            "het pad": "le sentier",
+            "de hitte": "la chaleur",
+            "de koffer": "la valise",
+            "de afstand": "la distance",
+            "de dolfijn": "le dauphin",
+            "de walvis": "la baleine",
+            "het noorden": "le nord",
+            "het zuiden": "le sud",
+            "het westen": "l'ouest (m)",
+            "het oosten": "l'est (m)",
+            "het strand": "la plage",
+            "het landschap": "le paysage",
+            "de zee": "la mer",
+            "de zon": "le soleil",
+            "de bergen, het gebergte": "la montagne",
+            "het bos": "la forêt",
+            "reizen": "voyager",
+            "elders": "ailleurs",
+            "het eiland": "l'île (f)",
+            "het klimaat": "le climat",
+            "het milieu": "l'environnement (m)",
+            "het seizoen": "la saison",
+            "arm": "pauvre",
+            "rijk": "riche"
+        },
+        "Apprendre 2": {
+            "_meta": {
+                "flip": false
+            },
+            "le lecteur": "de lezer",
+            "la fois": "de keer",
+            "avoir de la chance": "geluk hebben",
+            "faire de la plongée sous-marine": "diepzeeduiken",
+            "le coup de foudre": "liefde op het eerste gezicht",
+            "la pluie": "de regen",
+            "le volcan": "de vulkaan",
+            "obligatoire": "verplicht",
+            "l’esclave (m)": "de slaaf",
+            "l’époque (f)": "het tijdperk",
+            "l’histoire (f)": "de geschiedenis / het verhaal",
+            "la pollution": "de vervuiling",
+            "le sol": "de grond / de bodem",
+            "pousser": "groeien",
+            "peut-être": "misschien",
+            "surement": "zeker",
+            "se revoir": "elkaar terugzien",
+            "tant de": "zoveel",
+            "le plus beau": "de mooiste",
+            "la plus belle": "het mooiste",
+            "consister en": "bestaan uit",
+            "la partie": "het deel",
+            "la condition": "de voorwaarde",
+            "passer un examen": "een examen doen",
+            "à partir de": "vanaf",
+            "avoir le droit de": "mogen"
+        },
+        "Apprendre 4": {
+            "_meta": {
+                "flip": false
+            },
+            "je viens d'arriver": "ik ben zojuist aangekomen",
+            "interrompre": "onderbreken",
+            "la patience": "het geduld",
+            "prier": "verzoeken",
+            "attendre": "afwachten / wachten op",
+            "le tour": "de beurt",
+            "d’abord": "eerst",
+            "faire de la planche à voile": "surfen / windsurfen",
+            "glisser": "glijden",
+            "la vitesse": "de snelheid",
+            "faire du rafting": "raften",
+            "avoir horreur de": "een enorme hekel hebben aan",
+            "ça tombe bien": "dat komt goed uit",
+            "le sport nautique": "de watersport",
+            "je connais (connaitre)": "ik ken (kennen)",
+            "l'endroit (m)": "de plaats",
+            "quand même": "toch",
+            "j’ai lu (lire)": "ik heb gelezen (lezen)",
+            "conduire": "(be)sturen",
+            "le / la partenaire": "de partner",
+            "découvrir": "ontdekken",
+            "la réglementation": "de regelgeving",
+            "la mesure": "de maatregel",
+            "le but": "het doel",
+            "protéger": "beschermen"
+        },
+        "Apprendre 6": {
+            "_meta": {
+                "flip": true
+            },
+            "huren": "louer",
+            "vanmiddag": "cet après-midi",
+            "dat hangt ervan af": "ça dépend",
+            "de vergunning": "le permis",
+            "minstens": "au moins",
+            "de folder": "le dépliant",
+            "geen enkel": "ne … aucun(e)",
+            "laten zien": "montrer",
+            "het identiteitsbewijs": "la carte d'identité",
+            "achterlaten, laten liggen": "laisser",
+            "vandaag": "aujourd'hui",
+            "in elk geval": "de toute façon",
+            "spellen": "épeler",
+            "de borgsom": "la caution",
+            "terugbrengen": "rapporter",
+            "de mogelijkheid": "la possibilité",
+            "ondertekenen": "signer",
+            "ook niet": "ne … pas non plus",
+            "vervolgens / daarna": "puis",
+            "straks": "tout à l’heure",
+            "schattig": "adorable",
+            "de dieren": "l’animal (m)",
+            "het dier": "l’animal (m)",
+            "laten we gaan": "allons-y",
+            "vergeten": "oublier",
+            "het geld": "l’argent (m)",
+            "je bedoelt": "tu veux dire"
+        },
+        "Apprendre 7": {
+            "_meta": {
+                "flip": true
+            },
+            "Ik wil graag een waterscooter huren.": "Je voudrais louer un scooter des mers.",
+            "Voor hoeveel personen is het en voor hoelang?": "C’est pour combien de personnes et pour combien de temps ?",
+            "Je hebt een vergunning nodig.": "Il faut avoir un permis.",
+            "Ík rij/stuur.": "C’est moi qui conduis.",
+            "Wat zijn de tarieven?": "Quels sont les tarifs ?",
+            "Mag ik de rekening, alstublieft?": "Je peux avoir l’addition, s’il vous plait ?",
+            "Zullen we iets nemen?": "On va prendre quelque chose ?",
+            "Ik zou graag een grote cola willen, alstublieft.": "Je voudrais un grand coca, s’il vous plait.",
+            "Heeft u iets te eten?": "Est-ce que vous avez quelque chose à manger ?",
+            "Ik eet niets en ik drink ook niets.": "Je ne mange rien et je ne bois rien non plus."
+        },
+        "Apprendre 8": {
+            "_meta": {
+                "flip": true
+            },
+            "de instructeur": "le moniteur",
+            "de instructrice": "la monitrice",
+            "de duur": "la durée",
+            "het niveau": "le niveau",
+            "de deelnemer": "le participant",
+            "de halve dag": "la demi-journée",
+            "inbegrepen": "compris",
+            "de klacht / het bezwaar": "la réclamation",
+            "het uitstapje": "la sortie",
+            "een klacht sturen naar": "adresser une plainte à",
+            "de reden": "la raison",
+            "op tijd": "à l’heure",
+            "de verrassing": "la surprise",
+            "te laat": "en retard",
+            "slecht (bw)": "mal",
+            "de golf": "la vague",
+            "sterk": "fort",
+            "gevaarlijk": "dangereux",
+            "volgens": "selon",
+            "echter": "pourtant",
+            "vanwege": "à cause de",
+            "bovendien": "en plus",
+            "mislukt": "raté",
+            "daarom": "c’est pourquoi",
+            "de terugbetaling": "le remboursement",
+            "hartelijke groet": "cordialement"
+        },
+        "Apprendre 9": {
+            "_meta": {
+                "flip": true
+            },
+            "Ik ga een klacht naar de club sturen.": "Je vais adresser une plainte au club.",
+            "Ik vind dat alles heel slecht is gegaan.": "Je trouve que tout s’est très mal passé.",
+            "De instructeur is te laat aangekomen.": "Le moniteur est arrivé en retard.",
+            "De instructeur sprak geen Engels.": "Le moniteur ne parlait pas anglais.",
+            "Ik kan goed zwemmen, maar het was toch moeilijk.": "Je sais bien nager, mais c’était quand même difficile.",
+            "Het vertrekpunt was moeilijk te vinden.": "Le point de départ était difficile à trouver.",
+            "Volgens de folder zouden wij fantastische dingen zien.": "Selon le dépliant, on allait voir des choses extraordinaires.",
+            "Ik vind dat het uitstapje mislukt was.": "Je trouve que la sortie était ratée.",
+            "Het was erg jammer.": "C’était très dommage.",
+            "Daarom vraag ik terugbetaling van het uitstapje.": "C’est pourquoi, je demande le remboursement de la sortie."
+        },
+        "Apprendre 10": {
+            "_meta": {
+                "flip": true
+            },
+            "moi": "mij, ik",
+            "toi": "jou, jij",
+            "lui": "hem, hij",
+            "elle": "haar, zij",
+            "nous": "ons, wij",
+            "vous": "jullie, u",
+            "eux": "hen, zij (m pl)",
+            "elles": "hen, zij (f pl)"
+        }
+    },
 	"Unité 2": {
 		"Apprendre 1": {
 			"_meta": {
@@ -116,6 +322,48 @@
 			"ça ne suffi t pas": "dat is niet genoeg",
 			"se faire des amis": "vrienden maken"
 		},
+        "Apprendre 5 2.1": {
+            "_meta": {
+                "flip": true
+            },
+            "je partirai": "ik zal vertrekken",
+            "tu partiras": "jij zult vertrekken",
+            "il / elle / on partira": "hij / zij / men zal vertrekken",
+            "nous partirons": "wij zullen vertrekken",
+            "vous partirez": "jullie zullen vertrekken, u zult vertrekken",
+            "ils / elles partiront": "zij zullen vertrekken"
+        },
+        "Apprendre 5 2.2": {
+            "_meta": {
+                "flip": true
+            },
+            "je partirais": "ik zou vertrekken",
+            "tu partirais": "jij zou vertrekken",
+            "il / elle / on partirait": "hij / zij / men zou vertrekken",
+            "nous partirions": "wij zouden vertrekken",
+            "vous partiriez": "jullie zouden vertrekken, u zou vertrekken",
+            "ils / elles partiraient": "zij zouden vertrekken"
+        },
+        "Apprendre 5 2.3": {
+            "_meta": {
+                "flip": true
+            },
+            "je serai": "ik zal zijn",
+            "j'aurai": "ik zal hebben",
+            "je ferai": "ik zal doen, maken",
+            "j'irai": "ik zal gaan",
+            "je voudrai": "ik zal willen",
+            "je pourrai": "ik zal kunnen",
+            "je viendrai": "ik zal komen",
+
+            "je serais": "ik zou zijn",
+            "j'aurais": "ik zou hebben",
+            "je ferais": "ik zou doen, maken",
+            "j'irais": "ik zou gaan",
+            "je voudrais": "ik zou willen",
+            "je pourrais": "ik zou kunnen",
+            "je viendrais": "ik zou komen"
+        },
 		"Apprendre 6": {
 			"_meta": {
 				"flip": true
@@ -209,7 +457,195 @@
 		}
 	},
 	"Unité 3": {
-		"Bijlage Woordenlijst 3": {
+        "Apprendre 1": {
+            "_meta": {
+                "flip": true
+            },
+            "online": "en ligne",
+            "offline": "hors ligne",
+            "verbonden zijn": "être connecté",
+            "de verbinding": "la connexion",
+            "de wifi": "le wifi",
+            "het wachtwoord": "le mot de passe",
+            "digitaal": "numérique",
+            "bewaren": "sauvegarder",
+            "verwijderen": "supprimer",
+            "het bericht": "le message",
+            "verslaafd": "accro",
+            "downloaden": "télécharger",
+            "het profiel": "le profil",
+            "de oplader": "le chargeur",
+            "opnemen": "enregistrer",
+            "de computer": "l'ordi / l'ordinateur (m)",
+            "het scherm": "l'écran (m)",
+            "de app": "l'appli / l'application (f)",
+            "het computerspel": "le jeu vidéo",
+            "de sociale media": "les réseaux sociaux (m pl)",
+            "de generatie": "la génération",
+            "de persoonsgegevens": "les données personnelles (f pl)",
+            "het nepnieuws": "les fausses nouvelles (f pl)",
+            "het (cyber)pesten": "le (cyber)harcèlement",
+            "de tutorial": "le tutoriel"
+        },
+        "Apprendre 2": {
+            "_meta": {
+                "flip": false
+            },
+            "faire partie de": "deel uitmaken van",
+            "cela": "dat",
+            "la plupart (de / des)": "de meeste(n)",
+            "la connaissance": "de kennis",
+            "actuellement": "tegenwoordig",
+            "informé": "geïnformeerd",
+            "en particulier": "in het bijzonder",
+            "être d’accord": "het eens zijn",
+            "pourtant": "echter",
+            "en train de": "bezig met",
+            "comparer": "vergelijken",
+            "faire du mal à quelqu’un": "iemand kwaad doen",
+            "à propos de": "over / met betrekking tot",
+            "qui": "die, dat (betr. vnw.)",
+            "librement": "vrij",
+            "développer": "ontwikkelen",
+            "la relation": "de relatie",
+            "l’opinion (f)": "de mening",
+            "captivant": "spannend",
+            "l’émotion (f)": "de emotie",
+            "prudent": "voorzichtig",
+            "rien ne": "niets",
+            "disparaitre": "verdwijnen",
+            "la menace": "de bedreiging",
+            "solitaire": "eenzaam"
+        },
+        "Apprendre 4": {
+            "_meta": {
+                "flip": false
+            },
+            "le youtubeur / la youtubeuse": "de vlogger",
+            "la chaine": "het kanaal (tv)",
+            "marrant": "grappig",
+            "se dire": "elkaar zeggen",
+            "pourquoi pas": "waarom niet",
+            "après tout": "alles welbeschouwd",
+            "en fait": "eigenlijk",
+            "tout de suite": "meteen",
+            "la chose": "het ding",
+            "quotidien / quotidienne": "dagelijks",
+            "le sujet": "het onderwerp",
+            "régulièrement": "regelmatig",
+            "sinon": "anders, zo niet",
+            "l’abonné (m)": "de volger",
+            "arrêter": "stoppen",
+            "gagner": "verdienen / winnen",
+            "l’argent (m)": "het geld",
+            "rien du tout": "helemaal niets",
+            "grave": "erg / ernstig",
+            "rencontrer": "ontmoeten",
+            "celui": "degene",
+            "la question": "de vraag",
+            "la science": "de wetenschap",
+            "l’art (m)": "de kunst",
+            "la blague": "de grap"
+        },
+        "Apprendre 6": {
+            "_meta": {
+                "flip": true
+            },
+            "allerlei": "toutes sortes de",
+            "het doel, doelpunt": "le but",
+            "de technologie": "la technologie",
+            "de kers": "la cerise",
+            "heerlijk": "délicieux",
+            "het geheim": "le secret",
+            "eerst": "d’abord",
+            "het ingrediënt": "l’ingrédient (m)",
+            "de vorm": "le moule",
+            "het meel": "la farine",
+            "de boter": "le beurre",
+            "de suiker": "le sucre",
+            "de eieren": "les oeufs (m pl)",
+            "klaar": "prêt",
+            "mengen": "mélanger",
+            "toevoegen": "ajouter",
+            "breken": "casser",
+            "na": "après",
+            "let op !": "attention !",
+            "gieten": "verser",
+            "het deeg": "la pâte",
+            "de oven": "le four",
+            "het commentaar": "le commentaire",
+            "proeven": "gouter",
+            "de suggestie": "la suggestion"
+        },
+        "Apprendre 7": {
+            "_meta": {
+                "flip": true
+            },
+            "Welke vlogger vind je het leukst?": "Quel youtubeur tu préfères ?",
+            "Ik heb liever de vlogger Alex omdat hij over zijn reizen vertelt.": "Moi, je préfère le youtubeur Alex parce qu’il raconte ses voyages.",
+            "Hij praat over dingen uit het dagelijks leven en hij is grappig.": "Il parle des choses de la vie quotidienne et il est marrant.",
+            "Hallo iedereen, welkom op mijn YouTube-kanaal!": "Salut tout le monde, bienvenue sur ma chaine YouTube !",
+            "Deze week gaan we een appeltaart leren maken.": "Cette semaine, on va apprendre à faire une tarte aux pommes.",
+            "Dat is helemaal niet ingewikkeld.": "Ce n’est pas du tout compliqué.",
+            "Je hebt chocolade en 100 gram boter nodig.": "Il faut du chocolat et 100 grammes de beurre.",
+            "Daarna meng je de bloem en de suiker, dan voeg je de eieren toe.": "Ensuite, tu mélanges la farine et le sucre, puis tu ajoutes les oeufs.",
+            "Nu giet je het deeg in de vorm en zet je hem in de oven.": "Maintenant, tu verses la pâte dans le moule et tu le mets au four.",
+            "De volgende keer gaan we leren een fiets te repareren.": "La prochaine fois, on va apprendre à réparer un vélo."
+        },
+        "Apprendre 8": {
+            "_meta": {
+                "flip": true
+            },
+            "de ochtend, 's ochtends": "le matin",
+            "de inwoner": "l'habitant (m)",
+            "de slinger": "la guirlande",
+            "de onderbroek": "la culotte",
+            "ophangen": "accrocher",
+            "de nacht, 's nachts": "la nuit",
+            "verschijnen": "apparaitre",
+            "de schuldige": "le coupable",
+            "verkondigen, melden": "annoncer",
+            "de reactie": "la réaction (f)",
+            "de dief": "le voleur",
+            "moe": "fatigué(e)",
+            "de inbraak": "le cambriolage",
+            "mislukt": "raté",
+            "het geluid": "le bruit",
+            "de straf": "la punition",
+            "besluiten": "décider",
+            "het protest": "la protestation",
+            "het verbod": "l'interdiction (f)",
+            "staken": "faire la grève",
+            "demonstreren": "manifester",
+            "protesteren tegen": "protester conte",
+            "verklaren": "déclarer",
+            "gelijk hebben": "avoir raison",
+            "de wet": "la loi"
+        },
+        "Apprendre 9": {
+            "_meta": {
+                "flip": true
+            },
+            "Wat is er gebeurd?": "Qu’est-ce qui s’est passé ?",
+            "De leerlingen uit de vierde klas hebben gestaakt.": "Les élèves de quatrième ont fait la grève.",
+            "Waarom hebben ze gedemonstreerd?": "Pourquoi est-ce qu’ils ont manifesté ?",
+            "Omdat ze wilden protesteren tegen het verbod op mobiele telefoons op school.": "Parce qu’ils voulaient protester contre l’interdiction des portables au collège.",
+            "Wanneer heeft de inbraak plaatsgevonden?": "Quand est-ce que le cambriolage a eu lieu ?",
+            "De inbraak heeft plaatsgevonden op de avond van 28 september.": "Le cambriolage a eu lieu le soir du 28 septembre.",
+            "Waar is de diefstal gebeurd?": "Le vol s’est passé où ?",
+            "Het incident is gebeurd in een appartement in Cannes.": "L’incident a eu lieu dans un appartement à Cannes.",
+            "De politieagenten zijn tien minuten later aangekomen.": "Les policiers sont arrivés dix minutes plus tard.",
+            "Wij willen vrij zijn om onze mobieltjes te gebruiken.": "Nous voulons être libres d’utiliser nos portables."
+        },
+        "Apprendre 10": {
+            "_meta": {
+                "flip": true
+            },
+            "Donne ! / Donnez !": "Geef!",
+            "Choisis ! / Choisisez !": "Kies!",
+            "Viens ! / Venez !": "Kom!"
+        },
+		"IVIO Bijlage Woordenlijst 3": {
 			"_meta": {
 				"flip": true
 			},
@@ -266,5 +702,612 @@
 			"graag": "avec plaisir",
 			"het cadau": "le cadeau"
 		}
-	}
+	},
+    "Unité 4": {
+        "Apprendre 1": {
+            "_meta": {
+                "flip": true
+            },
+            "overschrijden": "dépasser",
+            "de grens, de limiet": "la limite",
+            "de uitdaging": "le défi",
+            "de kick": "les sensations fortes (f pl)",
+            "bang zijn voor": "avoir peur de",
+            "het gevaar": "le danger",
+            "de teleurstelling": "la déception",
+            "je angst overwinnen": "surmonter la peur",
+            "beheersen, controleren": "contrôler",
+            "uitzonderlijk": "exceptionnel",
+            "de veiligheid": "la sécurité",
+            "vliegen": "voler",
+            "de attractie": "l’attraction (f)",
+            "de wintersport": "le sport d’hiver",
+            "de wandeltocht": "la randonnée",
+            "de hoogte": "la hauteur",
+            "de sprong": "le saut",
+            "de val": "la chute",
+            "snel": "rapide",
+            "het evenwicht": "l’équilibre (m)",
+            "het bloed": "le sang",
+            "het hart": "le cœur",
+            "de hersenen": "le cerveau",
+            "de long": "le poumon",
+            "de spier": "le muscle"
+        },
+        "Apprendre 2": {
+            "_meta": {
+                "flip": false
+            },
+            "ressentir": "voelen, ervaren",
+            "les circonstances (f pl)": "de omstandigheden",
+            "à la fois": "tegelijk",
+            "accueillir": "ontvangen",
+            "être détendu": "ontspannen zijn",
+            "rassurer quelqu’un": "iemand geruststellen",
+            "être terrorisé": "geterroriseerd worden, erg angstig zijn",
+            "avoir le trac": "podiumvrees/plankenkoorts hebben",
+            "en public": "in het openbaar, met publiek",
+            "plus … plus": "hoe meer ... des te meer",
+            "approcher": "dichterbij komen",
+            "entendre": "horen",
+            "transpirer": "zweten",
+            "davantage": "meer",
+            "au contraire": "daarentegen",
+            "respirer": "ademhalen",
+            "avoir le vertige": "hoogtevrees hebben",
+            "le lendemain": "de volgende dag",
+            "soudain": "plotseling",
+            "trembler": "trillen",
+            "en bas": "beneden",
+            "libérer": "vrijlaten, loslaten",
+            "grâce à": "dankzij",
+            "augmenter": "stijgen, toenemen",
+            "crier": "schreeuwen"
+        },
+        "Apprendre 3": {
+            "_meta": {
+                "flip": true
+            },
+            "je dois": "ik moet",
+            "tu dois": "jij moet",
+            "il / elle / on doit": "hij/zij/men moet",
+            "nous devons": "wij moeten",
+            "vous devez": "jullie moeten, u moet",
+            "ils / elles doivent": "zij moeten",
+
+            "j'au dû": "ik heb (ge)moeten",
+            "je devais": "ik moest",
+            "je devrai": "ik zal moeten",
+            "je devrais": "ik zou moeten",
+
+            "je reçois": "ik krijg",
+            "tu reçois": "jij krijgt",
+            "il / elle / on reçoit": "hij / zij / men krijgt",
+            "nous recevons": "wij krijgen",
+            "vous recevez": "jullie krijgen, u krijgt",
+            "ils / elles reçevoivent": "zij krijgen",
+            
+            "j'ai reçu": "ik heb gekregen",
+            "je recevais": "ik kreeg",
+            "je recevrai": "ik zal krijgen",
+            "je recevrais": "ik zou krijgen"
+        },
+        "Apprendre 4": {
+            "_meta": {
+                "flip": false
+            },
+            "suivant": "volgende",
+            "l’accrobranche (f)": "het klimmen in bomen",
+            "le tir à l’arc": "het boogschieten",
+            "bref": "kortom",
+            "la natation": "het zwemmen",
+            "le casse-cou": "de waaghals",
+            "le toboggan": "de glijbaan",
+            "il y a de tout": "er is van alles",
+            "d’un côté": "aan de ene kant",
+            "le cascadeur": "de stuntman",
+            "le métier": "het beroep",
+            "rare": "zeldzaam",
+            "exister": "bestaan",
+            "enthousiaste": "enthousiast",
+            "s’inscrire": "zich inschrijven",
+            "immédiatement": "onmiddellijk",
+            "le sport de combat": "de vechtsport",
+            "avoir de l’expérience": "ervaring hebben",
+            "probablement": "waarschijnlijk",
+            "se faire mal": "zich bezeren",
+            "discipliné": "gedisciplineerd",
+            "l’arme (f)": "het wapen",
+            "le feu": "het vuur",
+            "varié": "gevarieerd",
+            "soi-même": "zichzelf"
+        },
+        "Apprendre 5 4.3": {
+            "_meta": {
+                "flip": true
+            },
+            "goed": "bon, bien",
+            "slecht": "mauvais, mal",
+            "beter": "meilleur, mieux",
+            "snel": "rapide, vite (of rapidement)",
+            "lang (tijd)": "long, longtemps"
+        },
+        "Apprendre 6": {
+            "_meta": {
+                "flip": true
+            },
+            "opruimen": "ranger",
+            "de spullen": "les affaires (f pl)",
+            "denken": "penser",
+            "zelfs": "même",
+            "de richting": "le sens",
+            "de stijging, de klim": "la montée",
+            "lanceren, afvuren": "lancer",
+            "je zult zien": "tu verras (voir)",
+            "grapjes maken": "plaisanter",
+            "trouwens": "d‘ailleurs",
+            "belachelijk": "ridicule",
+            "bekennen": "avouer",
+            "veilig": "sûr",
+            "vastmaken": "attacher",
+            "zweren": "jurer",
+            "in de rij staan": "faire la queue",
+            "ongelijk hebben": "avoir tort",
+            "levend": "vivant",
+            "de (veiligheids)riem": "la ceinture (de sécurité)",
+            "het vertrek, de start": "le départ",
+            "nog een keer": "encore une fois",
+            "misselijk zijn": "avoir mal au coeur",
+            "inderdaad": "effectivement",
+            "ik kan niet meer": "je n’en peux plus",
+            "de speeltuin": "le terrain de jeux"
+        },
+        "Apprendre 7": {
+            "_meta": {
+                "flip": true
+            },
+            "En als we eens naar een attractiepark gingen?": "Et si on allait à un parc d’attractions ?",
+            "Wat vind jij ervan ?": "Qu’est-ce que tu en penses ?",
+            "Ben je het ermee eens ?": "Tu es d’accord?",
+            "Denk je dat ik met hem zal kunnen praten?": "Tu crois que je pourrai parler avec lui ?",
+            "Ik wil er graag naar toe.": "Je veux bien y aller.",
+            "Houden jullie niet van dat soort attracties?": "Vous n’aimez pas ce genre d’attractions ?",
+            "Er gaat niks gebeuren.": "Il ne va rien se passer.",
+            "Wij zijn echt trots op jou.": "Nous sommes vraiment fiers de toi.",
+            "Dat is niets voor hem/haar.": "Ce n’est pas son truc.",
+            "Je hebt gelijk, hij voelt zich niet lekker.": "Tu as raison, il ne se sent pas bien."
+        },
+        "Apprendre 8": {
+            "_meta": {
+                "flip": true
+            },
+            "de kindertijd": "l’enfance (f)",
+            "het klimmen": "l’escalade (f)",
+            "de jongere, de tiener": "l’adolescent(e) / l'ado",
+            "de rots": "le rocher",
+            "het ongeluk": "l’accident (m)",
+            "lijden": "souffrir",
+            "de aanval": "la crise",
+            "opgeven": "abandonner",
+            "de wolkenkrabber": "le gratte-ciel",
+            "de hulp": "l’aide (f)",
+            "(zeer) veel": "nombreux, nombreuse",
+            "de beroemdheid": "la célébrité",
+            "de topprestatie": "l’exploit (m)",
+            "opgroeien": "grandir",
+            "klimmen": "grimper",
+            "met uitzicht op, tegenover": "face à",
+            "trekken door, afreizen": "parcourir",
+            "de wereld": "le monde",
+            "de man, echtgenoot": "le mari",
+            "de schrijver, de schrijfster": "l’écrivain, l’écrivaine",
+            "de autobiografie": "l’autobiographie (f)",
+            "de fictie": "la fiction",
+            "de motivatie": "la motivation",
+            "nodig": "nécessaire",
+            "zich voorbereiden": "se préparer"
+        },
+        "Apprendre 9": {
+            "_meta": {
+                "flip": true
+            },
+            "Waarom houd je van deze sport ?": "Pourquoi est-ce que tu aimes ce sport ?",
+            "Omdat ik dol op adrenaline ben.": "Parce que j’adore l’adrénaline.",
+            "Waar ben je begonnen deze sport te beoefenen ?": "Où est-ce que tu as commencé à pratiquer ce sport ?",
+            "Ik ben begonnen deze sport te beoefenen in de bergen met vrienden.": "J’ai commencé à pratiquer ce sport en montagne avec des amis.",
+            "Hoe oud was je de eerste keer dat je geklommen hebt ?": "Quel âge tu avais quand tu as fait de l’escalade pour la première fois ?",
+            "De eerste keer dat ik geklommen heb, was ik 13 jaar.": "La première fois que j’ai fait de l’escalade, j’avais 13 ans.",
+            "Wat is belangrijk als je deze sport beoefent?": "Qu’est-ce qui est important quand on pratique ce sport ?",
+            "Het is belangrijk om je goed voor te bereiden, fysiek en mentaal.": "Il est important de bien se préparer, physiquement et mentalement.",
+            "Welke advies geef je aan een jongere?": "Quel conseil est-ce que tu donnes à un ado ?",
+            "Je moet een sport kiezen omdat je het leuk vindt.": "Il faut choisir un sport parce qu’on l’aime."
+        }
+    },
+    "Unité 5": {
+        "_meta": {
+            "revision": [
+                "Jaar 2/Havo/Frans.json/Unité 2/Apprendre 3",
+                "Jaar 1/Havo/Frans.json/Unité 5/Apprendre 3"
+            ]
+        },
+        "Apprendre 1": {
+            "_meta": {
+                "flip": true
+            },
+            "de held, de heldin": "le héros, l’héroïne (f)",
+            "de heldendaad": "l’acte héroïque (f)",
+            "het voorbeeld, het rolmodel": "le modèle",
+            "de persoonlijkheid": "la personnalité",
+            "de kampioen": "le champion, la championne",
+            "zich inzetten": "s’engager",
+            "het goede doel": "la bonne cause",
+            "de invloed": "l’influence (f)",
+            "zijn leven riskeren": "risquer sa vie",
+            "strijden tegen": "lutter contre",
+            "historisch": "historique",
+            "creatif": "créatif, créative",
+            "sportief": "sportif, sportive",
+            "dapper": "courageux, courageuse",
+            "motiverend": "motivant",
+            "concurrerend": "compétitif, compétitive",
+            "beroemd": "célèbre",
+            "strijdlustig": "combatif, combative",
+            "de beste": "le meilleur, la meilleure",
+            "talentvol": "doué",
+            "vindingrijk": "inventif, inventive",
+            "slim": "malin",
+            "intelligent": "intelligent",
+            "ambitieus": "ambitieux, ambitieuse",
+            "beschikbaar": "disponible"
+        },
+        "Apprendre 2": {
+            "_meta": {
+                "flip": false
+            },
+            "la voix": "de stem",
+            "chasser": "(ver)jagen",
+            "l’armée (f)": "het leger",
+            "le prisonnier, la prisonnière": "de gevangene",
+            "condamner": "veroordelen",
+            "la mort": "de dood",
+            "le poète": "de dichter",
+            "s’opposer à": "zich verzetten tegen",
+            "comment ça marche ?": "hoe werkt dat ?",
+            "le chimiste": "de scheikundige",
+            "le physicien, la physicienne": "de natuurkundige",
+            "le domaine": "het gebied",
+            "la médecine": "de geneeskunde",
+            "la découverte": "de ontdekking",
+            "l’existence (f)": "het bestaan",
+            "la bactérie": "de bacterie",
+            "l’importance (f)": "het belang",
+            "l’hygiène (f)": "de hygiëne",
+            "inventer": "uitvinden",
+            "l’aliment (m)": "het voedingsmiddel",
+            "la maladie": "de ziekte",
+            "causer": "verzoorzaken",
+            "survivre": "overleven",
+            "convaincre": "overtuigen",
+            "la paix": "de vrede"
+        },
+        "Apprendre 3": {
+            "_meta": {
+                "flip": true
+            },
+            "je connais": "ik ken",
+            "tu connais": "jij kent",
+            "il / elle / on connait": "hij/zij/men kent",
+            "nous connaissons": "wij kennen",
+            "vous connaissez": "jullie kennen, u kent",
+            "ils / elles connaissent": "zij kennen",
+
+            "j'ai connu": "ik heb gekend",
+            "je connaissais": "ik kende",
+            "je connaitrai": "ik zal kennen",
+            "je connaitrais": "ik zou kennen"
+        },
+        "Apprendre 4": {
+            "_meta": {
+                "flip": false
+            },
+            "l’ennemi (m)": "de vijand",
+            "publier": "publiceren",
+            "défendre": "verdedigen",
+            "vaincre": "overwinnen",
+            "le rôle principal": "de hoofdrol",
+            "embêtant": "vervelend",
+            "tout le monde": "iedereen",
+            "la force": "de kracht",
+            "imbattable": "onverslaanbaar",
+            "attraper": "(op)vangen",
+            "imaginer": "zich voorstellen",
+            "la seconde": "de seconde",
+            "dire du mal de quelqu’un": "kwaadspreken over iemand",
+            "l’immigré (m)": "de immigrant",
+            "hésiter": "twijfelen",
+            "l’attentat (m)": "de aanslag",
+            "tirer sur": "schieten op",
+            "le passager": "de passagier",
+            "sauver": "redden",
+            "nettoyer": "schoonmaken",
+            "le ministre": "de minister",
+            "le roman": "de roman",
+            "la science": "de wetenschap",
+            "voter": "stemmen",
+            "l’hôpital (m)": "het ziekenhuis"
+        },
+        "Apprendre 6": {
+            "_meta": {
+                "flip": true
+            },
+            "het flatgebouw": "l’immeuble (m)",
+            "positief": "positif, positive",
+            "de oceaan": "l’océan (m)",
+            "overlijden": "décéder",
+            "bekend": "connu",
+            "de zanger, de zangeres": "le chanteur, la chanteuse",
+            "beschrijven": "décrire",
+            "de jeugd": "la jeunesse",
+            "de carrière": "la carrière",
+            "uitleggen": "expliquer",
+            "de fan": "le fan",
+            "het voorbeeld": "l’exemple (m)",
+            "ingewikkeld, moeilijk": "compliqué",
+            "de oorlog": "la guerre",
+            "de soldaat": "le soldat",
+            "opvoeden": "élever",
+            "terugvinden": "retrouver",
+            "zorgen voor": "s’occuper de",
+            "het huishouden doen": "faire le ménage",
+            "een album (cd)": "un album",
+            "begraven": "enterrer",
+            "de mening": "l’avis (m)",
+            "van alle tijden": "de tous les temps",
+            "indrukwekkend": "impressionnant",
+            "het respect": "le respect"
+        },
+        "Apprendre 7": {
+            "_meta": {
+                "flip": true
+            },
+            "Eerst ga ik jullie mijn heldin voorstellen.": "D’abord, je vais vous présenter mon héroïne.",
+            "Vervolgens ga ik over haar carrière vertellen.": "Ensuite, je vais parler de sa carrière.",
+            "Tot slot ga ik uitleggen waarom zij een heldin is.": "Pour finir, je vais expliquer pourquoi c’est une héroïne.",
+            "Zij was bekend omdat ze een zangeres was.": "Elle était connue parce qu’elle était une chanteuse.",
+            "Zij is geboren in 1915 in Parijs.": "Elle est née en 1915 à Paris.",
+            "Zij is gestorven toen ze 47 jaar was.": "Elle est décédée à l’âge de 47 ans.",
+            "Het was een talentvolle zangeres.": "C’était une chanteuse douée.",
+            "Zij is een voorbeeld voor veel mensen.": "Elle est un exemple pour beaucoup de gens.",
+            "Ik heb veel respect voor haar.": "J’ai beaucoup de respect pour elle.",
+            "Naar mijn mening is zij een echte heldin.": "À mon avis, elle est une vraie héroïne."
+        },
+        "Apprendre 8": {
+            "_meta": {
+                "flip": true
+            },
+            "de vrije tijd": "le temps libre",
+            "het ideaal": "l’idéal (m)",
+            "de milieubescherm(st)er": "l’écologiste, l’écolo (m / f)",
+            "de overtuiging": "la conviction",
+            "de planeet": "la planète",
+            "de actie": "l’action (f)",
+            "het bos": "le bois",
+            "de raad": "le conseil",
+            "opmerken": "remarquer",
+            "raden": "deviner",
+            "de mentor": "le prof principal, la prof principale",
+            "de brandweerman": "le pompier",
+            "de brandweervrouw": "la pompière",
+            "risico’s nemen": "prendre des risques",
+            "gewond": "blessé",
+            "de arts": "le médecin",
+            "ziek": "malade",
+            "de vrijwilliger": "le bénévole",
+            "de dakloze": "le S.D.F. (Sans Domicile Fixe)",
+            "edelmoedig, gul": "généreux, généreuse",
+            "per se": "forcément",
+            "energiek": "énergique",
+            "de plant": "la plante",
+            "de boom": "l’arbre (m)",
+            "de vogel": "l’oiseau (m)",
+            "geweldig": "génial"
+        },
+        "Apprendre 9": {
+            "_meta": {
+                "flip": true
+            },
+            "Voor mij is een held niet altijd iemand die beroemd is.": "Pour moi, un héros, ce n’est pas toujours quelqu’un de célèbre.",
+            "Mijn voorbeelden zijn eerder helden uit het dagelijkse leven.": "Mes modèles sont plutôt des héros du quotidien.",
+            "Ik bewonder artsen, omdat ze zorgen voor zieke mensen.": "J’admire les médecins, parce qu’ils soignent les gens malades.",
+            "In de samenleving zijn er ook mensen die dingen willen veranderen.": "Dans la société, il y a aussi des gens qui veulent changer les choses.",
+            "Milieuactivisten hebben overtuigingen, zij willen de planeet redden.": "Les écologistes ont des convictions, ils veulent sauver la planète.",
+            "Zij voeren acties, bijvoorbeeld stranden schoonmaken.": "Ils organisent des actions, par exemple nettoyer les plages.",
+            "Ik ken een vrijwilliger die altijd beschikbaar is en goede adviezen geeft.": "Je connais un bénévole qui est toujours disponible et donne de bons conseils.",
+            "Hij is erg belangrijk voor mij.": "Il est très important pour moi.",
+            "Later wil ik graag even moedig en gul zijn als deze mensen.": "Plus tard, je voudrais être aussi courageux et généreux que ces gens.",
+            "Ik heb veel bewondering voor hen.": "J’ai beaucoup d’admiration pour eux."
+        }
+    },
+    "Unité 6": {
+        "Apprendre 1": {
+            "_meta": {
+                "flip": true
+            },
+            "het zelfvertrouwen": "la confiance en soi",
+            "het talent": "le talent",
+            "de ambitie": "l’ambition (f)",
+            "de kwaliteit": "la qualité",
+            "het karakter": "le caractère",
+            "de discipline": "la discipline",
+            "het leerproces": "l’apprentissage (m)",
+            "de test": "le test",
+            "de inspiratie": "l’inspiration (f)",
+            "inspireren": "inspirer",
+            "de passie": "la passion",
+            "het project": "le projet",
+            "in staat zijn om": "être capable de",
+            "zich ontwikkelen": "se développer",
+            "organiseren": "organiser",
+            "bezoeken": "visiter",
+            "samenwerken": "collaborer",
+            "initiatief nemen": "prendre l’initiative",
+            "commentaar krijgen": "recevoir des commentaires",
+            "problemen oplossen": "résoudre des problèmes",
+            "zich aanpassen aan": "s’adapter à",
+            "goed zijn in": "être fort en",
+            "slecht zijn in": "être mauvais en",
+            "gemotiveerd zijn": "être motivé",
+            "ondernemend": "entreprenant"
+        },
+        "Apprendre 2": {
+            "_meta": {
+                "flip": false
+            },
+            "être conscient de": "zich bewust zijn van",
+            "la capacité": "de capaciteit",
+            "le niveau": "het niveau",
+            "posséder": "bezitten",
+            "l’étoile (f)": "de ster",
+            "se battre": "vechten",
+            "évidemment": "natuurlijk",
+            "avoir besoin de": "nodig hebben",
+            "l’amitié (f)": "de vriendschap",
+            "l'ambiance (f)": "de sfeer",
+            "de nature": "van nature",
+            "trop": "te",
+            "sérieux, sérieuse": "serieus",
+            "l’échec (m)": "het falen, de mislukking",
+            "commettre": "maken, begaan",
+            "persévérer": "doorzetten",
+            "la difficulté": "de moeilijkheid",
+            "le regard": "de blik",
+            "se sentir": "zich voelen",
+            "responsable": "verantwoordelijk",
+            "en tant que": "als",
+            "indifférent": "onverschillig",
+            "humanitaire": "humanitair, menselijk",
+            "le préjugé": "het vooroordeel",
+            "continuer": "doorgaan"
+        },
+        "Apprendre 4": {
+            "_meta": {
+                "flip": false
+            },
+            "l’audition (f)": "de auditie",
+            "carrément": "ronduit, beslist",
+            "je suis désolé": "het spijt me",
+            "chanter faux": "vals zingen",
+            "avoir l’air": "eruit zien",
+            "affreux": "afschuwelijk",
+            "gâcher": "verpesten",
+            "gentil, gentille": "aardig",
+            "l’artiste (m/f)": "de artiest(e)",
+            "s’améliorer": "zich verbeteren",
+            "la répétition": "de repetitie, de herhaling",
+            "se fâcher": "boos worden",
+            "juste": "slechts",
+            "l’auditeur, l’auditrice": "de luisteraar",
+            "ça veut dire": "dat wil zeggen",
+            "tester": "testen",
+            "utile": "nuttig",
+            "le genre": "het type",
+            "le groupe-cible": "de doelgroep",
+            "s’adresser à": "zich richten tot",
+            "honnête": "eerlijk",
+            "la vérité": "de waarheid",
+            "l’objectif (m)": "het doel",
+            "gagner sa vie": "in zijn onderhoud voorzien",
+            "fabriquer": "fabriceren"
+        },
+        "Apprendre 6": {
+            "_meta": {
+                "flip": true
+            },
+            "beroeps-": "professionnel, professionnelle",
+            "precies, exact": "exactement",
+            "de humor": "l’humour (m)",
+            "op dit moment": "en ce moment",
+            "de man": "l’homme (m)",
+            "de wedstrijd": "le concours",
+            "het stripverhaal": "la bande dessinée (B.D.)",
+            "de tekening": "le dessin",
+            "tekenen": "dessiner",
+            "meedoen aan": "participer à",
+            "het jaar": "l’année (f)",
+            "een poging wagen": "tenter sa chance",
+            "de sciencefiction": "la science-fiction",
+            "het avontuur": "l’aventure (f)",
+            "poëtisch": "poétique",
+            "creëren": "créer",
+            "gelukkig": "heureux, heureuse",
+            "(iets) missen": "manquer (de quelque chose)",
+            "slagen": "réussir",
+            "fantastisch": "fantastique",
+            "beter worden, vooruit gaan": "progresser",
+            "moeite hebben met": "avoir du mal à",
+            "de tekst": "le texte",
+            "de dialoog": "le dialogue",
+            "afgesproken": "entendu"
+        },
+        "Apprendre 7": {
+            "_meta": {
+                "flip": true
+            },
+            "Ik ga jullie vertellen over mijn talent.": "Je vais vous parler de mon talent.",
+            "Ik heb besloten een poging te wagen.": "J’ai décidé de tenter ma chance.",
+            "Ik wil jullie laten zien wat ik kan.": "Je veux vous montrer ce que je sais faire.",
+            "Ik ben gelukig als ik teken.": "Je suis heureux quand je dessine.",
+            "Je tekent heel goed, je hebt talent.": "Tu dessines très bien, tu as du talent.",
+            "Maar het lukt me niet altijd.": "Mais je ne réussis pas toujours.",
+            "Ik moet nog veel leren om beter te worden.": "Je dois encore beaucoup apprendre pour progresser.",
+            "Wat is jouw doel voor de toekomst?": "Quel est ton objectif pour l’avenir ?",
+            "Ik droom ervan om beroepsvlogger te worden.": "Je rêve de devenir vlogueur professionnel.",
+            "Bedankt voor jullie aandacht.": "Merci de votre attention."
+        },
+        "Apprendre 8": {
+            "_meta": {
+                "flip": true
+            },
+            "origineel": "original",
+            "financieel": "financier, financière",
+            "de finale": "la finale",
+            "het kamp": "le camp",
+            "de vluchteling": "le réfugié",
+            "kletsen": "bavarder",
+            "het belang": "l'intérêt (m)",
+            "geduldig": "patient",
+            "trots": "fier, fière",
+            "ook al": "même si",
+            "leiden": "mener",
+            "de hoop": "l'espoir (m)",
+            "op deze manier, zo": "de cette manière",
+            "de zorgen": "les soucis (m pl)",
+            "het plezier": "le plaisir",
+            "(hier:) opzetten": "monter",
+            "noch … noch": "ni … ni",
+            "kunnen, weten": "savoir",
+            "uitnodigen": "inviter",
+            "aanmoedigen": "encourager",
+            "de reclame": "la promotion",
+            "de workshop": "l'atelier (m)",
+            "het lezen": "la lecture",
+            "de poster": "le poster",
+            "wensen": "souhaiter"
+        },
+        "Apprendre 9": {
+            "_meta": {
+                "flip": true
+            },
+            "Ik wil graag een project opzetten voor het goede doel.": "Je voudrais monter un projet pour la bonne cause.",
+            "Ik wil graag een openluchtconcert organiseren.": "J’aimerais organiser un concert en plein air.",
+            "Wij zoeken financiële hulp om onze droom te realiseren.": "Nous cherchons de l’aide financière pour réaliser notre rêve.",
+            "Wij willen meedoen aan de finale.": "Nous voulons participer à la finale.",
+            "Hij is sociaal, hij houdt ervan om te kletsen met mensen.": "Il est sociable, il aime bavarder avec les gens.",
+            "Ik ben trots op mezelf omdat ik me nuttig maak.": "Je suis fier de moi parce que je me rends utile.",
+            "Op deze manier kunnen de jongeren hun problemen vergeten.": "De cette manière, les jeunes peuvent oublier leurs problèmes.",
+            "We helpen mensen die kunnen lezen noch schrijven.": "On aide les gens qui ne savent ni lire ni écrire.",
+            "Je moet kinderen aanmoedigen om boeken te lenen.": "Il faut encourager les enfants à emprunter des livres.",
+            "We gaan reclame maken voor de leesworkshops.": "On va faire de la promotion pour les ateliers de lecture."
+        }
+    }
 }
