@@ -1,16 +1,19 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "Flexible chapter/paragraph schema",
+  "title": "Chapters containing Paragraphs containing 1 object '_meta' and further only string to string k:v pairs.",
   "type": "object",
   "additionalProperties": {
     "type": "object",
     "additionalProperties": {
       "type": "object",
+      "required": ["_meta"],
+      "properties": {
+        "_meta": {
+          "type": "object"
+        }
+      },
       "additionalProperties": {
-        "anyOf": [
-          { "type": "string" },
-          { "type": "object" }
-        ]
+        "type": "string"
       }
     }
   }
