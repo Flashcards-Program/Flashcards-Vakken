@@ -1,39 +1,197 @@
 {
-  "Hoofdstuk 1": {
-    "Paragraaf 1": {
-      "_meta": {
-        "flip": false
-      },
-      "Alternatief aanwendbaar":"Middelen kun je op verschillende manieren inzetten om in je behoeften te voorzien.",
-      "Behoeften":"Alles wat je graag wilt hebben of nodig hebt. Er zijn primaire en secundaire behoeften.",
-      "Consumeren":"Het kopen van goederen en diensten om in je eigen behoeften te voorzien.",
-      "Diensten":"Activiteiten waarmee je in een behoefte voorziet.",
-      "Goederen":"Dit zijn tastbare producten die je kunt kopen. Er zijn gebruiksgoederen en verbruiksgoederen.",
-      "Middelen":"Deze heb je nodig om in je behoeften te kunnen voorzien. Middelen zijn tijd en geld.",
-      "Schaarste":"Je hebt niet genoeg middelen om in al je behoeften te kunnen voorzien."
-    },
-    "Paragraaf 2": {
-      "_meta": {
-        "flip": false
-      },
-      "Begroting":"Overzicht van verwachte inkomsten en uitgaven over een bepaalde periode.",
-      "Bezuinigen":"Minder geld uitgeven.",
-      "Budget":"De hoeveelheid geld waarover je in een bepaalde periode kunt beschikken.",
-      "Huishoudelijke uitgaven":"Dagelijkse uitgaven, zoals boodschappen en persoonlijke verzorging.",
-      "Incidentele uitgaven":"Grote uitgaven die je niet zo vaak doet en waarvoor het verstandig is om geld te reserveren.",
-      "Inkomen":"Het geld dat je ontvangt. Er zijn drie soorten: inkomen uit arbeid, inkomen uit bezit en overdrachtsinkomen.",
-      "Primair inkomen":"Inkomen uit arbeid en bezit.",
-      "Secundair inkomen":"Het primair- en overdrachtsinkomen samen minus de belastingen.",
-      "Sparen":"Geld opzijzetten voor later.",
-      "Vaste lasten":"Uitgaven die je met een bepaalde regelmaat betaalt en die zijn opgenomen in een contract."
-    },
-    "Paragraaf 3": {
-      "_meta": {
-        "flip": false
-      },
-      "Budgetlijn":"Lijn in een grafiek die aangeeft hoeveel je van elk van twee producten kunt kopen met een gegeven budget en gegeven prijzen.",
-      "Budgetset":"Alle keuzemogelijkheden van twee producten die binnen je budget vallen.",
-      "Model":"Een vereenvoudigde weergave van de werkelijkheid."
-    }
-  }
+	"Hoofdstuk 5": {
+		"Paragraaf 1": {
+			"_meta": {
+				"flip": false
+			},
+			"Financieel plan": "Plan waarin staat hoeveel geld een startend bedrijf nodig heeft en hoe het bedrijf aan dit geld komt.",
+			"Kamer van Koophandel (KVK)": "Instelling van de overheid die alle bedrijven in Nederland registreert.",
+			"Marketingplan": "Plan met daarin de strategie hoe een bedrijf een product op de markt gaat brengen.",
+			"Ondernemer": "Iemand die met een eigen bedrijf zijn inkomen verdient.",
+			"Ondernemingsplan": "Plan met daarin het doel, de verwachtingen en strategie van de onderneming.",
+			"Werkgever": "Een ondernemer die een of meer mensen in loondienst heeft.",
+			"Werknemer": "Iemand die in loondienst werk uitvoert voor een werkgever.",
+			"Zzp’er (zelfstandige zonder personeel)": "Een ondernemer die geen werknemers in dienst heeft."
+		},
+		"Paragraaf 2": {
+			"_meta": {
+				"flip": false
+			},
+			"Balans": "Financieel overzicht met daarop de bezittingen en het vermogen van een bedrijf.",
+			"Crowdfunding": "Een groep mensen investeert geld in een project of bedrijf.",
+			"Eigen vermogen": "Het geldbedrag dat de ondernemer zelf in de onderneming heeft gestopt.",
+			"Financieringsbegroting": "Overzicht waarin staat hoe de uitgaven op de investeringsbegroting worden betaald.",
+			"Investeren": "Aanschaffen van bedrijfsmiddelen.",
+			"Investeringsbegroting": "Overzicht van de uitgaven bij het oprichten van een onderneming.",
+			"Liquide activa": "De betaalmiddelen van een onderneming, zoals geld op de bank en in de kas.",
+			"Vaste activa": "Alle bezittingen van een onderneming die langer dan één jaar meegaan.",
+			"Vlottende activa": "Alle bezittingen van een onderneming die korter dan één jaar meegaan.",
+			"Vreemd vermogen": "Het geldbedrag dat de onderneming heeft geleend."
+		},
+		"Paragraaf 3": {
+			"_meta": {
+				"flip": false
+			},
+			"Affiliate marketing": "Vorm van internetmarketing waarbij de adverteerder de eigenaar van de website waar de advertentie op staat een klein bedrag betaalt, elke keer als er op de advertentie wordt geklikt.",
+			"Betalingsbereidheid": "Bedrag dat de consument bereid is om voor een product te betalen.",
+			"Directe distributie": "Het product wordt rechtstreeks aan de consument verkocht.",
+			"Doelgroep": "De groep consumenten waaraan een onderneming het product probeert te verkopen.",
+			"Immateriële kenmerken": "Onzichtbare kenmerken van een product, zoals garantie, service en imago.",
+			"Indirecte distributie": "Het product wordt niet rechtstreeks vanuit de producent maar via een winkel aan de consument verkocht.",
+			"Marketing": "Alle activiteiten die een bedrijf onderneemt om de consument te overtuigen het product te kopen.",
+			"Marketingmix": "Combinatie van de vier P’s (product, prijs, plaats en promotie) die het marketingbeleid van de onderneming bepalen.",
+			"Marktaandeel": "De eigen afzet in procenten van de totale marktafzet. Dit kan ook gemeten worden in omzet.",
+			"Materiële kenmerken": "Tastbare kenmerken van een product, zoals kwaliteit, design en verpakking.",
+			"Plaatsbeleid": "De keuzes die een bedrijf maakt over de plaats waar het product wordt verkocht.",
+			"Prijsbeleid": "De keuzes die een bedrijf maakt over de prijs van het product.",
+			"Productbeleid": "De keuzes die een bedrijf maakt over de kenmerken van een product.",
+			"Promotiebeleid": "De keuzes die een bedrijf maakt om het product bekendheid te geven.",
+			"Psychologische prijzen": "De verkoopprijs zo vaststellen dat de consument sneller geneigd is om het product te kopen.",
+			"Reclame": "Vorm van communicatie om een product aan te prijzen.",
+			"Sponsoring": "Vorm van marketing waarbij een merk zich verbindt aan een bekende persoon of organisatie."
+		}
+	},
+	"Hoofdstuk 6": {
+		"Paragraaf 1": {
+			"_meta": {
+				"flip": false
+			},
+			"Betalingsbereidheid": "Het bedrag dat consumenten maximaal voor een product of dienst willen of kunnen betalen.",
+			"Vraag": "De hoeveelheid die een consument van een product of dienst wil kopen.",
+			"Vraagfactoren": "Factoren die invloed hebben op de hoeveelheid die consumenten van een bepaald product willen kopen.",
+			"Vraagfunctie": "Vergelijking waarmee je de vraag naar een product bij verschillende prijzen kunt berekenen en tekenen.",
+			"Vraaglijn": "Lijn die de betalingsbereidheid van kopers voor een bepaald product weergeeft."
+		},
+		"Paragraaf 2": {
+			"_meta": {
+				"flip": false
+			},
+			"Aanbod": "De hoeveelheid die alle producenten samen van een product (of dienst) willen verkopen.",
+			"Aanbodfactoren": "Factoren die invloed hebben op de hoeveelheid die producenten van een bepaald product willen produceren, zoals prijs, kosten en arbeidsproductiviteit.",
+			"Aanbodfunctie": "Een vergelijking waarmee je het aanbod van een product bij verschillende prijzen kunt berekenen en tekenen.",
+			"Aanbodlijn": "Lijn die aangeeft hoeveel producten verkopers aanbieden bij verschillende prijzen.",
+			"Verkoopbereidheid": "Het bedrag dat producenten minimaal willen ontvangen voor het product dat ze aanbieden."
+		},
+		"Paragraaf 3": {
+			"_meta": {
+				"flip": false
+			},
+			"Aanbodoverschot": "Ontstaat wanneer de prijs hoger is dan de evenwichtsprijs en er dus meer aanbod dan vraag is.",
+			"Abstracte markt": "Markt waarbij vragers en aanbieders geen fysieke plek hebben om te handelen.",
+			"Concrete markt": "Markt waarbij vragers en aanbieders fysiek bij elkaar komen om te handelen.",
+			"Evenwichtshoeveelheid": "De hoeveelheid waarbij er evenveel gevraagd en aangeboden wordt van een product.",
+			"Evenwichtsprijs": "De prijs waarbij er evenveel aangeboden als gevraagd wordt van een product.",
+			"Marktevenwicht": "De vraag naar een product en het aanbod van ditzelfde product zijn aan elkaar gelijk.",
+			"Marktmechanisme": "Het bewegen van de prijzen richting de evenwichtsprijs.",
+			"Vraagoverschot": "Ontstaat wanneer de prijs lager is dan de evenwichtsprijs en er dus meer vraag dan aanbod is."
+		}
+	},
+	"Hoofdstuk 7": {
+		"Paragraaf 1": {
+			"_meta": {
+				"flip": false
+			},
+			"Bemoeigoederen": "Goederen waarvan de overheid de prijs beïnvloedt om de consumptie van het goed te ontmoedigen of te stimuleren.",
+			"Collectieve goederen": "Goederen die door de overheid worden geproduceerd en voor iedereen beschikbaar zijn en waar je geen individuele prijs voor kunt betalen.",
+			"Collectieve sector": "De overheid en de zelfstandige bestuursorganen samen.",
+			"Individuele goederen": "Goederen die door de markt worden geproduceerd.",
+			"Negatieve externe effecten": "De nadelige invloed die de productie van een goed op anderen kan hebben en die niet in de prijs van het goed is opgenomen.",
+			"Particuliere sector": "Alle burgers en bedrijven samen.",
+			"Positieve externe effecten": "De voordelige invloed die de productie van een goed op anderen kan hebben en die niet in de prijs van het goed is opgenomen.",
+			"Quasi-collectieve goederen": "Goederen die door de overheid worden geproduceerd, maar waar je wel individueel voor kunt betalen."
+		},
+		"Paragraaf 2": {
+			"_meta": {
+				"flip": false
+			},
+			"Directe belastingen": "Belastingen op inkomen en vermogen die je rechtstreeks aan de overheid betaalt.",
+			"Indirecte belastingen": "Kostprijsverhogende belastingen die je via een winkel aan de overheid betaalt.",
+			"Miljoenennota": "Een samenvatting van de Rijksbegroting die elk jaar op Prinsjesdag wordt gepresenteerd.",
+			"Rijksbegroting": "Overzicht van de verwachte inkomsten en uitgaven van de Rijksoverheid voor een komend jaar.",
+			"Sociale premies": "Inkomsten waarmee de collectieve sector de sociale verzekeringen betaalt aan burgers die hier recht op hebben.",
+			"Sociale zekerheid": "Het systeem van uitkeringen dat ervoor zorgt dat mensen zonder inkomen toch geld hebben om van te leven."
+		},
+		"Paragraaf 3": {
+			"_meta": {
+				"flip": false
+			},
+			"Begrotingsoverschot": "De verwachte inkomsten van de overheid zijn groter dan de verwachte uitgaven.",
+			"Begrotingstekort": "De verwachte inkomsten van de overheid zijn kleiner dan de verwachte uitgaven.",
+			"Bezuinigen": "De overheid verlaagt de uitgaven.",
+			"Overheidsschuld (staatschuld)": "De totale schuld die de overheid heeft opgebouwd door geld te lenen.",
+			"Stabiliteits- en Groeipact": "Afspraken tussen lidstaten van de EU over de overheidsfinanciën."
+		}
+	},
+	"Hoofdstuk 8": {
+		"Paragraaf 1": {
+			"_meta": {
+				"flip": false
+			},
+			"Arbeidsproductiviteit": "Productie per werknemer per tijdseenheid.",
+			"Betalingsbalans": "Een overzicht van alle betalingen van een land met het buitenland.",
+			"Concurrentiepositie": "Hoe goed een land kan concurreren met het buitenland.",
+			"Export (uitvoer)": "Een land verkoopt goederen of diensten aan het buitenland.",
+			"Import (invoer)": "Een land koopt goederen en diensten van het buitenland.",
+			"Internationale handel": "Handel tussen landen.",
+			"Open economie": "Een land dat veel doet aan internationale handel."
+		},
+		"Paragraaf 2": {
+			"_meta": {
+				"flip": false
+			},
+			"Vraag en aanbod van/naar een valuta": "Alle consumenten, bedrijven en andere partijen die een munt vragen of aanbieden.",
+			"Vreemde valuta": "De verschillende muntsoorten (zoals euro, dollar of pond) van landen.",
+			"Wisselkoers": "De waarde van een munt uitgedrukt in een andere munt."
+		},
+		"Paragraaf 3": {
+			"_meta": {
+				"flip": false
+			},
+			"Handelsoorlog": "Landen gaan de handel met elkaars land blokkeren of moeilijker maken, bijvoorbeeld door het instellen van invoerrechten of het verbieden van import.",
+			"Protectie": "Een land neemt maatregelen om bedrijven te beschermen tegen internationale concurrentie.",
+			"Protectiemaatregelen": "Maatregelen die een land neemt om de eigen productie te beschermen, zoals invoerrechten, exportsubsidies, importquota en importverboden.",
+			"Vrijhandel": "Twee of meer landen spreken af om alle handelsbelemmeringen af te schaffen.",
+			"Vrijhandelszone": "Groep van landen die afspreekt dat er binnen hun gebied zonder handelsbelemmeringen, zoals importheffingen, mag worden gehandeld."
+		}
+	},
+	"Hoofdstuk 9": {
+		"Paragraaf 1": {
+			"_meta": {
+				"flip": false
+			},
+			"Bbp per hoofd van de bevolking": "Het totale bbp gedeeld door het aantal inwoners van een land.",
+			"Brede Welvaart Monitor": "Manier waarop het CBS de brede welvaart meet.",
+			"Bruto binnenlands product (bbp)": "Totale waarde van de productie van bedrijven en de overheid in een land bij elkaar.",
+			"Groen bbp": "Index die het bbp meet plus de waarde van verbetering van het milieu, verminderd met de schade aan het milieu.",
+			"Human Development Index (HDI)": "Index die meet hoe het gesteld is met armoede, analfabetisme, onderwijsniveau en levensverwachting in een land.",
+			"Informele productie": "Productie die niet gemeten wordt in het bbp, maar wel waarde oplevert: zwart werk, vrijwilligerswerk en onbetaald werk (zoals mantelzorg) in huis.",
+			"Welvaart": "De mate waarin je in je behoeften kunt voorzien.",
+			"Welvaart in brede zin": "Welvaart in enge zin waarbij ook rekening gehouden wordt met welzijn (milieu, gezondheid en veiligheid).",
+			"Welvaart in enge zin": "Welvaart die je meet met het bbp, uitgedrukt in geld.",
+			"World Happiness Index (WHI)": "Index die aangeeft hoe gelukkig de gemiddelde inwoner van een land is."
+		},
+		"Paragraaf 2": {
+			"_meta": {
+				"flip": false
+			},
+			"Armoedegrens": "Inkomensgrens waaronder je mensen arm noemt.",
+			"Budgetbeheer": "Een externe partij (gemeente of schuldhulpverlener) beheert de financiën van een burger.",
+			"Langdurige armoede": "Armoede die langer dan vier jaar duurt.",
+			"Nibud (Nationaal Instituut voor Budgetvoorlichting)": "Instelling die Nederlanders helpt om te gaan met hun geld.",
+			"Ontwikkelingssamenwerking": "Arme landen worden geholpen met het opzetten van eigen productie en educatie, met als doel de welvaart in deze landen te vergroten.",
+			"Schuldbemiddeling": "Afspraken maken met schuldeisers over de aflossing van schulden.",
+			"Schuldsanering": "Het (gedeeltelijk) kwijtschelden van schulden."
+		},
+		"Paragraaf 3": {
+			"_meta": {
+				"flip": false
+			},
+			"Circulaire economie": "Een economie waarin afval minimaal is of zelfs niet meer ontstaat bij productie.",
+			"Ecologische voetafdruk": "Geeft weer hoeveel vruchtbare land- of wateroppervlakte iemand of een hele gemeenschap nodig heeft om te voorzien in de goederen (en de daardoor veroorzaakte afval) die nodig zijn.",
+			"Europese Green Deal": "Programma van de EU met als doel om in 2050 een CO2-uitstootvrije economie te hebben.",
+			"Externe effecten": "De invloed die de productie of consumptie van een goed op anderen kan hebben en die niet in de prijs van het goed is opgenomen.",
+			"Lineaire economie": "Een economie waarin grondstoffen gewonnen worden voor het maken van producten en de producten na gebruik afgedankt worden als afval.",
+			"Recycling": "Hergebruik van producten en materialen."
+		}
+	}
 }
