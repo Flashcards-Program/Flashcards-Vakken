@@ -1,7 +1,17 @@
+#:=-- Setup --=:#
 *
 
+#:=-- Root Files --=:#
 !.gitignore
+!index.json
 !README.md
+
+#:=-- Folders & Subfolders --=:#
+!.github/
+!.github/**
 
 !Vakken/
 !Vakken/**
+
+!scripts/
+!scripts/**
