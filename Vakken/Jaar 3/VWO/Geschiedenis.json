@@ -1,5 +1,14 @@
 {
 	"Hoofdstuk 1": {
+		"_meta": {
+			"pairs": {
+				"Paragraaf 1": ["Paragraaf 1", "Paragraaf 1 — Leerdoelen"],
+				"Paragraaf 2": ["Paragraaf 2", "Paragraaf 2 — Leerdoelen"],
+				"Paragraaf 3": ["Paragraaf 3", "Paragraaf 3 — Leerdoelen"],
+				"Paragraaf 4": ["Paragraaf 4", "Paragraaf 4 — Leerdoelen"],
+				"Paragraaf 5": ["Paragraaf 5", "Paragraaf 5 — Leerdoelen"]
+			}
+		},
 		"Paragraaf 1": {
 			"_meta": {
 				"flip": false
@@ -9,13 +18,13 @@
 			"tijdzone": "gebied met dezelfde tijd",
 			"vooruitgangsgeloof": "idee dat het leven steeds beter wordt"
 		},
-		"Paragraaf 1 - Leerdoelen": {
+		"Paragraaf 1 — Leerdoelen": {
 			"_meta": {
 				"flip": false
 			},
 			"hoe mensen omstreeks 1900 met tijd omgingen": "In de 19e eeuw ontstonden nationale tijden op aandringen van de spoorwegen. Eind 19e eeuw werd Europa opgedeeld in tijdzones.",
 			"kenmerken van de beschaving omstreeks 1900": "De jaren 1890-1914 staan bekend als la belle époque. Het was een tijd van groeiende welvaart, van toenemende internationale contacten en van een vooruitgangsgeloof.",
-			"hoe de moderne Olympische Spelen ontstonden": "De moderne Olympische Spelenwerden voor het eerst gehouden in 1896. Ze pasten bij de industriële samenleving, het toenemende nationalisme en het groeiend belang van tijdmeting."
+			"hoe de moderne Olympische Spelen ontstonden": "De moderne Olympische Spelen werden voor het eerst gehouden in 1896. Ze pasten bij de industriële samenleving, het toenemende nationalisme en het groeiend belang van tijdmeting."
 		},
 		"Paragraaf 2": {
 			"_meta": {
@@ -30,7 +39,7 @@
 			"wapenwedloop": "race om de sterkste bewapening",
 			"wereldoorlog": "oorlog waarin veel volken in een groot deel van de wereld meedoen"
 		},
-		"Paragraaf 2 - Leerdoelen": {
+		"Paragraaf 2 — Leerdoelen": {
 			"_meta": {
 				"flip": false
 			},
@@ -53,7 +62,7 @@
 			"Rode Leger": "leger van communistisch Rusland",
 			"sovjet": "(raad) groep mensen die iets bestuurt"
 		},
-		"Paragraaf 3 - Leerdoelen": {
+		"Paragraaf 3 — Leerdoelen": {
 			"_meta": {
 				"flip": false
 			},
@@ -61,9 +70,70 @@
 			"hoe Rusland een republiek werd.": "Begin 1917 vond een democratische revolutie plaats waarbij Rusland een republiek werd (Februarirevolutie).",
 			"hoe Rusland communistisch werd.": "Eind 1917 pleegden communisten onder leiding van Lenin een staatsgreep (Oktoberrevolutie). Rusland werd een eenpartijstaat en een communistische dictatuur.",
 			"hoe de Sovjet-Unie ontstond.": "De communisten versloegen hun tegenstanders in een burgeroorlog. In 1922 vormde Rusland met andere delen van het voormalige tsarenrijk de Sovjet-Unie."
+		},
+		"Paragraaf 4": {
+			"_meta": {
+				"flip": false
+			},
+			"etnische zuivering": "acties om etnische groepen in een gebied in aantal te verminderen",
+			"mandaatgebied": "gebied dat in opdracht van de Volkenbond door een geallieerde staat werd bestuurd",
+			"Volkenbond": "in 1919 opgerichte volkerenorganisatie",
+			"Vrede van Versailles": "vredesverdrag tussen geallieerden en Duitsland (1919)",
+			"zelfbeschikkingsrecht": "recht van een volk om zelf te bepalen bij welke staat zijn gebied hoort en hoe deze staat bestuurd wordt"
+		},
+		"Paragraaf 4 — Leerdoelen": {
+			"_meta": {
+				"flip": false
+			},
+			"hoe na de Eerste Wereldoorlog vrede werd gesloten.": "Na de Eerste Wereldoorlog sloten de overwinnaars met Duitsland in 1919 het vredesverdrag van Versailles. Hierin stond dat Duitsland schuldig was en dat het een zware straf kreeg. Om toekomstige oorlogen te voorkomen werd de Volkenbond opgericht.",
+			"welke invloed het nationalisme had.": "Door het nationalisme en de erkenning van het zelfbeschikkingsrecht vielen multi-etnische staten uiteen en ontstonden nieuwe staten in Europa.",
+			"hoe de republiek Turkije ontstond.": "Na het uiteenvallen van het Ottomaanse rijk stichtten Turken in 1923 de republiek Turkije.",
+			"hoe nieuwe etnische spanningen ontstonden.": "Nieuwe spanningen ontstonden doordat het zelfbeschikkingsrecht niet overal werd toegepast."
+		},
+		"Paragraaf 5": {
+			"_meta": {
+				"flip": false
+			},
+			"abstracte kunst": "kunst waarvan je niet kunt zien wat het voorstelt",
+			"deporteren": "wegvoeren",
+			"figuratieve kunst": "kunst waarvan je kunt zien wat het voorstelt",
+			"kunstnijverheid": "(toegepaste kunst) vormgeving van gebruiksvoorwerpen en bouwwerken",
+			"neutraal": "onpartijdig",
+			"op de bon": "als mensen een bon moeten hebben om iets te mogen kopen",
+			"schaarste": "als er heel weinig is van iets",
+			"zwarte markt": "plek waar verboden handel plaatsvindt"
+		},
+		"Paragraaf 5 — Leerdoelen": {
+			"_meta": {
+				"flip": false
+			},
+			"gevolgen van de neutraliteit voor Nederland.": "Nederland was neutraal in de Eerste Wereldoorlog, maar er was de hele oorlog wel oorlogsdreiging. In 1914 vluchtten veel Belgen naar Nederland.",
+			"welke economische ontwikkelingen er plaatsvonden.": "Door de oorlog kwamen minder voedsel en steenkool Nederland binnen waardoor schaarste en armoede ontstond.",
+			"welke politieke ontwikkelingen er plaatsvonden.": "De oorlogsdreiging leidde tot nationale eensgezindheid. In 1917 werden de kiesrechtkwestie en de schoolstrijd met een wijziging van de grondwet opgelost.",
+			"welke artistieke ontwikkeling er plaatsvond.": "In 1917 ontstond De Stijl, een invloedrijke beweging van kunstenaars die streefden naar eenvoud in kunst en kunstnijverheid."
+		},
+		"Tijdlijn": {
+			"_meta": {
+				"flip": true
+			},
+			"Eerste Wereldoorlog": "1914–1918",
+			"grondwetswijziging in Nederland / oprichting van De Stijl / revoluties in Rusland": "1917",
+			"Vrede van Versailles": "1919",
+			"vorming van de Sovjet-Unie": "1922",
+			"stichting van de republiek Turkije": "1923",
+			"Tweede Wereldoorlog": "1939–1945"
 		}
 	},
 	"Hoofdstuk 2": {
+		"_meta": {
+			"pairs": {
+				"Paragraaf 1": ["Paragraaf 1", "Paragraaf 1 — Leerdoelen"],
+				"Paragraaf 2": ["Paragraaf 2", "Paragraaf 2 — Leerdoelen"],
+				"Paragraaf 3": ["Paragraaf 3", "Paragraaf 3 — Leerdoelen"],
+				"Paragraaf 4": ["Paragraaf 4", "Paragraaf 4 — Leerdoelen"],
+				"Paragraaf 5": ["Paragraaf 5", "Paragraaf 5 — Leerdoelen"]
+			}
+		},
 		"Paragraaf 1": {
 			"_meta": {
 				"flip": false
@@ -78,7 +148,7 @@
 			"lopende band": "productiesysteem waarbij werknemers handelingen verrichten aan voorbijkomende producten",
 			"subsidie": "financiële steun van de overheid"
 		},
-		"Paragraaf 1 - Leerdoelen": {
+		"Paragraaf 1 — Leerdoelen": {
 			"_meta": {
 				"flip": false
 			},
@@ -102,7 +172,7 @@
 			"veteraan": "oud-soldaat",
 			"welzijn": "als het goed gaat met iemand"
 		},
-		"Paragraaf 2 - Leerdoelen": {
+		"Paragraaf 2 — Leerdoelen": {
 			"_meta": {
 				"flip": false
 			},
@@ -110,9 +180,107 @@
 			"hoe Italië een totalitaire dictatuur werd": "In 1922 werd Mussolini premier. Hij maakte van Italië een eenpartijstaat en een dictatuur met het fascisme als de staatsideologie.",
 			"hoe de Sovjeteconomie werd ontwikkeld": "Onder Stalin kreeg de Sovjet-Unie een planeconomie. Er was een snelle industrialisatie en de landbouw werd gecollectiviseerd. Miljoenen onderdanen stierven door terreur of hongersnood.",
 			"hoe de Sovjet-Unie een totalitaire dictatuur werd": "Met propaganda, indoctrinatie en terreur maakte Stalin van de Sovjet-Unie een totalitaire communistische dictatuur."
+		},
+		"Paragraaf 3": {
+			"_meta": {
+				"flip": false
+			},
+			"absolute meerderheid": "meerderheid van meer dan de helft",
+			"inflatie": "waardevermindering van geld",
+			"intimideren": "bang maken",
+			"links": "(in de politiek) vooruitstrevend",
+			"nationaalsocialisme": "antidemocratische, totalitaire, gewelddadige, extreem nationalistische en racistische politieke beweging",
+			"nazi": "afkorting van nationaalsocialist",
+			"oorlogsindustrie": "industrie die wapens en andere militaire producten maakt",
+			"rassenleer": "onjuiste theorie over verschillen tussen 'mensenrassen'",
+			"rechts": "(in de politiek) conservatief, voor sterke leiders",
+			"regime": "ondemocratische regering"
+		},
+		"Paragraaf 3 — Leerdoelen": {
+			"_meta": {
+				"flip": false
+			},
+			"welke politieke problemen ontstonden in Duitsland.": "Duitsland werd eind 1918 een parlementaire democratie. Door politiek geweld en de Vrede van Versailles was er weinig vertrouwen in de democratie van de Weimarrepubliek.",
+			"welke economische problemen ontstonden.": "Na een economische crisis bloeide de economie vanaf 1924 op dankzij Amerikaanse leningen. Maar door de economische wereldcrisis ontstond na 1929 weer veel werkloosheid en armoede.",
+			"hoe Hitler aan de macht kwam.": "De NSDAP profiteerde onder leiding van Hitler van de crisis en werd in 1932 de grootste politieke partij. In 1933 kwamen de nazi’s aan de macht.",
+			"hoe Duitsland een totalitaire dictatuur werd.": "Hitler maakte van Duitsland een totalitaire dictatuur en bereidde het land voor op een nieuwe oorlog door uitbreiding van het leger en de oorlogsindustrie. Hierdoor verdween de werkloosheid."
+		},
+		"Paragraaf 4": {
+			"_meta": {
+				"flip": false
+			},
+			"aanpassingspolitiek": "aanpassing van overheidsuitgaven aan dalende inkomsten",
+			"beleid": "manier waarop iets wordt geregeld",
+			"gouden standaard": "vaste verhouding van de waarde van een munt ten opzichte van goud",
+			"levensbeschouwing": "geheel van ideeën over wat belangrijk is in het leven",
+			"omroep": "1 alle radiobedrijven (later ook televisie), 2 een omroepvereniging",
+			"stempelen": "systeem met stempelkaarten van werklozen",
+			"uitkering": "geld dat iemand krijgt",
+			"verzuiling": "sociale verdeling in levensbeschouwelijke groepen"
+		},
+		"Paragraaf 4 — Leerdoelen": {
+			"_meta": {
+				"flip": false
+			},
+			"welke sociale verdeling bestond in Nederland.": "Vanaf het eind van de 19e eeuw raakte de Nederlandse samenleving verdeeld in vier zuilen naar levensovertuiging. Deze groepen hadden veel eigen organisaties. Hun leiders werkten samen in de politiek.",
+			"hoe de economie zich ontwikkelde.": "In de jaren 1920 was er in Nederland een bloeiende economie en een groeiende welvaart. Maar in de jaren 1930 werd Nederland getroffen door de economische wereldcrisis. De crisis werd erger door het beleid van de regering-Colijn.",
+			"welke politieke ontwikkelingen plaatsvonden.": "In Nederland kwamen totalitaire politieke partijen op, maar die kregen weinig aanhang."
+		},
+		"Paragraaf 5": {
+			"_meta": {
+				"flip": false
+			},
+			"Afrikaner": "witte persoon in Zuid-Afrika die Afrikaans (een soort Nederlands) spreekt",
+			"dominion": "zelfstandig deel van het Britse rijk",
+			"Hadith": "overgeleverde uitspraken en handelwijzen van Mohammed",
+			"Midden-Oosten": "gebied tussen de Middellandse en de Arabische Zee, inclusief Turkije, Egypte en Iran",
+			"non-coöperatie": "niet samenwerken",
+			"orthodoxe moslim": "moslim die zich strikt houdt aan de voorschriften van de islam",
+			"seculier": "niet-godsdienstig, wereldlijk",
+			"sharia": "islamitische wetgeving, gebaseerd op de Koran en de Hadith",
+			"sjah": "koning van Iran (Perzië)"
+		},
+		"Paragraaf 5 — Leerdoelen": {
+			"_meta": {
+				"flip": false
+			},
+			"hoe de verhouding was tussen Europa en Oost-Azië.": "Grote delen van Oost-Azië waren Europese kolonies. Nationalisten in Brits-Indië streefden onder leiding van Gandhi naar onafhankelijkheid en onderhandelden daarover met de Britse regering.",
+			"hoe de verhouding was tussen Europa en het Midden-Oosten.": "In het Midden-Oosten ontstonden onafhankelijke staten en kwamen landen onder Europese overheersing of invloed. Turkije en Iran moderniseerden naar westers voorbeeld, met minder invloed van de islam.",
+			"hoe de verhouding was tussen Europa en Afrika.": "In het interbellum bestond bijna geheel Afrika uit Europese kolonies. Ethiopië werd door Italië veroverd. De kolonie Zuid-Afrika werd een zelfstandig land binnen het Britse rijk waar de witte minderheid de macht had."
+		},
+		"Tijdlijn": {
+			"_meta": {
+				"flip": true
+			},
+			"Eerste Wereldoorlog": "1914–1918",
+			"Mussolini wordt premier van Italië": "1922",
+			"Stalin wordt leider van de Sovjet-Unie": "1928",
+			"begin van de economische wereldcrisis": "1929",
+			"Gandhi in Londen": "1931",
+			"Hitler wordt kanselier van Duitsland": "januari 1933",
+			"Roosevelt wordt president van de VS": "maart 1933",
+			"Colijn wordt premier van Nederland": "mei 1933",
+			"Tweede Wereldoorlog": "1939–1945"
+		},
+		"Kenmerkende Aspecten": {
+			"_meta": {
+				"flip": true
+			},
+			"Kenmerkend Aspect 9A": "het totalitair karakter van het communistisch politiek systeem",
+			"Kenmerkend Aspect 9B": "de economische wereldcrisis",
+			"Kenmerkend Aspect 9C": "het racistisch en totalitair karakter van het nationaalsocialisme"
 		}
 	},
 	"Hoofdstuk 3": {
+		"_meta": {
+			"pairs": {
+				"Paragraaf 1": ["Paragraaf 1", "Paragraaf 1 — Leerdoelen"],
+				"Paragraaf 2": ["Paragraaf 2", "Paragraaf 2 — Leerdoelen"],
+				"Paragraaf 3": ["Paragraaf 3", "Paragraaf 3 — Leerdoelen"],
+				"Paragraaf 4": ["Paragraaf 4", "Paragraaf 4 — Leerdoelen"],
+				"Paragraaf 5": ["Paragraaf 5", "Paragraaf 5 — Leerdoelen"]
+			}
+		},
 		"Paragraaf 1": {
 			"_meta": {
 				"flip": false
@@ -125,7 +293,7 @@
 			"diplomatie": "overleg tussen staten",
 			"invasie": "vijandelijke inval"
 		},
-		"Paragraaf 1 - Leerdoelen": {
+		"Paragraaf 1 — Leerdoelen": {
 			"_meta": {
 				"flip": false
 			},
@@ -143,7 +311,7 @@
 			"kamikaze": "zelfmoordpiloot",
 			"seksslaaf": "persoon die gedwongen wordt tot prostitutie"
 		},
-		"Paragraaf 2 - Leerdoelen": {
+		"Paragraaf 2 — Leerdoelen": {
 			"_meta": {
 				"flip": false
 			},
@@ -165,7 +333,7 @@
 			"onderduiker": "iemand die zich schuilhoudt",
 			"razzia": "drijfjacht op mensen"
 		},
-		"Paragraaf 3 - Leerdoelen": {
+		"Paragraaf 3 — Leerdoelen": {
 			"_meta": {
 				"flip": false
 			},
@@ -183,7 +351,7 @@
 			"Holocaust": "(Shoah) moord op joden tijdens de Tweede Wereldoorlog",
 			"vernietigingskamp": "concentratiekamp gemaakt om mensen te vermoorden"
 		},
-		"Paragraaf 4 - Leerdoelen": {
+		"Paragraaf 4 — Leerdoelen": {
 			"_meta": {
 				"flip": false
 			},
@@ -205,7 +373,7 @@
 			"Verenigde Naties": "(VN) volkenorganisatie sinds 1945",
 			"vetorecht": "recht om besluiten tegen te houden"
 		},
-		"Paragraaf 5 - Leerdoelen": {
+		"Paragraaf 5 — Leerdoelen": {
 			"_meta": {
 				"flip": false
 			},
@@ -241,6 +409,15 @@
 		}
 	},
 	"Hoofdstuk 4": {
+		"_meta": {
+			"pairs": {
+				"Paragraaf 1": ["Paragraaf 1", "Paragraaf 1 — Leerdoelen"],
+				"Paragraaf 2": ["Paragraaf 2", "Paragraaf 2 — Leerdoelen"],
+				"Paragraaf 3": ["Paragraaf 3", "Paragraaf 3 — Leerdoelen"],
+				"Paragraaf 4": ["Paragraaf 4", "Paragraaf 4 — Leerdoelen"],
+				"Paragraaf 5": ["Paragraaf 5", "Paragraaf 5 — Leerdoelen"]
+			}
+		},
 		"Paragraaf 1": {
 			"_meta": {
 				"flip": false
@@ -252,13 +429,13 @@
 			"tijd van televisie en computer": "tiende tijdvak (1950-heden)",
 			"zionisme": "streven naar een joodse staat"
 		},
-		"Paragraaf 1 - Leerdoelen": {
+		"Paragraaf 1 — Leerdoelen": {
 			"_meta": {
 				"flip": false
 			},
 			"welke invloed de Tweede Wereldoorlog had op de dekolonisatie.": "Door de Tweede Wereldoorlog was het nationalisme in Azië versterkt. De VS en de Sovjet-Unie waren tegen kolonialisme.",
 			"hoe Britse en Franse kolonies in Azië onafhankelijk werden.": "De Britten deden vrijwillig afstand van hun macht in Azië. Brits-Indië werd in 1947 gesplitst in de staten India en Pakistan. De Fransen verlieten Indochina in 1954 na een koloniale oorlog.",
-			"hoe de Nederlandse kolonies zelfstandig en onafhankelijk werden.": "Na de Indonesische Onafhankelijkheidsoorlog (1945- 1949) erkende Nederland de onafhankelijkheid van Indonesië. Suriname werd in 1975 een onafhankelijk republiek. Van de Antilliaanse eilanden binnen het Koninkrijk der Nederlanden zijn er drie vanaf 2010 een bijzondere gemeente en drie een zelfstandig land.",
+			"hoe de Nederlandse kolonies zelfstandig en onafhankelijk werden.": "Na de Indonesische Onafhankelijkheidsoorlog (1945–1949) erkende Nederland de onafhankelijkheid van Indonesië. Suriname werd in 1975 een onafhankelijk republiek. Van de Antilliaanse eilanden binnen het Koninkrijk der Nederlanden zijn er drie vanaf 2010 een bijzondere gemeente en drie een zelfstandig land.",
 			"hoe de staat Israël ontstond.": "Door het zionisme vestigden joden zich in Palestina waar ze in conflict kwamen met de Palestijnen. Toen de Britten in 1948 vertrokken, riepen joden de staat Israël uit.",
 			"hoe Afrikaanse kolonies onafhankelijk werden.": "In Noord-Afrika lieten de Fransen Tunesië en Marokko in 1956 zonder strijd onafhankelijk worden en Algerije in 1962 na een oorlog. Ten zuiden van de Sahara werden de meeste kolonies zonder strijd onafhankelijk tussen 1957 en 1975."
 		},
@@ -276,7 +453,7 @@
 			"Oostblok": "communistische landen onder leiding van de Sovjet-Unie",
 			"Warschaupact": "militair bondgenootschap van het Oostblok"
 		},
-		"Paragraaf 2 - Leerdoelen": {
+		"Paragraaf 2 — Leerdoelen": {
 			"_meta": {
 				"flip": false
 			},
@@ -297,7 +474,7 @@
 			"legitimiteit": "wettigheid, overeenstemming met wetten",
 			"segregatie": "(rassenscheiding) scheiding van bevolkingsgroepen"
 		},
-		"Paragraaf 3 - Leerdoelen": {
+		"Paragraaf 3 — Leerdoelen": {
 			"_meta": {
 				"flip": false
 			},
@@ -320,7 +497,7 @@
 			"integratie": "(integreren) opgaan in een geheel",
 			"Raad van Europa": "organisatie van Europese landen ter bevordering van democratie en mensenrechten (vanaf 1949)"
 		},
-		"Paragraaf 4 - Leerdoelen": {
+		"Paragraaf 4 — Leerdoelen": {
 			"_meta": {
 				"flip": false
 			},
@@ -341,7 +518,7 @@
 			"ontwikkelingslanden": "arme landen in Afrika, Azië en Zuid-Amerika",
 			"zelfverrijking": "als bestuurders veel overheidsgeld aan zich laten betalen"
 		},
-		"Paragraaf 5 - Leerdoelen": {
+		"Paragraaf 5 — Leerdoelen": {
 			"_meta": {
 				"flip": false
 			},
@@ -371,6 +548,141 @@
 			"Kenmerkend Aspect 10A": "nationalistische bewegingen in de kolonies en het streven naar onafhankelijkheid",
 			"Kenmerkend Aspect 10B": "de blokvorming tussen Oost en West en de Koude Oorlog",
 			"Kenmerkend Aspect 10C": "de Europese integratie"
+		}
+	},
+	"Hoofdstuk 5": {
+		"_meta": {
+			"pairs": {
+				"Paragraaf 1": ["Paragraaf 1", "Paragraaf 1 — Leerdoelen"],
+				"Paragraaf 2": ["Paragraaf 2", "Paragraaf 2 — Leerdoelen"],
+				"Paragraaf 3": ["Paragraaf 3", "Paragraaf 3 — Leerdoelen"],
+				"Paragraaf 4": ["Paragraaf 4", "Paragraaf 4 — Leerdoelen"],
+				"Paragraaf 5": ["Paragraaf 5", "Paragraaf 5 — Leerdoelen"]
+			}
+		},
+		"Paragraaf 1": {
+			"_meta": {
+				"flip": false
+			},
+			"humanisme": "niet-religieuze levensbeschouwing die uitgaat van de waarde van vrije mensen",
+			"individualisering": "als mensen persoonlijke onafhankelijkheid belangrijker vinden",
+			"moraal": "opvattingen over goed en kwaad",
+			"ontkerkelijking": "als mensen zich losmaken van hun kerk",
+			"ontzuiling": "het verdwijnen van de verzuiling",
+			"pluriforme samenleving": "veelvormige samenleving met allerlei soorten mensen",
+			"seksuele revolutie": "verandering vanaf de jaren 1960 waarbij mensen vrijer omgingen met seks",
+			"sociale zekerheid": "het geheel van regelingen voor mensen die minder goed voor zichzelf kunnen zorgen",
+			"solidariteit": "saamhorigheidsgevoel",
+			"verzorgingsstaat": "staat waarin de overheid zorgt voor mensen die minder goed voor zichzelf kunnen zorgen"
+		},
+		"Paragraaf 1 — Leerdoelen": {
+			"_meta": {
+				"flip": false
+			},
+			"hoe de Nederlandse economie vanaf 1945 werd hersteld en vernieuwd.": "Na 1945 werd de wederopbouw snel voltooid en de economie gemoderniseerd. Nederlanders werkten hard en waren zuinig en gezagsgetrouw. Dankzij de economische groei ontstond vanaf 1956 welvaart.",
+			"hoe de verzorgingsstaat werd opgebouwd.": "Regeringen van confessionelen met socialisten of liberalen bouwden met wetten voor de sociale zekerheid de verzorgingsstaat op.",
+			"hoe vanaf de jaren 1960 nieuwe opvattingen ontstonden.": "Door de auto en televisie maakten mensen kennis met andere culturen en levensbeschouwingen en daardoor veranderden hun opvattingen. Ze werden minder gelovig en wilden eigen keuzes maken en meer medezeggenschap.",
+			"hoe de pluriformiteit in de samenleving groter werd.": "De verhouding tussen mannen en vrouwen werd minder ongelijk. Mensen gingen vrijer om met seks. Jongeren werden minder gehoorzaam en ontwikkelden een eigen jongerencultuur. De westerse cultuur veranderde en de pluriformiteit in de samenleving nam toe."
+		},
+		"Paragraaf 2": {
+			"Burgemeester en Wethouders": "(B en W) dagelijks bestuur van de gemeente",
+			"burgerinitiatief": "voorstel waarover burgers de Tweede Kamer kunnen laten vergaderen",
+			"Commissaris van de koning": "voorzitter van het provinciebestuur",
+			"fractie": "leden van één politieke partij in de Eerste of Tweede Kamer, de Provinciale Staten of de gemeenteraad",
+			"gemeenteraad": "door de burgers van de gemeente gekozen vertegenwoordiging",
+			"ministeriële verantwoordelijkheid": "ministers zijn verantwoordelijk voor hun eigen daden en die van de koning",
+			"parlementaire onschendbaarheid": "een parlementslid kan niet vervolgd worden voor wat hij in vergaderingen van het parlement heeft gezegd",
+			"passief kiesrecht": "het recht je verkiesbaar te stellen",
+			"staatssecretaris": "onderminister",
+			"waterschap": "door burgers gekozen bestuur dat de waterhuishouding in een gebied regelt"
+		},
+		"Paragraaf 2 — Leerdoelen": {
+			"_meta": {
+				"flip": false
+			},
+			"hoe wetten tot stand komen en worden uitgevoerd.": "Na de watersnoodramp van 1953 stelde de regering de Deltawet op. Na goedkeuring door de Tweede en Eerste Kamer voerde de regering de wet uit.",
+			"hoe de regering en het parlement tot stand komen en werken.": "De regering bestuurt het land. De burgers kiezen de Tweede Kamer. Het parlement maakt samen met de regering wetten en controleert de ministers. Media zijn belangrijk voor het doorgeven van informatie.",
+			"hoe lagere overheden tot stand komen en werken.": "Burgers kiezen ook vertegenwoordigers voor het bestuur van provincies, gemeenten en waterschappen. De regering benoemt de voorzitters van de lagere overheden.",
+			"hoe het bestuur van het Koninkrijk der Nederlanden is geregeld.": "De vier landen van het Koninkrijk hebben eigen regeringen. De Rijksministerraad neemt besluiten over het hele Koninkrijk."
+		},
+		"Paragraaf 3": {
+			"_meta": {
+				"flip": false
+			},
+			"automatisering": "vervanging van mensen door uit zichzelf werkende machines",
+			"basiswaarden": "waarden die ten grondslag liggen aan de samenleving",
+			"informatiemaatschappij": "samenleving waarin mensen veel ICT gebruiken",
+			"klassieke grondrechten": "(vrijheidsrechten) rechten in de grondwet die de vrijheden van burgers beschermen",
+			"open samenleving": "samenleving waarin mensen openstaan voor kritiek en nieuwe ideeën",
+			"participatiesamenleving": "samenleving waarin mensen hun verantwoordelijkheid nemen voor hun eigen leven en omgeving",
+			"populistisch": "als iemand de kant van het volk kiest en zich afzet tegen de heersende elite",
+			"postindustriële": "samenleving samenleving waarin de dienstensector belangrijker is geworden dan de industriesector",
+			"sociale grondrechten": "rechten in de grondwet die het welzijn van burgers bevorderen"
+		},
+		"Paragraaf 3 — Leerdoelen": {
+			"_meta": {
+				"flip": false
+			},
+			"hoe de economie zich ontwikkelde vanaf 1973.": "1973 begon een economische crisis. In postindustrieel Nederland ontstond de informatiemaatschappij.",
+			"hoe de verzorgingsstaat werd beperkt.": "Vanwege de kosten werd verzorgingsstaat beperkt en vervangen door de participatiesamenleving.",
+			"hoe de samenleving veranderde (tot jaren 1990).": "In de jaren 1990 ontstond kritiek op de individualisering, de immigratie en de groeiende verschillen tussen arm en rijk. Dit leidde tot populisme en versnippering in de politiek.",
+			"wat in 1983 veranderde in de grondwet.": "De veranderde mentaliteit vanaf de jaren 1960 leidde in 1983 tot een uitbreiding van grondwet met het discriminatieverbod en sociale grondrechten."
+		},
+		"Paragraaf 4": {
+			"_meta": {
+				"flip": false
+			},
+			"asiel": "bescherming",
+			"asielzoeker": "iemand die asiel vraagt",
+			"assimilatie": "(assimileren) aanpassing",
+			"terrorist": "iemand die gewelddaden pleegt om politieke doelen te bereiken",
+			"multi-etnische samenleving": "maatschappij met mensen uit meerdere volken",
+			"pushfactor": "verklaring voor migratie in het land van herkomst",
+			"pullfactor": "verklaring voor migratie in het land van aankomst"
+		},
+		"Paragraaf 4 — Leerdoelen": {
+			"_meta": {
+				"flip": false
+			},
+			"hoe de integratie van migranten uit voormalige kolonies in Nederland verliep.": "Na 1945 vestigden Indische Nederlanders, Molukkers, Surinamers, Antillianen en Arubanen zich vanuit uit de voormalige kolonies in Nederland. De integratie verliep bij een groot deel van deze migranten goed; bij de ene groep ging het vlotter dan bij de andere.",
+			"waardoor arbeidsmigranten naar Nederland kwamen en hoe hun integratie verliep.": "Vanaf 1950 kwamen arbeidsmigranten uit landen rondom de Middellandse Zee. Hiervan bleven veel Turkse en Marokkaanse mannen met hun gezinnen. Hun integratie werd bemoeilijkt door de grote verschillen tussen hun cultuur en de Nederlandse cultuur.",
+			"welke asielzoekers naar Nederland kwamen.": "Na 1990 kwamen veel asielzoekers naar Nederland uit oorlogsgebieden en onveilige en arme landen in Afrika en Azië.",
+			"waardoor spanningen in de multiculturele samenleving ontstonden.": "Na aanslagen door moslims ontstonden spanningen in de Nederlandse multiculturele samenleving."
+		},
+		"Paragraaf 5": {
+			"_meta": {
+				"flip": false
+			},
+			"bestuursrecht": "regels voor de overheid",
+			"officier van justitie": "vertegenwoordiger van het Openbaar Ministerie",
+			"Openbaar Ministerie (OM)": "deel van de overheid dat strafbare feiten opspoort en vervolgt",
+			"strafrecht": "regels voor het bestraffen van overtredingen en misdrijven"
+		},
+		"Paragraaf 5 — Leerdoelen": {
+			"_meta": {
+				"flip": false
+			},
+			"wat het betekent om in de Nederlandse rechtsstaat te leven.": "In de Nederlandse rechtsstaat zijn rechten en plichten van burgers en overheid vastgelegd in wetten. Burgers worden beschermd door de wetten en door de onafhankelijkheid van rechters.",
+			"hoe de rechtspraak werkt.": "Alleen de overheid mag wetsovertreders straffen. Burgers kunnen voor rechtbanken te maken krijgen met strafrecht, burgerlijke recht en bestuursrecht."
+		},
+		"Tijdlijn": {
+			"_meta": {
+				"flip": true
+			},
+			"Duitse bezetting van Nederland": "1940–1945",
+			"Kouse Oorlog": "1945–1989",
+			"eerste uitkering voor ouderen": "1947",
+			"start van televisie in Nederland": "1951",
+			"grondwetswijziging": "1983",
+			"einde van de Deltawerken": "1986",
+			"eerste homohuwelijken": "2002",
+			"Arib wordt voorzitter van de Tweede Kamer": "2016"
+		},
+		"Kenmerkende Aspecten": {
+			"_meta": {
+				"flip": false
+			},
+			"Kenmerkend Aspect 10D": "sociaal-culturele veranderingen en toenemende pluriformiteit vanaf de jaren 1960"
 		}
 	}
 }
