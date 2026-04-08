@@ -39,18 +39,16 @@ jobs:
               print(f"❌ Schema file {schema_path} is not valid JSON: {e}")
               sys.exit(1)
 
-          files = [f for f in glob.glob("**/*.json", recursive=True)
+          # Grab all subject files
+          files = [f for f in glob.glob("Vakken/**/*.json", recursive=True) 
                    if not f.startswith(".git/")]
 
-          # Skip the schema file itself from validation
-          files_to_validate = [f for f in files if f != schema_path]
-
-          if not files_to_validate:
+          if not files:
               print("No JSON files found (excluding schema).")
               sys.exit(0)
 
           failed = False
-          for f in sorted(files_to_validate):
+          for f in sorted(files):
               try:
                   with open(f, "r", encoding="utf-8") as fh:
                       data = json.load(fh)
