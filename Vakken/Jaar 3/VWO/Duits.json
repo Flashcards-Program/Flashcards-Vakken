@@ -1,0 +1,371 @@
+{
+	"Kapitel 1": {
+		"Lektion 1": {
+			"_meta": {
+				"flip": false
+			},
+			"ebenfalls": "ook, tevens, eveneens",
+			"der Einfluss": "de invloed",
+			"die Erholung": "de ontspanning",
+			"der Felsen": "de rots",
+			"flach": "vlak",
+			"hügelig": "heuvelachtig",
+			"die Insel": "het eiland",
+			"die Küste": "de kust",
+			"in der Nähe": "in de buurt",
+			"der Wald": "het bos",
+			"weich": "zacht",
+			"zwischen": "tussen"
+		},
+		"Lektion 2": {
+			"_meta": {
+				"flip": false
+			},
+			"außerdem": "bovendien",
+			"bestätigen": "bevestigen",
+			"buchen": "boeken",
+			"das Fenster": "het raam",
+			"kaum": "nauwelijks",
+			"der Prospekt": "de folder",
+			"die Sachen": "de spullen",
+			"schicken": "sturen",
+			"vergessen": "vergeten",
+			"vermieten": "verhuren",
+			"der Vertrag": "het contract",
+			"vor kurzem": "kort geleden"
+		},
+		"Lektion 3": {
+			"_meta": {
+				"flip": false
+			},
+			"de pinpas": "die EC-Karte | die EC-Karten",
+			"de gevonden voorwerpen": "die Fundsachen",
+			"de handdoek": "das Handtuch | die Handtücher",
+			"het mobieltje": "das Handy | die Handys",
+			"het luchtbed": "die Luftmatratze | die Luftmatratzen",
+			"het paspoort": "der Reisepass | die Reisepässe",
+			"de reistas": "die Reisetasche | die Reisetaschen",
+			"de slaapzak": "der Schlafsack | die Schlafsäcke",
+			"de zonnebril": "die Sonnenbrille | die Sonnenbrillen",
+			"de zonnebrandcrème": "die Sonnencreme | die Sonnencremes",
+			"de parasol": "der Sonnenschirm | die Sonnenschirme",
+			"het zakmes": "das Taschenmesser | die Taschenmesser"
+		}
+	},
+	"Kapitel 3": {
+		"_meta": {
+			"pairs": {
+				"Redemittel - sprechen": [
+					"Redemittel - sprechen",
+					"Redemittel - sprechen | afspraak maken",
+					"Redemittel - sprechen | herhaling vragen",
+					"Redemittel - sprechen | ongeluk"
+				],
+				"Redemittel - schreiben": [
+					"Redemittel - schreiben | feest voorbereiden",
+					"Redemittel - schreiben | formele e-mail",
+					"Redemittel - schreiben | toewensen"
+				]
+			}
+		},
+		"Lektion 1": {
+			"_meta": {
+				"flip": false
+			},
+			"benötigen": "nodig hebben",
+			"deshalb": "daarom",
+			"die Erkältung": "de verkoudheid",
+			"die Ernährung": "de voeding",
+			"die Kälte": "de kou",
+			"der Körper": "het lichaam",
+			"die Krankheit": "de ziekte",
+			"die Menge": "de hoeveelheid, het aantal",
+			"oben": "boven",
+			"Recht haben": "gelijk hebben",
+			"übersetzen": "vertalen",
+			"verzichten auf": "afzien",
+			"zunächst": "zunächst"
+		},
+		"Lektion 2": {
+			"_meta": {
+				"flip": false
+			},
+			"bereits": "al",
+			"denn": "want",
+			"dennoch": "toch, echter",
+			"jedoch": "echter",
+			"obwohl": "hoewel",
+			"quer": "dwars",
+			"schwach": "zwak",
+			"sterben": "overleiden, sterven",
+			"der Termin": "de afspraak",
+			"verschieben": "verschuiven, verzetten",
+			"wunderbar": "heerlijk",
+			"zum Beispiel": "bijvoorbeeld"
+		},
+		"Lektion 3": {
+			"_meta": {
+				"flip": false
+			},
+			"het oog": "das Auge | die Augen",
+			"de buik": "der Bauch | die Bäuche",
+			"het been": "das Bein | die Beine",
+			"de voet": "der Fuß | die Füße",
+			"de keel, de hals": "der Hals | die Hälse",
+			"de hand": "die Hand | die Hände",
+			"het hoofd": "der Kopf | die Köpfe",
+			"de billen": "der Hintern | die Hintern",
+			"de rug": "der Rücken | die Rücken",
+			"de tand": "der Zahn | die Zähne"
+		},
+		"Redemittel - sprechen": {
+			"_meta": {
+				"flip": true
+			},
+			"Hoe gaat het met jou?": "Wie geht es dir?",
+			"Ik ben ziek / moe / zwak / niet fit.": "Ich bin krank / müde / schwach / nicht fit.",
+			"Ik heb het koud / heet.": "Mir ist kalt / heiß.",
+			"Ik ben duizelig.": "Mir ist schwindlig.",
+			"Ik hoest en ik ben verkouden": "Ich huste und ich bin erkältet.",
+	
+			"Waar heb je pijn?": "Was tut weh?",
+			"Ik heb hoofdpijn.": "Ich habe Kopfweh / Kophschmerzen.",
+			"Mijn oor doet zeer.": "Mein Ohr tut weh.",
+
+			"Heb je ook diarree?": "Hast du auch Durchfall?",
+			"Nee, maar ik voel me niet lekker.": "Nein, aber ich fühle mich nicht wohl.",
+			"Ontspan je en rust goed uit. / Ga veel wandelen. / Eet veel fruit en groente. / Drink veel. / Beterschap!": "Entspann dich und ruh dich aus. / Geh viel spazieren. / Iss viel Obst und Gemüse. / Trink viel. / Gute Besserung!",
+
+			"Wat heb je?": "Was hast du?",
+			"Ik ben verkouden / heb koorts / griep / een verkoudheid.": "Ich habe Schnupfen / Fieber / Grippe / eine Erkältung.",
+
+			"Dat spijt me. Was je al bij de dokter?": "Das tut mir leid. Warst du schon beim Arzt?",
+			"Ja. Hij heeft me tabletten / medicijnen / druppels voorgeschreven.": "Ja. Er hat mir Tabletten / Medikamente / Tropfen verschrieben.",
+
+			"Moet je medicijnen innemen?": "Musst du Medikamente nehmen?",
+			"Ik moet twee / drie keer per dag een hoestsiroop drinken.": "Ich muss zwei- / dreimal pro Tag einen Hustensaft trinken.",
+
+			"Wat doe je voor je gezondheid?": "Was machst du für deine Gesundheit?",
+			"Ik sport / doe veel aan beweging / ga met de hond wandelen.": "Ich mache Sport / bewege mich viel / gehe mit dem Hund spazieren."
+		},
+		"Redemittel - sprechen | afspraak maken": {
+			"_meta": {
+				"flip": true
+			},
+			"Ik zou graag een afspraak willen maken.": "Ich möchte gern einen Termin machen.",
+			"Kan ik voor vandaag nog een afspraak maken?": "Haben Sie heute noch einen Termin frei?"
+		},
+		"Redemittel - sprechen | herhaling vragen": {
+			"_meta": {
+				"flip": true
+			},
+			"Het spijt me, ik begrijp je / u niet.": "Tut mir leid, ich verstehe dich / Sie nicht.",
+			"Wat zeg je? Kun je dat nog eens zeggen?": "Wie bitte? Kannst du das noch einmal sagen?",
+			"Kan je langzamer spreken?": "Kannst du bitte langsamer sprechen?",
+			"Hoe zeg je dat in het Duits?": "Wie sagt man das auf Deutsch?",
+			"Sorry, hoe heet dit in het Duits?": "Entschuldigung, wie heißt das auf Deutsch?",
+			"Ik ken dit woord niet. Kun je het uitleggen?": "Ich kenne dieses Wort nicht. Kannst du es erklären?"
+		},
+		"Redemittel - sprechen | ongeluk": {
+			"_meta": {
+				"flip": true
+			},
+			"Er is iets ergs gebeurd.": "Es ist etwas Schlimmes passiert.",
+			"Hij belt de ambulance op / Hij belt 112.": "Er ruft die Rettung an.",
+			"De arts onderzoekt mij / haar / hem.": "Der Arzt / Die Ärztin untersuch mich / sie / ihn.",
+			"Ik moet een paar dagen in het ziekenhuis blijven.": "Ich muss ein paar Tage im Krankenhause bleiben."
+		},
+		"Lektion 4": {
+			"_meta": {
+				"flip": false
+			},
+			"bisher": "tot nu toe",
+			"dazugehören": "erbij horen",
+			"das Feuren": "het vuur",
+			"die Freude": "het plezier, de vreugde",
+			"gleich": "zo, straks, meteen",
+			"das Glück": "het geluk",
+			"heiß": "heet",
+			"das Loch": "het gaatje, het gat",
+			"oft": "vaak",
+			"die Süßigkeiten": "de snoep",
+			"der Teufel": "de duivel",
+			"unterschiedlich": "verschillend"
+		},
+		"Lektion 5": {
+			"_meta": {
+				"flip": false
+			},
+			"sich ausruhen": "uitrusten",
+			"die Bescherung": "de pakjesavond",
+			"die Dose": "het blikje, de koektrommel",
+			"glänzen": "glimmen, glanzen",
+			"der Lebkuchen": "(een soort) taaitaai",
+			"losgehen": "beginnen, van start gaan",
+			"das Plätzchen": "het koekje",
+			"riechen": "ruiken",
+			"das Spielzeug": "het speelgoed",
+			"witzig": "grappig",
+			"der Wunschzettel": "het verlanglijstje",
+			"die Zukunft": "de toekomst"
+		},
+		"Lektion 6": {
+			"_meta": {
+				"flip": false
+			},
+			"het kindje Jezus": "das Christkind",
+			"de feestdag": "der Feiertag | die Feiertage",
+			"de verjaardag": "der Geburtstag | die Geburtstage",
+			"kerstavond": "der Heiligabend",
+			"de bruiloft": "die Hochzeit | die Hochzeiten",
+			"nieuwjaarsdag": "der Neujahrstag",
+			"Sinterklaas": "der Nikolaus",
+			"Pasen": "Ostern",
+			"carnavalsmaandag": "der Rosenmontag",
+			"oudejaarsdag": "das / der Silvester",
+			"Kerstmis": "Weihnachten",
+			"het Suikerfeest": "das Zuckerfest"
+		},
+		"Redemittel - schreiben | feest voorbereiden": {
+			"_meta": {
+				"flip": false
+			},
+			"Ik maak een verjaardagstaart.": "Ich backe eine Geburtstagtorte.",
+			"Ik nodig mijn vrienden uit.": "Ich lade meine Freunde ein.",
+			"Ik vier mijn verjaardag ieder jaar / niet.": "Ich feiere meinen Geburtstag jedes Jahr / nicht.",
+			"We krijgen kerstkaarten.": "Wir bekommen Weihnachtskarten.",
+			"We sturen wenskaarten.": "Wir schicken Grußkarten.",
+			"We trekken lootjes en kopen voor deze persoon een cadeau.": "Wir ziehen Lose und kaufen für diese Person ein Geschenk.",
+			"We ruimen het huis op en maken schoon.": "Wir räumen das Hauf auf und putzen.",
+			"We vieren samen met de hele familie.": "Wir feiern zusammen mit der ganzen Familie.",
+			"Wij eten voor / pas nadat we de cadeautjes hebben gekregen.": "Wir essen vor / erst nach der Bescherung.",
+			"Wij zingen liederen / lezen het kerstverhaal / maken samen muziek.": "Wir singen Lieder, lesen die Weihnachtsgeschichte / machen zusammen Musik.",
+			"Als toetje eten we koekjes.": "Zum Nachtisch essen wir Kekse.",
+			"We gaan naar buiten en steken vuurwerk af.": "Wir gehen nach draußen und zünden Feuerwerk an.",
+			"Om stipt traalf uur toosten wij op het nieuwe jaar.": "Um Punkt zwölf stoßen wir auf das neue Jar an.",
+			"Ik heb goede voornemens voor het komende jaar.": "Ich habe gute Vorsätze für das nächste Jahr.",
+			"Mijn vader wil meer sporten en afvallen.": "Mein Vater will mehr Sport machen und abnehmen."
+		},
+		"Redemittel - schreiben | formele e-mail": {
+			"_meta": {
+				"flip": false
+			},
+			"Geachte heer ... / mevrouw ...,": "Sehr geehrte Frau ... / Sehr geehrter Herr ... / Seht geehrte Damen und Herren,",
+			"Ik wil graag twee tweepersoonskamers reserveren.": "ich möchte gern zwei Doppelzimmer reservieren.",
+			"Wij willen graag een kamer met ontbijt / halfpension / volpension.": "Wir möchten ein Zimmer mit Frühstück / mit Halbpension / mit Vollpension.",
+			"Met vriendelijke groeten,": "Met freundlichen Grüßen"
+		},
+		"Redemittel - schreiben | toewensen": {
+			"_meta": {
+				"flip": false
+			},
+			"Beterschap! / Ik wens je beterschap!": "Gute Besserung! / Ich wünsche dir gute Besserung!",
+			"Het beste / veel geluk / veel succes!": "Alles Gute / viel Glück / viel Erfolg!",
+			"Prettige kerstdagen / Fijne Pasen / Een gelukkig nieuwjaar!": "Frohe Weihnachten / Frohe Ostern / Ein frohes neues Jahr!"
+		}
+	},
+	"Kapitel 4": {
+		"Lektion 1": {
+			"_meta": {
+				"flip": false
+			},
+			"die Aussicht": "het uitzicht",
+			"die Börse": "de beurs",
+			"das Denkmal": "het monument",
+			"einfach": "gemakkelijk, eenvoudig",
+			"der Einwohner": "de inwoner",
+			"ehrenamtlich arbeiten": "vrijwilligerswerk doen",
+			"der Flughafen": "de luchthaven",
+			"das Hochhaus": "het flatgebouw",
+			"der Marktplatz": "het marktplein",
+			"das Rathaus": "het stadhuis",
+			"spenden": "doneren, schenken",
+			"der Wolkenkratzer": "de wolkenkrabber"
+		},
+		"Lektion 2": {
+			"_meta": {
+				"flip": false
+			},
+			"der Alltag": "het dagelijks leven",
+			"sich ändern": "veranderen",
+			"bislang": "tot nu toe",
+			"dreckig": "vies",
+			"genervt": "geïrriteerd",
+			"hoffentlich": "hopelijk",
+			"lebenswert": "waard om in te leven",
+			"die Luft": "de lucht",
+			"notwendig": "noodzakelijk",
+			"sogar": "zelfs",
+			"verschmutzen": "vervullen",
+			"das Viertel": "de wijk"
+		},
+		"Lektion 3": {
+			"_meta": {
+				"flip": false
+			},
+			"de apotheek": "die Apotheke | die Apotheken",
+			"de bakkerij": "die Bäckerei | die Bäckereien",
+			"de bank": "die Bank | die Banken",
+			"het café": "das Café | die Cafés",
+			"het winkelcentrum": "das Einkaufszentrum | die Einkaufszentren",
+			"het centraal station": "der Hauptbahnhof | die Hauptbahnhöfe",
+			"de bioscoop": "das Kino | die Kinos",
+			"het museum": "das Museum | die Museen",
+			"het politiebureau": "das Polizeiwache | die Polizeiwachen",
+			"de supermarkt": "der Supermarkt | die Supermärkte",
+			"de schouwburg": "das Theater | die Theater",
+			"het VVV-kantoor": "die Touristeninformation | die Touristeninformationen"
+		},
+		"Lektion 4": {
+			"_meta": {
+				"flip": false
+			},
+			"drinnen": "binnen",
+			"der Feind": "de vijand",
+			"das Geräusch": "het geluid",
+			"der Karton": "de doos",
+			"das Klo": "de wc",
+			"pennen": "slapen",
+			"schlau": "slim",
+			"sobald": "zodra",
+			"verhindern": "vermijden, voorkomen",
+			"wach": "wakker",
+			"die Wand": "de muur",
+			"das Zimmer": "de kamer"
+		},
+		"Lektion 5": {
+			"_meta": {
+				"flip": false
+			},
+			"bequem": "gemakkelijk, comfortabel",
+			"die Ecke": "de hoek",
+			"einziehen": "verhuizen naar, intrekken",
+			"knapp": "schaars, krap",
+			"der Kunde": "de klant",
+			"das Mietshaus": "het huurhuis",
+			"praktisch": "handig",
+			"der Rabatt": "de korting",
+			"der Raum": "he vertrek, de ruimte",
+			"trotz": "ondanks",
+			"umziehen": "verhuizen",
+			"die Werbung": "de reclame"
+		},
+		"Lektion 6": {
+			"_meta": {
+				"flip": false
+			},
+			"de boekenkast": "der Bücherschrank | die Bücherschränke",
+			"het raam": "das Fenster | die Fenster",
+			"de vloer": "der Fußboden | die Fußboden",
+			"het gordijn": "die Gardine | die Gardinen",
+			"het krukje": "der Hocker | die Hocker",
+			"het kussen": "das Kissen | die Kissen",
+			"de lamp": "die Lampe | die Lampen",
+			"het bureau": "der Schreibtisch | die Schreibtische",
+			"de luie stoel, faulteuil": "der Sessel | die Sessel",
+			"de bank": "das Sofa | die Sofas",
+			"de stoel": "der Stuhl | die Stühle",
+			"het vloerkleed": "der Teppich | die Teppiche"
+		}
+	}
+}

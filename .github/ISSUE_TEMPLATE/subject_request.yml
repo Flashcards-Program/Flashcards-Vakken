@@ -1,0 +1,60 @@
+name: "Vak Request"
+description: "Kies Leerjaar, Onderwijsniveau en Schoolvak. Voeg optioneel notities toe voor extra context, specificatie of urgentie."
+title: "Vak Request: "
+labels: ["enhancement"]
+
+body:
+  - type: dropdown
+    id: leerjaar
+    attributes:
+      label: "Leerjaar"
+      description: "Selecteer het Leerjaar."
+      options:
+        - Jaar 1
+        - Jaar 2
+        - Jaar 3
+        - Jaar 4
+        - Jaar 5
+        - Jaar 6
+    validations:
+      required: true
+
+  - type: dropdown
+    id: onderwijsniveau
+    attributes:
+      label: "Onderwijsniveau"
+      description: "Kies het Onderwijsniveau."
+      options:
+        - Havo
+        - Havo/VWO
+        - VWO
+        - VWO/Gymnasium
+        - TL
+        - other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: schoolvak
+    attributes:
+      label: "Schoolvak"
+      description: "Kies het vak. Kijk wel of er specifieke begrippen zijn die makkelijk zijn in te voeren."
+      multiple: true
+      options:
+        - Frans
+        - Duits
+        - Geschiedenis
+        - NaSk
+        - Natuurkunde
+        - Scheikunde
+        - Economie
+        - Engels
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: "Notities (optioneel)"
+      description: "Extra info, urgentie, en/of welk hoofdstuk precies — laat leeg als niet van toepassing."
+      placeholder: "Bijv. Hoofdstuk 3.2 voor volgende week."

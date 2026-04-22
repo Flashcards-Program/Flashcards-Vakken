@@ -1,0 +1,9 @@
+# Config for issue templates
+# Set blank_issues_enabled to false to encourage using the form(s)
+blank_issues_enabled: false
+
+# Optional: contact links shown at top of new issue page (adjust to your repo/org)
+contact_links:
+  - name: "Community / Discussie"
+    url: "https://github.com/your-org/your-repo/discussions"
+    about: "Algemene vragen en discussie — geen issue-rapporteringskanaal."
